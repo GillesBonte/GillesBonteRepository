@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MuziekSpeler": {
+      "commandName": "Project",
+      "hotReloadEnabled": true,
+      "nativeDebugging": true,
+      "sqlDebugging": false,
+      "jsWebView2Debugging": false
+    }
+  }
+}
