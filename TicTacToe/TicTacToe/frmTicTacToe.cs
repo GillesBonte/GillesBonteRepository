@@ -11,13 +11,15 @@ namespace TicTacToe
 
         private void btnPlay_Click(object sender, EventArgs e)
         {
+            //must define the object as button to get the proper commands
             Button btnClicked = (Button)sender;
 
+            //when counter even put text on the clicked button as X
             if (_counter % 2 == 0)
             {
                 btnClicked.Text = "X";
             }
-            else
+            else //otherwise as O
             {
                 btnClicked.Text = "O";
             }
