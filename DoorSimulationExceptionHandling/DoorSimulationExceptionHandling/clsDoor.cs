@@ -30,11 +30,20 @@ namespace DoorSimulationExceptionHandling
         public void OpenDoor()
         {
 
+            if (DoorLocked)
+            {
+
+            }
+
         }
 
         public void CloseDoor()
         {
 
+        }
+
+        private void LogDoorError()
+        { 
         }
 
     }
