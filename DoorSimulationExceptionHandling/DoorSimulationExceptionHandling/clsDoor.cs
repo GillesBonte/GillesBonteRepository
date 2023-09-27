@@ -8,9 +8,9 @@ namespace DoorSimulationExceptionHandling
 {
     public class Door
     {
-        public Door(bool blnPosition, bool blnLocked)
+        public Door(bool blnOpened, bool blnLocked)
         {
-            DoorOpened = blnPosition;
+            DoorOpened = blnOpened;
             DoorLocked = blnLocked;
         }
 
@@ -19,7 +19,7 @@ namespace DoorSimulationExceptionHandling
 
         public void LockDoor()
         {
-
+            
         }
 
         public void UnlockDoor()
@@ -32,7 +32,13 @@ namespace DoorSimulationExceptionHandling
 
             if (DoorLocked)
             {
-
+                throw new ExceptionDoorLocked("Door can't be opened while locked.");
+                
+            }
+            else
+            {
+                DoorOpened = true;
+                Console.WriteLine("Door has been opened.");
             }
 
         }
