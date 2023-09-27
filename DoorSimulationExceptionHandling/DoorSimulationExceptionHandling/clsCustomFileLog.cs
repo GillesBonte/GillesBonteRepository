@@ -8,7 +8,7 @@ namespace DoorSimulationExceptionHandling
 {
     public static class CustomFileLog
     {
-        const string _logPath = @"C:\Temp\Logging";
+        const string _logPath = @"C:\SyntraWestTemp\Logging";
 
         public static void AddErrorLog(string message)
         {
