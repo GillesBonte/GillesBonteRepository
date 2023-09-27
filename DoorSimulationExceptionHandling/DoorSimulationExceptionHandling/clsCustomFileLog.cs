@@ -14,7 +14,7 @@ namespace DoorSimulationExceptionHandling
         {
             //Create directory if it does not exists
             Directory.CreateDirectory(_logPath);
-            File.AppendAllText(_logPath + "/logDoorSimulation.txt", string.Format("{0} - {1}" + Environment.NewLine, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss:fff"), message));
+            File.AppendAllText(_logPath + "/logDoorSimulation.txt", string.Format("{0}\n{1}" + Environment.NewLine, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss:fff"), message + "\n"));
         }
     }
 }
