@@ -14,4 +14,12 @@ namespace DoorSimulationExceptionHandling
 
     }
 
+    public class ExceptionDoorOpened : Exception
+    {
+        public ExceptionDoorOpened(string? message) : base(message)
+        {
+        }
+
+    }
+
 }

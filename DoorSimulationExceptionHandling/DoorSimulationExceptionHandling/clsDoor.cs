@@ -19,7 +19,15 @@ namespace DoorSimulationExceptionHandling
 
         public void LockDoor()
         {
-            
+            if (DoorOpened) 
+            {
+                throw new ExceptionDoorOpened("Door can't be locked while open.");
+            }
+            else
+            {
+                Console.WriteLine("Door has been locked.");
+            }
+
         }
 
         public void UnlockDoor()
@@ -33,7 +41,6 @@ namespace DoorSimulationExceptionHandling
             if (DoorLocked)
             {
                 throw new ExceptionDoorLocked("Door can't be opened while locked.");
-                
             }
             else
             {
