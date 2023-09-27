@@ -8,9 +8,14 @@ namespace DoorSimulationExceptionHandling
 {
     public class Door
     {
-        public Door()
-        { 
+        public Door(bool blnPosition, bool blnLocked)
+        {
+            DoorOpened = blnPosition;
+            DoorLocked = blnLocked;
         }
+
+        public bool DoorOpened { get; set; }
+        public bool DoorLocked { get; set; }
 
         public void LockDoor()
         {
