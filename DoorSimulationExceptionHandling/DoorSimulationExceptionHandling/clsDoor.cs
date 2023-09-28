@@ -23,6 +23,11 @@ namespace DoorSimulationExceptionHandling
             {
                 throw new ExceptionDoorOpened("Door can't be locked while open.");
             }
+            else if (DoorLocked)
+            {
+                throw new ExceptionDoorAlreadyLocked("Door is already locked.");
+
+            }
             else
             {
                 Console.WriteLine("Door has been locked.");
@@ -37,7 +42,11 @@ namespace DoorSimulationExceptionHandling
 
         public void OpenDoor()
         {
+            if (DoorOpened)
+            {
+                throw new ExceptionDoorAlreadyOpen("Door can't be opened while already open.");
 
+            }
             if (DoorLocked)
             {
                 throw new ExceptionDoorLocked("Door can't be opened while locked.");

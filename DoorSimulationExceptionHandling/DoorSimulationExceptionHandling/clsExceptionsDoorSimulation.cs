@@ -22,4 +22,19 @@ namespace DoorSimulationExceptionHandling
 
     }
 
+    public class ExceptionDoorAlreadyOpen : Exception
+    {
+        public ExceptionDoorAlreadyOpen(string? message) : base(message)
+        {
+        }
+
+    }
+
+    public class ExceptionDoorAlreadyLocked : Exception
+    {
+        public ExceptionDoorAlreadyLocked(string? message) : base(message)
+        {
+        }
+
+    }
 }
