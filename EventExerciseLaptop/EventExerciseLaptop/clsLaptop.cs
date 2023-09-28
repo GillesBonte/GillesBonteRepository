@@ -9,8 +9,11 @@ namespace EventExerciseLaptop
 {
     public class Laptop
     {
+        public event EventHandler PoweredOn;
+        public event EventHandler PoweredOff;
         public Laptop()
-        { 
+        {
+            Powered = false;
         }
 
         public bool Powered { get; set; }
