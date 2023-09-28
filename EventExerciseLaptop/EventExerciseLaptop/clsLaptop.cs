@@ -20,10 +20,12 @@ namespace EventExerciseLaptop
 
         public void PowerOn()
         {           
+            //TO DO: after 5 seconds, invoke the PoweredOn event;
         }
         
         public void PowerOff()
         {
+            //TO DO: after 3 seconds, invoke the PoweredOff event;
         }
 
     }
