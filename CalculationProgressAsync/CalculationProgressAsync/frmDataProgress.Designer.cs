@@ -28,19 +28,41 @@
         /// </summary>
         private void InitializeComponent()
         {
+            btnStart = new Button();
+            pbCalculations = new ProgressBar();
             SuspendLayout();
+            // 
+            // btnStart
+            // 
+            btnStart.Location = new Point(15, 13);
+            btnStart.Name = "btnStart";
+            btnStart.Size = new Size(474, 256);
+            btnStart.TabIndex = 0;
+            btnStart.Text = "Start";
+            btnStart.UseVisualStyleBackColor = true;
+            btnStart.Click += btnStart_Click;
+            // 
+            // pbCalculations
+            // 
+            pbCalculations.Location = new Point(12, 275);
+            pbCalculations.Name = "pbCalculations";
+            pbCalculations.Size = new Size(477, 28);
+            pbCalculations.TabIndex = 1;
             // 
             // frmDataProgress
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(504, 315);
+            Controls.Add(pbCalculations);
+            Controls.Add(btnStart);
             Name = "frmDataProgress";
             Text = "Calculation Progress";
-            Load += Form1_Load;
             ResumeLayout(false);
         }
 
         #endregion
+        private Button btnStart;
+        private ProgressBar pbCalculations;
     }
 }
