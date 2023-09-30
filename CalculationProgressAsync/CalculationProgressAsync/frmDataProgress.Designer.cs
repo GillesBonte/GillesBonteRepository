@@ -30,13 +30,13 @@
         {
             SuspendLayout();
             // 
-            // Form1
+            // frmDataProgress
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "frmDataProgress";
+            Text = "Calculation Progress";
             Load += Form1_Load;
             ResumeLayout(false);
         }
