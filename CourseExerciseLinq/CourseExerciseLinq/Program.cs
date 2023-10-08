@@ -6,7 +6,8 @@ using System.Runtime.CompilerServices;
 Courses courses = new Courses();
 IEnumerable<Course> queryResult;
 //queryResult = MoreThanFifteen(courses);
-queryResult = DayCourses(courses);
+//queryResult = DayCourses(courses);
+queryResult = CoursesPerTeacher(courses);
 
 foreach (Course course in queryResult)
 {
@@ -31,6 +32,17 @@ static IEnumerable<Course> DayCourses(Courses courses)
     var result = from course in courses
                  where course.Periode.Equals(Course.Period.Day)
                  select course;
+
+    return result;
+}
+
+static IEnumerable<Course> CoursesPerTeacher(Courses courses)
+{
+
+    var result = from course in courses
+                 group course by course.Teacher into courseGroup
+                 from courseInGroup in courseGroup
+                 select courseInGroup;
 
     return result;
 }
