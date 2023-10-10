@@ -4,14 +4,16 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 
 Courses courses = new Courses();
-IEnumerable<Course> queryResult;
+IEnumerable<string> queryResult;
 //queryResult = MoreThanFifteen(courses);
 //queryResult = DayCourses(courses);
-queryResult = CoursesPerTeacher(courses);
+//queryResult = CoursesPerTeacher(courses);
+//queryResult = AllCourses(courses);
+queryResult = CoursesPerPeriod(courses);
 
-foreach (Course course in queryResult)
+foreach (string item in queryResult)
 {
-    Console.WriteLine($"{course.Teacher}\t{course.Room}\t{course.StudentCount}\t{course.Periode}");
+    Console.WriteLine(item);
 }
 
 Console.ReadLine();
@@ -26,26 +28,42 @@ static IEnumerable<Course> MoreThanFifteen(Courses courses)
     return result;
 }
 
-static IEnumerable<Course> DayCourses(Courses courses)
+static IEnumerable<string> DayCourses(Courses courses)
 {
 
     var result = from course in courses
                  where course.Periode.Equals(Course.Period.Day)
-                 select course;
+                 select $"{course}";
 
     return result;
 }
 
-static IEnumerable<Course> CoursesPerTeacher(Courses courses)
+static IEnumerable<string> CoursesPerTeacher(Courses courses)
 {
 
-    var result = from course in courses
-                 group course by course.Teacher into courseGroup
-                 from courseInGroup in courseGroup
-                 select courseInGroup;
+    IEnumerable<string> result = from course in courses
+                                 group course by course.Teacher into groupTeachers
+                                 select $"{groupTeachers.Key} - {groupTeachers.Count()}";
 
     return result;
 }
+
+static IEnumerable<string> AllCourses(Courses courses)
+{
+    IEnumerable<string> result = from course in courses
+                                 select $"{course.Teacher} - {course.Room} - {course.Duration}";
+    return result;
+}
+
+static IEnumerable<string> CoursesPerPeriod(Courses courses)
+{
+    IEnumerable<string> result = from course in courses
+                                 group course by course.Periode into groupPeriod
+                                 select $"{groupPeriod.Key} - {groupPeriod.Count()}";
+    return result;
+}
+
+
 
 
 
