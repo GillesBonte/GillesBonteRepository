@@ -169,6 +169,7 @@
             btnAdd.TabIndex = 14;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // frmAddToDo
             // 
@@ -192,6 +193,7 @@
             Controls.Add(label1);
             Name = "frmAddToDo";
             Text = "Add To Do";
+            Load += frmAddToDo_Load;
             ResumeLayout(false);
             PerformLayout();
         }
