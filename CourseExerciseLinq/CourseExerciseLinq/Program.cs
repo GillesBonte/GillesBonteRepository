@@ -55,6 +55,7 @@ static IEnumerable<string> AllCourses(Courses courses)
     return result;
 }
 
+
 static IEnumerable<string> CoursesPerPeriod(Courses courses)
 {
     IEnumerable<string> result = from course in courses
