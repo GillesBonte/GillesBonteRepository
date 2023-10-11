@@ -6,5 +6,11 @@ namespace ExampleExamTaskList
         {
             InitializeComponent();
         }
+
+        private void btnAddToDo_Click(object sender, EventArgs e)
+        {
+            frmAddToDo frmAddToDo = new frmAddToDo();
+            frmAddToDo.ShowDialog();
+        }
     }
 }

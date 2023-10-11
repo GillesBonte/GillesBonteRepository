@@ -85,6 +85,7 @@
             btnAddToDo.TabIndex = 4;
             btnAddToDo.Text = "Add To Do";
             btnAddToDo.UseVisualStyleBackColor = true;
+            btnAddToDo.Click += btnAddToDo_Click;
             // 
             // btnGroupByWeek
             // 
