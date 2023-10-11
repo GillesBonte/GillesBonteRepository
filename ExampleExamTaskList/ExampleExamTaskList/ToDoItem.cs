@@ -14,7 +14,6 @@ namespace ExampleExamTaskList
         public string Executer {  get; set; }
         public string Location { get; set; }
         public DateTime DateExecuted { get; set; }
-
             
     }
 
