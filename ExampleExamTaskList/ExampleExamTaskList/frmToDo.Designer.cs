@@ -104,6 +104,7 @@
             btnImportToDo.TabIndex = 6;
             btnImportToDo.Text = "Import To Do List";
             btnImportToDo.UseVisualStyleBackColor = true;
+            btnImportToDo.Click += btnImportToDo_Click;
             // 
             // btnCompleteToDo
             // 
@@ -113,6 +114,7 @@
             btnCompleteToDo.TabIndex = 7;
             btnCompleteToDo.Text = "Complete To Do";
             btnCompleteToDo.UseVisualStyleBackColor = true;
+            btnCompleteToDo.Click += btnCompleteToDo_Click;
             // 
             // btnGroupByExecuter
             // 
@@ -131,6 +133,7 @@
             btnCompleted.TabIndex = 9;
             btnCompleted.Text = "Completed To Do's";
             btnCompleted.UseVisualStyleBackColor = true;
+            btnCompleted.Click += btnCompleted_Click;
             // 
             // btnToComplete
             // 

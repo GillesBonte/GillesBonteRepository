@@ -8,6 +8,13 @@ namespace ExampleExamTaskList
 {
     public class HomeWork : ToDoItem
     {
+        public override string ToString()
+        {
+            return this.Name;
+        }
+
     }
+
+
 
 }

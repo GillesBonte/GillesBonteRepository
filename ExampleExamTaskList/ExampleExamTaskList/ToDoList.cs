@@ -8,6 +8,7 @@ namespace ExampleExamTaskList
 {
     public class ToDoList<T> : List<T> where T : ToDoItem
     {
+
     }
 
 }

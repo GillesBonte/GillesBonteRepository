@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace ExampleExamTaskList
 {
-    public class OutsideWork : ToDoItem
+    public class CustomEventArgs : EventArgs
     {
-        public override string ToString()
+        public CustomEventArgs(ToDoItem toDoItem)
         {
-            return this.Name;
+            ToDoItem = toDoItem;
         }
+
+        public ToDoItem ToDoItem {  get; set; }
+
 
     }
 

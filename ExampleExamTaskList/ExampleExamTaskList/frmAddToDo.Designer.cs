@@ -160,6 +160,7 @@
             btnAddClose.TabIndex = 13;
             btnAddClose.Text = "Add and Close";
             btnAddClose.UseVisualStyleBackColor = true;
+            btnAddClose.Click += btnAddClose_Click;
             // 
             // btnAdd
             // 
@@ -193,7 +194,6 @@
             Controls.Add(label1);
             Name = "frmAddToDo";
             Text = "Add To Do";
-            Load += frmAddToDo_Load;
             ResumeLayout(false);
             PerformLayout();
         }
