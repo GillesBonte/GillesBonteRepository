@@ -124,6 +124,7 @@
             btnGroupByExecuter.TabIndex = 8;
             btnGroupByExecuter.Text = "Group By Executer";
             btnGroupByExecuter.UseVisualStyleBackColor = true;
+            btnGroupByExecuter.Click += btnGroupByExecuter_Click;
             // 
             // btnCompleted
             // 

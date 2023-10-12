@@ -23,7 +23,7 @@ namespace ExampleExamTaskList
 
         private void btnAddToDo_Click(object sender, EventArgs e)
         {
-            _frmAddToDo.ShowDialog();
+            _frmAddToDo.Show();
         }
 
         private void ToDoItemCreated(object? sender, CustomEventArgs e)
@@ -98,6 +98,16 @@ namespace ExampleExamTaskList
                 }
             }
             UpdateList(_toDoList);
+        }
+
+        private void btnGroupByExecuter_Click(object sender, EventArgs e)
+        {
+            IEnumerable<ToDoItem> list = (from ToDoItem in _toDoList
+                                         group ToDoItem by ToDoItem.Executer into groupExecuter
+                                         from ToDoItem in groupExecuter
+                                         select ToDoItem) ;
+
+            UpdateList(list);
         }
     }
 
