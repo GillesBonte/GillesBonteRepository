@@ -15,6 +15,10 @@ namespace EventCalendarExerciseEvents
         {
             Event = e;
         }
+        public override string ToString()
+        {
+            return Event.Name.ToString();
+        }
 
     }
 
