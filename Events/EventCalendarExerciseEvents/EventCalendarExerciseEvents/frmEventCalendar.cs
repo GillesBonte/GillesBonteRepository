@@ -15,6 +15,8 @@ namespace EventCalendarExerciseEvents
 
             //EventCalendar.Add(eNieuwEvent);
             eventCalendar.Add(eNieuwEvent);
+
+            eventCalendar.Remove(eNieuwEvent);
         }
     }
 }
