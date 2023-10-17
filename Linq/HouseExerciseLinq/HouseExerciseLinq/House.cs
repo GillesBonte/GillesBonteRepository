@@ -23,6 +23,11 @@ namespace HouseExerciseLinq
         public decimal Squaremeter { get; set; }
         public Type TypeBuilding { get; set; }
 
+        public override string ToString()
+        {
+            return $"{this.Name}\t{this.Region}\t{this.Price}\t{this.BedroomCount}\t{this.Squaremeter}\t{this.TypeBuilding}";
+        }
+
     }
 
 }
