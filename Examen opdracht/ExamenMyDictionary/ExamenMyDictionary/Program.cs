@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
 
-            //FirstTest();
+            FirstTest();
             //SecondTest();
-            ThirdTest();
+            //ThirdTest();
             Console.ReadLine();
         }
 
