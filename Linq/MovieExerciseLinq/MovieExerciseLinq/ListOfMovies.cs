@@ -8,10 +8,8 @@ namespace MovieExerciseLinq
 {
     public class ListOfMovies : List<Movie>
     {
-        //private List<Movie> _movies;
         public ListOfMovies() 
         { 
-            //_movies = new List<Movie>();
 
             this.Add(new Movie()
             {
@@ -67,17 +65,5 @@ namespace MovieExerciseLinq
                 ReleaseDate = DateTime.ParseExact("15/01/2010", "dd/MM/yyyy", System.Globalization.CultureInfo.InvariantCulture)
             });
         }
-
-        //public List<Movie> Movies
-        //{
-        //    get
-        //    {
-        //        return _movies;
-        //    }
-        //    set
-        //    {
-        //        value = _movies;
-        //    }
-        //}
     }
 }
