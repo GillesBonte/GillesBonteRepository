@@ -1,0 +1,2395 @@
+﻿Erling Haaland,ST,Norway,Premier League,Manchester City,304000
+Kylian Mbappé,ST,France,Ligue 1 Uber Eats,Paris SG,2780000
+Alexia Putellas Segura,CM,Spain,Liga F,FC Barcelona,729000
+Kevin De Bruyne,CM,Belgium,Premier League,Manchester City,71000
+Sam Kerr,ST,Australia,Barclays WSL,Chelsea,107000
+Aitana Bonmatí Conca,CM,Spain,Liga F,FC Barcelona,197000
+Lionel Messi,CF,Argentina,MLS,Inter Miami CF,140000
+Karim Benzema,CF,France,ROSHN Saudi League,Al Ittihad,33000
+Thibaut Courtois,GK,Belgium,LALIGA EA SPORTS,Real Madrid,69500
+Harry Kane,ST,England,Bundesliga,FC Bayern München,33000
+Caroline Graham Hansen,RW,Norway,Liga F,FC Barcelona,730000
+Robert Lewandowski,ST,Poland,LALIGA EA SPORTS,FC Barcelona,41750
+Vinícius Júnior,LW,Brazil,LALIGA EA SPORTS,Real Madrid,975000
+Virgil van Dijk,CB,Holland,Premier League,Liverpool,211000
+Mohamed Salah,RW,Egypt,Premier League,Liverpool,228000
+Kadidiatou Diani,RW,France,D1 Arkema,OL,99000
+María Pilar León Cebrián,CB,Spain,Liga F,FC Barcelona,27000
+Rúben Dias,CB,Portugal,Premier League,Manchester City,22000
+Rodri,CDM,Spain,Premier League,Manchester City,22000
+Neymar Jr,LW,Brazil,ROSHN Saudi League,Al Hilal,297000
+Alex Morgan,ST,United States,NWSL,San Diego Wave,35000
+ter Stegen,GK,Germany,LALIGA EA SPORTS,FC Barcelona,34000
+Alisson,GK,Brazil,Premier League,Liverpool,50000
+Ada Hegerberg,ST,Norway,D1 Arkema,OL,21500
+Casemiro,CDM,Brazil,Premier League,Manchester Utd,22000
+Ederson,GK,Brazil,Premier League,Manchester City,28000
+Bruno Fernandes,CAM,Portugal,Premier League,Manchester Utd,16000
+Bernardo Silva,CM,Portugal,Premier League,Manchester City,15000
+Guro Reiten,LW,Norway,Barclays WSL,Chelsea,15000
+Alexandra Popp,ST,Germany,GPFBL,VfL Wolfsburg,14750
+Débora C. de Oliveira,CAM,Brazil,NWSL,KC Current,72500
+Marie Katoto,ST,France,D1 Arkema,Paris SG,15250
+Patricia Guijarro Gutiérrez,CM,Spain,Liga F,FC Barcelona,28000
+Irene Paredes Hernández,CB,Spain,Liga F,FC Barcelona,14750
+Federico Valverde,CM,Uruguay,LALIGA EA SPORTS,Real Madrid,309000
+Antoine Griezmann,ST,France,LALIGA EA SPORTS,Atlético de Madrid,95500
+Jan Oblak,GK,Slovenia,LALIGA EA SPORTS,Atlético de Madrid,15250
+Joshua Kimmich,CDM,Germany,Bundesliga,FC Bayern München,14750
+Sophia Smith,ST,United States,NWSL,Portland Thorns,195000
+Wendie Renard,CB,France,D1 Arkema,OL,15000
+Christiane Endler,GK,Chile,D1 Arkema,OL,15000
+Victor Osimhen,ST,Nigeria,Serie A TIM,Napoli FC,29500
+Heung Min Son,LW,Korea Republic,Premier League,Spurs,95000
+Martin Ødegaard,CAM,Norway,Premier League,Arsenal,12000
+Beth Mead,RW,England,Barclays WSL,Arsenal,11750
+Lucy Bronze,RB,England,Liga F,FC Barcelona,11250
+Fridolina Rolfö,LB,Sweden,Liga F,FC Barcelona,18500
+Luka Modric,CM,Croatia,LALIGA EA SPORTS,Real Madrid,11750
+Frenkie de Jong,CM,Holland,LALIGA EA SPORTS,FC Barcelona,62500
+Gregor Kobel,GK,Switzerland,Bundesliga,Borussia Dortmund,11250
+Manuel Neuer,GK,Germany,Bundesliga,FC Bayern München,16750
+Ewa Pajor,ST,Poland,GPFBL,VfL Wolfsburg,11750
+Lena Oberdorf,CDM,Germany,GPFBL,VfL Wolfsburg,11000
+Lina Magull,CAM,Germany,GPFBL,FC Bayern München,11500
+Rose Lavelle,CAM,United States,NWSL,OL Reign,11750
+Marquinhos,CB,Brazil,Ligue 1 Uber Eats,Paris SG,38000
+Gianluigi Donnarumma,GK,Italy,Ligue 1 Uber Eats,Paris SG,13000
+Lautaro Martínez,ST,Argentina,Serie A TIM,Inter,11500
+Mike Maignan,GK,France,Serie A TIM,Milan,29500
+Sandra Paños Garcia,GK,Spain,Liga F,FC Barcelona,11250
+Jude Bellingham,CM,England,LALIGA EA SPORTS,Real Madrid,120000
+Selma Bacha,LB,France,D1 Arkema,OL,42500
+Trent Alexander-Arnold,RB,England,Premier League,Liverpool,7500
+Christopher Nkunku,CF,France,Premier League,Chelsea,50500
+Andrew Robertson,LB,Scotland,Premier League,Liverpool,18750
+Sandro Tonali,CDM,Italy,Premier League,Newcastle Utd,93000
+Lauren Hemp,LW,England,Barclays WSL,Manchester City,8700
+Jill Roord,CAM,Holland,Barclays WSL,Manchester City,7700
+Mary Earps,GK,England,Barclays WSL,Manchester Utd,7600
+Kim Little,CM,Scotland,Barclays WSL,Arsenal,7500
+Vivianne Miedema,ST,Holland,Barclays WSL,Arsenal,7800
+Ashley Lawrence,RB,Canada,Barclays WSL,Chelsea,7600
+Cristiano Ronaldo,ST,Portugal,ROSHN Saudi League,Al Nassr,19500
+Bukayo Saka,RW,England,Premier League,Arsenal,19750
+Toni Kroos,CM,Germany,LALIGA EA SPORTS,Real Madrid,7700
+Éder Militão,CB,Brazil,LALIGA EA SPORTS,Real Madrid,148000
+Ronald Araujo,CB,Uruguay,LALIGA EA SPORTS,FC Barcelona,76500
+João Cancelo,LB,Portugal,Premier League,Manchester City,0
+Pedri,CM,Spain,LALIGA EA SPORTS,FC Barcelona,9000
+Ilkay Gündogan,CM,Germany,LALIGA EA SPORTS,FC Barcelona,7500
+Parejo,CM,Spain,LALIGA EA SPORTS,Villarreal CF,7500
+N'Golo Kanté,CDM,France,ROSHN Saudi League,Al Ittihad,7800
+Sadio Mané,CF,Senegal,ROSHN Saudi League,Al Nassr,7700
+Sergej Milinkovic-Savic,CM,Serbia,ROSHN Saudi League,Al Hilal,7700
+Riyad Mahrez,RM,Algeria,ROSHN Saudi League,Al Ahli,7600
+Matthijs de Ligt,CB,Holland,Bundesliga,FC Bayern München,7600
+Jamal Musiala,CAM,Germany,Bundesliga,FC Bayern München,43500
+Lea Schüller,ST,Germany,GPFBL,FC Bayern München,7500
+Mallory Swanson,LW,United States,NWSL,Chicago Red Stars,30000
+Lindsey Horan,CM,United States,D1 Arkema,OL,7600
+Grace Geyoro,CM,France,D1 Arkema,Paris SG,36750
+Sakina Karchaoui,LB,France,D1 Arkema,Paris SG,48000
+Ousmane Dembélé,RW,France,Ligue 1 Uber Eats,Paris SG,214000
+Rafael Leão,LW,Portugal,Serie A TIM,Milan,130000
+Nicolò Barella,CM,Italy,Serie A TIM,Inter,19500
+Khvicha Kvaratskhelia,LW,Georgia,Serie A TIM,Napoli FC,29250
+Wojciech Szczesny,GK,Poland,Serie A TIM,Juventus,7600
+Paulo Dybala,CF,Argentina,Serie A TIM,Roma FC,8800
+Marco Verratti,CM,Italy,Ligue 1 Uber Eats,Paris SG,7800
+Cristiana Girelli,ST,Italy,Calcio A Femminile,Juventus,7800
+João Cancelo,LB,Portugal,LALIGA EA SPORTS,FC Barcelona,31750
+Leah Williamson,CB,England,Barclays WSL,Arsenal,4800
+Phil Foden,LW,England,Premier League,Manchester City,4400
+Emiliano Martínez,GK,Argentina,Premier League,Aston Villa,4800
+Jack Grealish,LW,England,Premier League,Manchester City,4100
+Diogo Jota,CF,Portugal,Premier League,Liverpool,6200
+Declan Rice,CDM,England,Premier League,Arsenal,4600
+Kieran Trippier,RB,England,Premier League,Newcastle Utd,4200
+Marcus Rashford,LW,England,Premier League,Manchester Utd,203000
+John Stones,CB,England,Premier League,Manchester City,4100
+Khadija Shaw,ST,Jamaica,Barclays WSL,Manchester City,3900
+Kadeisha Buchanan,CB,Canada,Barclays WSL,Chelsea,4100
+Millie Bright,CB,England,Barclays WSL,Chelsea,4100
+Katie McCabe,LB,Republic of Ireland,Barclays WSL,Arsenal,4300
+Manuela Zinsberger,GK,Austria,Barclays WSL,Arsenal,4200
+André Onana,GK,Cameroon,Premier League,Manchester Utd,4300
+Ona Batlle Pascual,RB,Spain,Liga F,FC Barcelona,4100
+Jules Koundé,CB,France,LALIGA EA SPORTS,FC Barcelona,165000
+Marcos Acuña,LB,Argentina,LALIGA EA SPORTS,Sevilla FC,6000
+Iago Aspas,ST,Spain,LALIGA EA SPORTS,RC Celta,4200
+David Alaba,CB,Austria,LALIGA EA SPORTS,Real Madrid,26750
+Antonio Rüdiger,CB,Germany,LALIGA EA SPORTS,Real Madrid,71000
+Rodrygo,RW,Brazil,LALIGA EA SPORTS,Real Madrid,79000
+Aymeric Laporte,CB,Spain,ROSHN Saudi League,Al Nassr,4100
+Yassine Bounou,GK,Morocco,ROSHN Saudi League,Al Hilal,4200
+Kingsley Coman,LM,France,Bundesliga,FC Bayern München,34000
+Leon Goretzka,CM,Germany,Bundesliga,FC Bayern München,42000
+Kevin Trapp,GK,Germany,Bundesliga,Frankfurt,4400
+Florian Wirtz,CAM,Germany,Bundesliga,Leverkusen,4300
+Merle Frohms,GK,Germany,GPFBL,VfL Wolfsburg,4200
+Kathrin Hendrich,CB,Germany,GPFBL,VfL Wolfsburg,4300
+Svenja Huth,RM,Germany,GPFBL,VfL Wolfsburg,4000
+Kailen Sheridan,GK,Canada,NWSL,San Diego Wave,4100
+Amandine Henry,CDM,France,NWSL,Angel City FC,4200
+Megan Rapinoe,LM,United States,NWSL,OL Reign,4000
+Becky Sauerbrunn,CB,United States,NWSL,Portland Thorns,4000
+Keylor Navas,GK,Costa Rica,Ligue 1 Uber Eats,Paris SG,4200
+Hakan Çalhanoğlu,CM,Turkey,Serie A TIM,Inter,4200
+Ciro Immobile,ST,Italy,Serie A TIM,Latium,4300
+Theo Hernández,LB,France,Serie A TIM,Milan,108000
+Alessandro Bastoni,CB,Italy,Serie A TIM,Inter,4300
+Giovanni Di Lorenzo,RB,Italy,Serie A TIM,Napoli FC,24000
+Domenico Berardi,RW,Italy,Serie A TIM,Sassuolo,4200
+Rachel Daly,ST,England,Barclays WSL,Aston Villa,4200
+Asisat Oshoala,ST,Nigeria,Liga F,FC Barcelona,98000
+Thomas Partey,CDM,Ghana,Premier League,Arsenal,4100
+Raphaël Varane,CB,France,Premier League,Manchester Utd,93000
+Keira Walsh,CDM,England,Liga F,FC Barcelona,4100
+Federico Chiesa,LM,Italy,Serie A TIM,Juventus,44000
+Trinity Rodman,RW,United States,NWSL,Washington Spirit,59000
+Reece James,RB,England,Premier League,Chelsea,3200
+Thiago Silva,CB,Brazil,Premier League,Chelsea,1400
+Moussa Diaby,RM,France,Premier League,Aston Villa,48500
+Kyle Walker,RB,England,Premier League,Manchester City,114000
+Chloe Kelly,RW,England,Barclays WSL,Manchester City,2000
+Pierre-Emile Højbjerg,CDM,Denmark,Premier League,Spurs,1300
+James Maddison,CAM,England,Premier League,Spurs,1400
+Alessia Russo,ST,England,Barclays WSL,Arsenal,1300
+Amanda Ilestedt,CB,Sweden,Barclays WSL,Arsenal,1200
+Caitlin Foord,LW,Australia,Barclays WSL,Arsenal,1200
+Ann-Katrin Berger,GK,Germany,Barclays WSL,Chelsea,1200
+Catarina Cantanhede Macario,CAM,United States,Barclays WSL,Chelsea,1200
+Fran Kirby,CAM,England,Barclays WSL,Chelsea,1300
+Ashleigh Neville,RB,England,Barclays WSL,Spurs,1400
+Aaron Ramsdale,GK,England,Premier League,Arsenal,2000
+Nick Pope,GK,England,Premier League,Newcastle Utd,2900
+Marta Torrejón Moya,RB,Spain,Liga F,FC Barcelona,1300
+Caroline Weir,CAM,Scotland,Liga F,Real Madrid,1300
+Merino,CM,Spain,LALIGA EA SPORTS,Real Sociedad,1400
+Aurélien Tchouaméni,CDM,France,LALIGA EA SPORTS,Real Madrid,3900
+Fabinho,CDM,Brazil,ROSHN Saudi League,Al Ittihad,1200
+Rúben Neves,CDM,Portugal,ROSHN Saudi League,Al Hilal,1200
+Kalidou Koulibaly,CB,Senegal,ROSHN Saudi League,Al Hilal,1300
+Julian Brandt,CAM,Germany,Bundesliga,Borussia Dortmund,1300
+Koen Casteels,GK,Belgium,Bundesliga,VfL Wolfsburg,1300
+Matthias Ginter,CB,Germany,Bundesliga,SC Freiburg,1200
+Serge Gnabry,RM,Germany,Bundesliga,FC Bayern München,1200
+Grimaldo,LWB,Spain,Bundesliga,Leverkusen,2500
+Péter Gulácsi,GK,Hungary,Bundesliga,RB Leipzig,1200
+Min Jae Kim,CB,Korea Republic,Bundesliga,FC Bayern München,9000
+Thomas Müller,CAM,Germany,Bundesliga,FC Bayern München,1200
+Leroy Sané,RM,Germany,Bundesliga,FC Bayern München,2500
+Niklas Süle,CB,Germany,Bundesliga,Borussia Dortmund,1300
+De Paul,CM,Argentina,LALIGA EA SPORTS,Atlético de Madrid,2700
+Memphis Depay,CF,Holland,LALIGA EA SPORTS,Atlético de Madrid,1400
+Jorge Resurrección Koke,CDM,Spain,LALIGA EA SPORTS,Atlético de Madrid,1300
+Marcos Llorente,RM,Spain,LALIGA EA SPORTS,Atlético de Madrid,14500
+Linda Dallmann,CAM,Germany,GPFBL,FC Bayern München,1300
+Pernille Harder,CAM,Denmark,GPFBL,FC Bayern München,1300
+Georgia Stanway,CDM,England,GPFBL,FC Bayern München,1300
+Marta Vieira da Silva,CAM,Brazil,NWSL,Orlando Pride,1300
+Bella Bixby,GK,United States,NWSL,Portland Thorns,1200
+Jane Campbell,GK,United States,NWSL,Houston Dash,1300
+Crystal Dunn,CAM,United States,NWSL,Portland Thorns,5400
+Delphine Cascarino,RW,France,D1 Arkema,OL,6000
+Sara Däbritz,CM,Germany,D1 Arkema,OL,1200
+Paulina Dudek,CB,Poland,D1 Arkema,Paris SG,1300
+Lieke Martens,LW,Holland,D1 Arkema,Paris SG,1300
+Eugénie Le Sommer,ST,France,D1 Arkema,OL,1200
+Amel Majri,CAM,France,D1 Arkema,OL,1300
+Clara Mateo,RM,France,D1 Arkema,Paris FC,1200
+Chiamaka Nnadozie,GK,Nigeria,D1 Arkema,Paris FC,1200
+Achraf Hakimi,RB,Morocco,Ligue 1 Uber Eats,Paris SG,44750
+Milan Škriniar,CB,Slovakia,Ligue 1 Uber Eats,Paris SG,1400
+Lucas Hernández,CB,France,Ligue 1 Uber Eats,Paris SG,1400
+Yann Sommer,GK,Switzerland,Serie A TIM,Inter,1300
+Ismaël Bennacer,CDM,Algeria,Serie A TIM,Milan,1400
+Fikayo Tomori,CB,England,Serie A TIM,Milan,70000
+Bremer,CB,Brazil,Serie A TIM,Juventus,3200
+Stanislav Lobotka,CM,Slovakia,Serie A TIM,Napoli FC,1200
+Luis Alberto,CM,Spain,Serie A TIM,Latium,1200
+Romelu Lukaku,ST,Belgium,Premier League,Chelsea,0
+Adrien Rabiot,CM,France,Serie A TIM,Juventus,2000
+Chris Smalling,CB,England,Serie A TIM,Roma FC,1400
+Lisandro Martínez,CB,Argentina,Premier League,Manchester Utd,1400
+Yuki Nagasato,CAM,Japan,NWSL,Chicago Red Stars,1300
+Álex Remiro,GK,Spain,LALIGA EA SPORTS,Real Sociedad,1300
+Desiree Scott,CDM,Canada,NWSL,KC Current,1300
+Thiago,CM,Spain,Premier League,Liverpool,1300
+Lisa Boattin,LB,Italy,Calcio A Femminile,Juventus,1200
+Yannick Carrasco,LM,Belgium,LALIGA EA SPORTS,Atlético de Madrid,0
+Raphinha,RW,Brazil,LALIGA EA SPORTS,FC Barcelona,26250
+Luis Díaz,LW,Colombia,Premier League,Liverpool,20750
+Gabriel,CB,Brazil,Premier League,Arsenal,1300
+Gabriel Jesus,ST,Brazil,Premier League,Arsenal,4100
+Jess Fishlock,CM,Wales,NWSL,OL Reign,1300
+Bruno Guimarães,CM,Brazil,Premier League,Newcastle Utd,1400
+Aubrey Kingsbury,GK,United States,NWSL,Washington Spirit,1200
+Kolo Muani,ST,France,Bundesliga,Frankfurt,175000
+Gabriel Martinelli,LW,Brazil,Premier League,Arsenal,6200
+Romelu Lukaku,ST,Belgium,Serie A TIM,Roma FC,1400
+Yannick Carrasco,LM,Belgium,ROSHN Saudi League,Al Shabab,1200
+Randal Kolo Muani,ST,France,Ligue 1 Uber Eats,Paris SG,15250
+Enzo Fernández,CM,Argentina,Premier League,Chelsea,950
+Raheem Sterling,LW,England,Premier League,Chelsea,1800
+Palhinha,CDM,Portugal,Premier League,Fulham,900
+Alex Greenwood,CB,England,Barclays WSL,Manchester City,900
+Hugo Lloris,GK,France,Premier League,Spurs,2000
+Claudia Pina Medina,CAM,Spain,Liga F,FC Barcelona,900
+Rasheedat Ajibade,ST,Nigeria,Liga F,Atlético de Madrid,1500
+Ludmila da Silva,ST,Brazil,Liga F,Atlético de Madrid,950
+Mayra Ramírez,ST,Colombia,Liga F,Levante UD,1000
+Racheal Kundananji,ST,Zambia,Liga F,Madrid CFF,6100
+Nacho Fernández,CB,Spain,LALIGA EA SPORTS,Real Madrid,900
+Marcelo Brozovic,CDM,Croatia,ROSHN Saudi League,Al Nassr,900
+Sherida Spitse,CDM,Holland,Nederland Vrouwen Liga,Ajax,900
+Emre Can,CDM,Germany,Bundesliga,Borussia Dortmund,2300
+Alphonso Davies,LB,Canada,Bundesliga,FC Bayern München,48500
+Jeremie Frimpong,RWB,Holland,Bundesliga,Leverkusen,7500
+Willi Orban,CB,Hungary,Bundesliga,RB Leipzig,900
+Giménez,CB,Uruguay,LALIGA EA SPORTS,Atlético de Madrid,900
+Morata,ST,Spain,LALIGA EA SPORTS,Atlético de Madrid,900
+Klara Bühl,LM,Germany,GPFBL,FC Bayern München,900
+Magdalena Eriksson,CB,Sweden,GPFBL,FC Bayern München,900
+Katharina Naschenweng,LB,Austria,GPFBL,FC Bayern München,900
+Giulia Gwinn,LB,Germany,GPFBL,FC Bayern München,900
+Sara Doorsoun,CB,Germany,GPFBL,Frankfurt,900
+Sébastien Haller,ST,Côte d'Ivoire,Bundesliga,Borussia Dortmund,900
+Laura Freigang,CAM,Germany,GPFBL,Frankfurt,900
+Lara Prašnikar,ST,Slovenia,GPFBL,Frankfurt,900
+Marco Reus,CAM,Germany,Bundesliga,Borussia Dortmund,900
+Marina Hegering,CB,Germany,GPFBL,VfL Wolfsburg,900
+Dominique Janssen,CB,Holland,GPFBL,VfL Wolfsburg,900
+Nico Schlotterbeck,CB,Germany,Bundesliga,Borussia Dortmund,2000
+Marco Asensio,RW,Spain,Ligue 1 Uber Eats,Paris SG,900
+Alexandre Lacazette,ST,France,Ligue 1 Uber Eats,OL,900
+Wissam Ben Yedder,ST,France,Ligue 1 Uber Eats,AS Monaco,1500
+Francesco Acerbi,CB,Italy,Serie A TIM,Inter,900
+Jordi Alba Ramos,LB,Spain,MLS,Inter Miami CF,900
+Hannah Blundell,LB,England,Barclays WSL,Manchester Utd,900
+Barbara Bonansea,RW,Italy,Calcio A Femminile,Juventus,900
+Sven Botman,CB,Holland,Premier League,Newcastle Utd,900
+Mathilde Bourdieu,ST,France,D1 Arkema,Paris FC,900
+Sergio Busquets,CDM,Spain,MLS,Inter Miami CF,900
+Ellie Carpenter,RB,Australia,D1 Arkema,OL,900
+Arianna Caruso,CM,Italy,Calcio A Femminile,Juventus,900
+Steph Catley,LB,Australia,Barclays WSL,Arsenal,900
+Andreas Christensen,CB,Denmark,LALIGA EA SPORTS,FC Barcelona,900
+Erin Cuthbert,CM,Scotland,Barclays WSL,Chelsea,900
+Sergi Darder,CM,Spain,LALIGA EA SPORTS,RCD Mallorca,900
+Ángel Di María,CF,Argentina,Liga Portugal,SL Benfica,900
+Edin Džeko,ST,Bosnia and Herzegovina,Trendyol Süper Lig,Fenerbahçe,900
+Christian Eriksen,CM,Denmark,Premier League,Manchester Utd,900
+Nabil Fekir,CAM,France,LALIGA EA SPORTS,Real Betis,2500
+Rafa,CF,Portugal,Liga Portugal,SL Benfica,900
+Jorginho,CDM,Italy,Premier League,Arsenal,900
+Adrianna Franch,GK,United States,NWSL,KC Current,900
+Pau Torres,CB,Spain,Premier League,Aston Villa,900
+Cody Gakpo,CF,Holland,Premier League,Liverpool,2000
+Leah Galton,LM,England,Barclays WSL,Manchester Utd,900
+Vanessa Gilles,CB,Canada,D1 Arkema,OL,900
+Jonas Hofmann,CAM,Germany,Bundesliga,Leverkusen,900
+Mats Hummels,CB,Germany,Bundesliga,Borussia Dortmund,900
+Borja Iglesias,ST,Spain,LALIGA EA SPORTS,Real Betis,900
+Lauren James,RW,England,Barclays WSL,Chelsea,1900
+Meghan Klingenberg,LB,United States,NWSL,Portland Thorns,900
+Filip Kostić,LM,Serbia,Serie A TIM,Juventus,900
+Konrad Laimer,CDM,Austria,Bundesliga,FC Bayern München,1800
+Gianluca Mancini,CB,Italy,Serie A TIM,Roma FC,900
+Dzsenifer Marozsán,CAM,Germany,D1 Arkema,OL,1300
+Griedge Mbock,CB,France,D1 Arkema,OL,900
+Alex Meret,GK,Italy,Serie A TIM,Napoli FC,900
+Gerard Moreno,ST,Spain,LALIGA EA SPORTS,Villarreal CF,900
+Casey Murphy,GK,United States,NWSL,NC Courage,900
+Alyssa Naeher,GK,United States,NWSL,Chicago Red Stars,900
+Kelley O'Hara,RB,United States,NWSL,NJ/NY Gotham,900
+Dani Olmo,CAM,Spain,Bundesliga,RB Leipzig,900
+Oyarzabal,LM,Spain,LALIGA EA SPORTS,Real Sociedad,900
+Páez Gavira,CM,Spain,LALIGA EA SPORTS,FC Barcelona,900
+Benjamin Pavard,CB,France,Bundesliga,FC Bayern München,0
+Lorenzo Pellegrini,CAM,Italy,Serie A TIM,Roma FC,1000
+Pauline Peyraud-Magnin,GK,France,Calcio A Femminile,Juventus,900
+Christen Press,ST,United States,NWSL,Angel City FC,900
+Felicitas Rauch,LB,Germany,GPFBL,VfL Wolfsburg,900
+Guido Rodríguez,CDM,Argentina,LALIGA EA SPORTS,Real Betis,900
+Alessio Romagnoli,CB,Italy,Serie A TIM,Latium,900
+Martina Rosucci,CDM,Italy,Calcio A Femminile,Juventus,900
+William Saliba,CB,France,Premier League,Arsenal,53000
+Patrik Schick,ST,Czech Republic,Bundesliga,Leverkusen,900
+Sophie Schmidt,CM,Canada,NWSL,Houston Dash,900
+Tabea Sellner,LM,Germany,GPFBL,VfL Wolfsburg,900
+Luke Shaw,LB,England,Premier League,Manchester Utd,900
+Unai Simón,GK,Spain,LALIGA EA SPORTS,Athletic Club,900
+Christine Sinclair,CAM,Canada,NWSL,Portland Thorns,900
+Ella Toone,CAM,England,Barclays WSL,Manchester Utd,900
+Glódís Perla Viggósdóttir,CB,Iceland,GPFBL,FC Bayern München,900
+Dušan Vlahović,ST,Serbia,Serie A TIM,Juventus,900
+Lia Wälti,CDM,Switzerland,Barclays WSL,Arsenal,900
+Lynn Williams,ST,United States,NWSL,NJ/NY Gotham,1000
+Zambo Anguissa,CDM,Cameroon,Serie A TIM,Napoli FC,950
+Piotr Zieliński,CM,Poland,Serie A TIM,Napoli FC,900
+Benjamin Pavard,CB,France,Serie A TIM,Inter,900
+Jordan Pickford,GK,England,Premier League,Everton,750
+Callum Wilson,ST,England,Premier League,Newcastle Utd,750
+Yui Hasegawa,CDM,Japan,Barclays WSL,Manchester City,750
+Cristian Romero,CB,Argentina,Premier League,Spurs,750
+Rodrigo Bentancur,CM,Uruguay,Premier League,Spurs,750
+Guglielmo Vicario,GK,Italy,Premier League,Spurs,650
+Manuela Vanegas,CB,Colombia,Liga F,Real Sociedad,1100
+Carvajal,RB,Spain,LALIGA EA SPORTS,Real Madrid,750
+Ferland Mendy,LB,France,LALIGA EA SPORTS,Real Madrid,101000
+Camavinga,CDM,France,LALIGA EA SPORTS,Real Madrid,1500
+Joselu,ST,Spain,LALIGA EA SPORTS,Real Madrid,650
+Édouard Mendy,GK,Senegal,ROSHN Saudi League,Al Ahli,750
+Kessié,CDM,Côte d'Ivoire,ROSHN Saudi League,Al Ahli,800
+Seko Fofana,CM,Côte d'Ivoire,ROSHN Saudi League,Al Nassr,750
+Otávio,RM,Portugal,ROSHN Saudi League,Al Nassr,750
+Roberto Firmino,CF,Brazil,ROSHN Saudi League,Al Ahli,750
+Mario Hermoso,CB,Spain,LALIGA EA SPORTS,Atlético de Madrid,750
+Ángel Correa,ST,Argentina,LALIGA EA SPORTS,Atlético de Madrid,4700
+Stefan Savić,CB,Montenegro,LALIGA EA SPORTS,Atlético de Madrid,700
+Thomas Lemar,CM,France,LALIGA EA SPORTS,Atlético de Madrid,750
+Nahuel Molina,RB,Argentina,LALIGA EA SPORTS,Atlético de Madrid,750
+Javi Galán,LB,Spain,LALIGA EA SPORTS,Atlético de Madrid,750
+Nicole Billa,ST,Austria,GPFBL,TSG Hoffenheim,750
+Donyell Malen,RM,Holland,Bundesliga,Borussia Dortmund,1300
+Presnel Kimpembe,CB,France,Ligue 1 Uber Eats,Paris SG,22000
+Nuno Mendes,LB,Portugal,Ligue 1 Uber Eats,Paris SG,8300
+Anthony Lopes,GK,Portugal,Ligue 1 Uber Eats,OL,750
+Manuel Akanji,CB,Switzerland,Premier League,Manchester City,800
+Robert Andrich,CDM,Germany,Bundesliga,Leverkusen,750
+Joelinton,CM,Brazil,Premier League,Newcastle Utd,1400
+Ramona Bachmann,LW,Switzerland,D1 Arkema,Paris SG,600
+Sandy Baltimore,RW,France,D1 Arkema,Paris SG,750
+Lineth Beerensteyn,LW,Holland,Calcio A Femminile,Juventus,850
+Alana Cook,CB,United States,NWSL,OL Reign,700
+Ricardo Horta,CAM,Portugal,Liga Portugal,SC Braga,750
+Kenza Dali,CM,France,Barclays WSL,Aston Villa,750
+Stefan de Vrij,CB,Holland,Serie A TIM,Inter,650
+Boulaye Dia,ST,Senegal,Serie A TIM,Salernitana,750
+Vanessa DiBernardo,CM,United States,NWSL,KC Current,750
+Federico Dimarco,LWB,Italy,Serie A TIM,Inter,750
+Damaris Berta Egurrola Wienke,CDM,Holland,D1 Arkema,OL,600
+Nerea Eizagirre Lasa,LW,Spain,Liga F,Real Sociedad,750
+Youssef En-Nesyri,ST,Morocco,LALIGA EA SPORTS,Sevilla FC,750
+Jun Endo,LM,Japan,NWSL,Angel City FC,750
+Ingrid Syrstad Engen,CDM,Norway,Liga F,FC Barcelona,650
+Bethany England,ST,England,Barclays WSL,Spurs,700
+Julie Ertz,CDM,United States,NWSL,Angel City FC,0
+Paula Fernández Jiménez,CM,Spain,Liga F,Levante UD,750
+Mark Flekken,GK,Holland,Premier League,Brentford,750
+Gabriela García,CDM,Venezuela,Liga F,Atlético de Madrid,750
+David García,CB,Spain,LALIGA EA SPORTS,CA Osasuna,650
+Gayà,LB,Spain,LALIGA EA SPORTS,Valencia CF,750
+Olivier Giroud,ST,France,Serie A TIM,Milan,700
+Mario Götze,CAM,Germany,Bundesliga,Frankfurt,750
+Théa Gréboval,CB,France,D1 Arkema,Paris FC,750
+Vincenzo Grifo,LM,Italy,Bundesliga,SC Freiburg,750
+Guerreiro,LB,Portugal,Bundesliga,FC Bayern München,650
+Joško Gvardiol,CB,Croatia,Premier League,Manchester City,9800
+Chantal Hagel,CM,Germany,GPFBL,VfL Wolfsburg,750
+Ashley Hatch,ST,United States,NWSL,Washington Spirit,750
+Kai Havertz,CAM,Germany,Premier League,Arsenal,850
+Sofia Huerta,RB,United States,NWSL,OL Reign,750
+Sofia Jakobsson,LM,Sweden,NWSL,San Diego Wave,750
+Sveindís Jane Jónsdóttir,RM,Iceland,GPFBL,VfL Wolfsburg,750
+Orkun Kökçü,CM,Turkey,Liga Portugal,SL Benfica,750
+Mateo Kovacic,CM,Croatia,Premier League,Manchester City,750
+Ali Krieger,CB,United States,NWSL,NJ/NY Gotham,750
+Robin Le Normand,CB,Spain,LALIGA EA SPORTS,Real Sociedad,650
+Ledesma,GK,Argentina,LALIGA EA SPORTS,Cádiz CF,600
+Katie Lind,CB,United States,NWSL,Houston Dash,750
+Dominik Livaković,GK,Croatia,Trendyol Süper Lig,Fenerbahçe,750
+Manuel Locatelli,CDM,Italy,Serie A TIM,Juventus,750
+Sydney Lohmann,CAM,Germany,GPFBL,FC Bayern München,750
+Frida Maanum,CM,Norway,Barclays WSL,Arsenal,800
+Alexis Mac Allister,CM,Argentina,Premier League,Liverpool,750
+Hailie Mace,LB,United States,NWSL,KC Current,750
+Melvine Malard,LW,France,D1 Arkema,OL,1000
+Iñigo Martínez,CB,Spain,LALIGA EA SPORTS,FC Barcelona,750
+Noussair Mazraoui,RB,Morocco,Bundesliga,FC Bayern München,750
+Diogo Costa,GK,Portugal,Liga Portugal,FC Porto,750
+Perle Morroni,LB,France,D1 Arkema,OL,750
+João Mário,RM,Portugal,Liga Portugal,SL Benfica,750
+Darwin Núñez,ST,Uruguay,Premier League,Liverpool,5000
+Loïs Openda,ST,Belgium,Bundesliga,RB Leipzig,3500
+Nicolás Otamendi,CB,Argentina,Liga Portugal,SL Benfica,750
+Leila Ouahabi El Ouahabi,LB,Spain,Barclays WSL,Manchester City,800
+Isi,RM,Spain,LALIGA EA SPORTS,Rayo Vallecano,750
+Tanja Pawollek,CM,Germany,GPFBL,Frankfurt,0
+Pedro Gonçalves,LW,Portugal,Liga Portugal,Sporting CP,750
+Ève Périsset,RB,France,Barclays WSL,Chelsea,750
+Carson Pickett,LB,United States,NWSL,Rac. Louisville,800
+Paul Pogba,CM,France,Serie A TIM,Juventus,0
+Ivan Provedel,GK,Italy,Serie A TIM,Latium,750
+Alba Redondo Ferrer,ST,Spain,Liga F,Levante UD,750
+Fernando Reges,CDM,Brazil,LALIGA EA SPORTS,Sevilla FC,750
+Rocky Rodríguez,CM,Costa Rica,NWSL,Portland Thorns,750
+María Isabel Rodríguez Rivero,GK,Spain,Liga F,Real Madrid,750
+Ashley Sanchez,CAM,United States,NWSL,Washington Spirit,750
+Jadon Sancho,LW,England,Premier League,Manchester Utd,650
+Ouleymata Sarr,LM,France,NWSL,Washington Spirit,0
+Amaiur Sarriegi Isasa,RW,Spain,Liga F,Real Sociedad,3500
+Fabian Schär,CB,Switzerland,Premier League,Newcastle Utd,700
+Olivia Schough,LW,Sweden,Sverige Liga,FC Rosengård,1000
+Caroline Seger,CM,Sweden,Sverige Liga,FC Rosengård,1300
+Linda Sembrant,CB,Sweden,Calcio A Femminile,Juventus,750
+Carolin Simon,LB,Germany,GPFBL,FC Bayern München,750
+Emily Sonnett,CDM,United States,NWSL,OL Reign,900
+Ángela Sosa Martín,CAM,Spain,Liga F,Levante UD,750
+Hina Sugita,RW,Japan,NWSL,Portland Thorns,750
+Dominik Szoboszlai,CAM,Hungary,Premier League,Liverpool,1000
+Dušan Tadić,LW,Serbia,Trendyol Süper Lig,Fenerbahçe,600
+Taremi,ST,Iran,Liga Portugal,FC Porto,750
+Gaëtane Thiney,CAM,France,D1 Arkema,Paris FC,700
+Youri Tielemans,CM,Belgium,Premier League,Aston Villa,650
+Lucas Torreira,CDM,Uruguay,Trendyol Süper Lig,Galatasaray,750
+Ferrán Torres,LW,Spain,LALIGA EA SPORTS,FC Barcelona,750
+Viktor Tsygankov,RM,Ukraine,LALIGA EA SPORTS,Girona FC,750
+Enes Ünal,ST,Turkey,LALIGA EA SPORTS,Getafe CF,750
+Dayot Upamecano,CB,France,Bundesliga,FC Bayern München,7000
+Daniëlle van de Donk,CAM,Holland,D1 Arkema,OL,750
+Emily van Egmond,CDM,Australia,NWSL,San Diego Wave,550
+Timo Werner,ST,Germany,Bundesliga,RB Leipzig,1200
+Granit Xhaka,CM,Switzerland,Bundesliga,Leverkusen,700
+Mattia Zaccagni,LW,Italy,Serie A TIM,Latium,1300
+Katie Zelem,CDM,England,Barclays WSL,Manchester Utd,750
+Ana-Maria Crnogorčević,RW,Switzerland,Liga F,Atlético de Madrid,750
+Ben Chilwell,LB,England,Premier League,Chelsea,550
+Lewis Dunk,CB,England,Premier League,Brighton,700
+Pedro Porro,RB,Spain,Premier League,Spurs,700
+Giovani Lo Celso,CAM,Argentina,Premier League,Spurs,700
+Dejan Kulusevski,RW,Sweden,Premier League,Spurs,500
+Lucas Vázquez,RB,Spain,LALIGA EA SPORTS,Real Madrid,700
+Kepa Arrizabalaga,GK,Spain,LALIGA EA SPORTS,Real Madrid,600
+Anderson Talisca,CF,Brazil,ROSHN Saudi League,Al Nassr,700
+Malcom Filipe Silva de Oliveira,RM,Brazil,ROSHN Saudi League,Al Hilal,700
+Allan Saint-Maximin,LM,France,ROSHN Saudi League,Al Ahli,4800
+Steven Berghuis,CAM,Holland,Eredivisie,Ajax,700
+Gerónimo Rulli,GK,Argentina,Eredivisie,Ajax,500
+Reinildo,LB,Mozambique,LALIGA EA SPORTS,Atlético de Madrid,700
+Janina Minge,CM,Germany,GPFBL,SC Freiburg,700
+Manuel Ugarte,CDM,Uruguay,Ligue 1 Uber Eats,Paris SG,700
+Jonathan Clauss,RWB,France,Ligue 1 Uber Eats,OM,700
+Geoffrey Kondogbia,CM,Central African Republic,Ligue 1 Uber Eats,OM,700
+Martin Terrier,LM,France,Ligue 1 Uber Eats,Stade Rennais FC,700
+Benjamin Bourigeaud,CM,France,Ligue 1 Uber Eats,Stade Rennais FC,700
+Jonathan David,ST,Canada,Ligue 1 Uber Eats,LOSC Lille,700
+Danilo Pereira,CDM,Portugal,Ligue 1 Uber Eats,Paris SG,650
+Gaëtan Laborde,ST,France,Ligue 1 Uber Eats,OGC Nice,600
+Nemanja Matić,CDM,Serbia,Ligue 1 Uber Eats,Stade Rennais FC,700
+Brice Samba,GK,France,Ligue 1 Uber Eats,RC Lens,550
+Nathan Aké,CB,Holland,Premier League,Manchester City,750
+Ali Musrati,CDM,Libya,Liga Portugal,SC Braga,700
+Raúl Albiol,CB,Spain,LALIGA EA SPORTS,Villarreal CF,500
+Toby Alderweireld,CB,Belgium,1A Pro League,Royal Antwerp FC,750
+Miguel Almirón,RW,Paraguay,Premier League,Newcastle Utd,700
+Edson Álvarez,CDM,Mexico,Premier League,West Ham,700
+Yeray,CB,Spain,LALIGA EA SPORTS,Athletic Club,700
+Nataša Andonova,CAM,North Macedonia,Liga F,Levante UD,700
+Maximilian Arnold,CDM,Germany,Bundesliga,VfL Wolfsburg,700
+Álex Balde,LB,Spain,LALIGA EA SPORTS,FC Barcelona,750
+Lauren Barnes,LB,United States,NWSL,OL Reign,700
+Charlotte Bilbault,CDM,France,D1 Arkema,Montpellier,700
+Stina Blackstenius,ST,Sweden,Barclays WSL,Arsenal,800
+Jule Brand,LW,Germany,GPFBL,VfL Wolfsburg,700
+Davide Calabria,RB,Italy,Serie A TIM,Milan,700
+María Francesca Caldentey Oliver,LW,Spain,Liga F,FC Barcelona,700
+Viola Calligaris,RB,Switzerland,D1 Arkema,Paris SG,700
+Etienne Capoue,CM,France,LALIGA EA SPORTS,Villarreal CF,550
+Samuel Chukwueze,RW,Nigeria,Serie A TIM,Milan,700
+Sebastián Coates,CB,Uruguay,Liga Portugal,Sporting CP,700
+Lucas Tolentino Coelho de Lima,CAM,Brazil,Premier League,West Ham,700
+Danielle Colaprico,CM,United States,NWSL,San Diego Wave,700
+Daphne Corboz,CM,France,D1 Arkema,Paris FC,550
+Bryan Cristante,CDM,Italy,Serie A TIM,Roma FC,550
+Danilo,CB,Brazil,Serie A TIM,Juventus,750
+Geyse da Silva Ferreira,ST,Brazil,Barclays WSL,Manchester Utd,2300
+Arnaut Danjuma,ST,Holland,Premier League,Everton,1300
+Rui Silva,GK,Portugal,LALIGA EA SPORTS,Real Betis,500
+Elisa De Almeida,CB,France,D1 Arkema,Paris SG,500
+Fred,CM,Brazil,Trendyol Süper Lig,Fenerbahçe,700
+Athenea del Castillo,RW,Spain,Liga F,Real Madrid,550
+Rui Patrício,GK,Portugal,Serie A TIM,Roma FC,600
+Denzel Dumfries,RWB,Holland,Serie A TIM,Inter,750
+Melchie Dumornay,ST,Haiti,D1 Arkema,OL,1200
+Abby Erceg,CB,New Zealand,NWSL,Rac. Louisville,550
+João Félix,CF,Portugal,LALIGA EA SPORTS,Atlético de Madrid,0
+Emily Fox,LB,United States,NWSL,NC Courage,650
+Sara Gama,CB,Italy,Calcio A Femminile,Juventus,650
+Hanna Glas,RB,Sweden,NWSL,KC Current,700
+Beto,ST,Portugal,Premier League,Everton,700
+Alejandro Gómez,LW,Argentina,LALIGA EA SPORTS,Sevilla FC,0
+Nicolás González,RW,Argentina,Serie A TIM,Fiorentina,650
+Esther González Rodríguez,ST,Spain,NWSL,NJ/NY Gotham,0
+Verena Hanshaw,LB,Austria,GPFBL,Frankfurt,600
+Rachel Hill,RM,United States,NWSL,San Diego Wave,600
+Lukáš Hrádecký,GK,Finland,Bundesliga,Leverkusen,700
+Lorenzo Insigne,LW,Italy,MLS,Toronto FC,700
+Alexander Isak,ST,Sweden,Premier League,Newcastle Utd,850
+Synne Jensen,ST,Norway,Liga F,Real Sociedad,700
+Daichi Kamada,CAM,Japan,Serie A TIM,Latium,700
+Ewelina Kamczyk,CAM,Poland,D1 Arkema,FC Fleury 91,550
+Simon Kjær,CB,Denmark,Serie A TIM,Milan,600
+Ibrahima Konaté,CB,France,Premier League,Liverpool,800
+Andrej Kramarić,CF,Croatia,Bundesliga,TSG Hoffenheim,700
+Lo'eau LaBonta,CM,United States,NWSL,KC Current,700
+Hayley Ladd,CDM,Wales,Barclays WSL,Manchester Utd,400
+Lena Lattwein,CDM,Germany,GPFBL,VfL Wolfsburg,700
+Maya Le Tissier,CB,England,Barclays WSL,Manchester Utd,700
+Alisha Lehmann,RW,Switzerland,Barclays WSL,Aston Villa,550
+Bernd Leno,GK,Germany,Premier League,Fulham,700
+Sydney Leroux,ST,United States,NWSL,Angel City FC,700
+Melanie Leupolz,CDM,Germany,Barclays WSL,Chelsea,700
+Pepe,CB,Portugal,Liga Portugal,FC Porto,1100
+Ademola Lookman,ST,Nigeria,Serie A TIM,Bergamo Calcio,750
+Hirving Lozano,RW,Mexico,Serie A TIM,Napoli FC,0
+Antony Matheus dos Santos,RW,Brazil,Premier League,Manchester Utd,800
+Brais Méndez,CM,Spain,LALIGA EA SPORTS,Real Sociedad,700
+Dries Mertens,CF,Belgium,Trendyol Süper Lig,Galatasaray,700
+Tatumn Milazzo,CB,United States,NWSL,Chicago Red Stars,700
+Arkadiusz Milik,ST,Poland,Serie A TIM,Juventus,750
+Henrikh Mkhitaryan,CAM,Armenia,Serie A TIM,Inter,750
+Mason Mount,CAM,England,Premier League,Manchester Utd,550
+Muniain,CAM,Spain,LALIGA EA SPORTS,Athletic Club,700
+Jordan Nobbs,CM,England,Barclays WSL,Aston Villa,700
+Gabriela Nunes da Silva,ST,Brazil,Liga F,Levante UD,800
+Guillermo Ochoa,GK,Mexico,Serie A TIM,Salernitana,700
+Mayumi Pacheco,LB,England,Barclays WSL,Aston Villa,700
+Nikita Parris,RM,England,Barclays WSL,Manchester Utd,700
+Felipe Anderson,RW,Brazil,Serie A TIM,Latium,950
+Matteo Politano,RW,Italy,Serie A TIM,Napoli FC,700
+Midge Purce,RW,United States,NWSL,NJ/NY Gotham,700
+Ivan Rakitić,CM,Croatia,LALIGA EA SPORTS,Sevilla FC,600
+Amir Rrahmani,CB,Kosovo,Serie A TIM,Napoli FC,550
+Fabián Ruiz Peña,CM,Spain,Ligue 1 Uber Eats,Paris SG,600
+Cecilia Salvai,CB,Italy,Calcio A Femminile,Juventus,900
+Oihan Sancet Tirapu,CAM,Spain,LALIGA EA SPORTS,Athletic Club,700
+María Sánchez,LW,Mexico,NWSL,Houston Dash,600
+Ibrahim Sangaré,CDM,Côte d'Ivoire,Eredivisie,PSV,0
+Diego Carlos,CB,Brazil,Premier League,Aston Villa,700
+Xaver Schlager,CDM,Austria,Bundesliga,RB Leipzig,700
+Kasper Schmeichel,GK,Denmark,Ligue 1 Uber Eats,OGC Nice,0
+William Carvalho,CDM,Portugal,LALIGA EA SPORTS,Real Betis,550
+Mário Rui,LB,Portugal,Serie A TIM,Napoli FC,700
+Ellyes Skhiri,CDM,Tunisia,Bundesliga,Frankfurt,650
+Andi Sullivan,CDM,United States,NWSL,Washington Spirit,700
+Jonathan Tah,CB,Germany,Bundesliga,Leverkusen,550
+Edmond Tapsoba,CB,Burkina Faso,Bundesliga,Leverkusen,700
+Leandro Trossard,CF,Belgium,Premier League,Arsenal,800
+Odisseas Vlachodimos,GK,Greece,Liga Portugal,SL Benfica,0
+Iñaki Williams,RM,Ghana,LALIGA EA SPORTS,Athletic Club,900
+Wilfried Zaha,LW,Côte d'Ivoire,Trendyol Süper Lig,Galatasaray,800
+Duván Zapata,ST,Colombia,Serie A TIM,Bergamo Calcio,0
+Kasper Schmeichel,GK,Denmark,1A Pro League,RSC Anderlecht,550
+Odisseas Vlachodimos,GK,Greece,Premier League,Nott'm Forest,650
+Duván Zapata,ST,Colombia,Serie A TIM,Torino,2600
+Hirving Lozano,RW,Mexico,Eredivisie,PSV,700
+Ibrahim Sangaré,CDM,Côte d'Ivoire,Premier League,Nott'm Forest,700
+João Félix Sequeira,CF,Portugal,LALIGA EA SPORTS,FC Barcelona,700
+Moisés Caicedo,CDM,Ecuador,Premier League,Chelsea,700
+Kaoru Mitoma,LM,Japan,Premier League,Brighton,700
+Deyna Castellanos,CM,Venezuela,Barclays WSL,Manchester City,700
+Brahim Díaz,CAM,Spain,LALIGA EA SPORTS,Real Madrid,700
+Ibañez,CB,Brazil,ROSHN Saudi League,Al Ahli,1700
+Jordan Henderson,CM,England,ROSHN Saudi League,Ettifaq FC,500
+Saúl,CM,Spain,LALIGA EA SPORTS,Atlético de Madrid,700
+Ramy Bensebaini,LB,Algeria,Bundesliga,Borussia Dortmund,700
+Karim Adeyemi,LM,Germany,Bundesliga,Borussia Dortmund,14000
+Elisa Senß,CDM,Germany,GPFBL,Leverkusen,600
+Niclas Füllkrug,ST,Germany,Bundesliga,SV Werder Bremen,0
+Tammy Abraham,ST,England,Serie A TIM,Roma FC,600
+Adán,GK,Spain,Liga Portugal,Sporting CP,500
+Isco,CAM,Spain,LALIGA EA SPORTS,Real Betis,700
+Julián Álvarez,ST,Argentina,Premier League,Manchester City,950
+Sofyan Amrabat,CDM,Morocco,Serie A TIM,Fiorentina,0
+Nicole Anyomi,ST,Germany,GPFBL,Frankfurt,700
+Pepê,LM,Brazil,Liga Portugal,FC Porto,700
+Mauro Arambarri,CDM,Uruguay,LALIGA EA SPORTS,Getafe CF,650
+Marko Arnautović,ST,Austria,Serie A TIM,Inter,700
+Viviane Asseyi,ST,France,Barclays WSL,West Ham,750
+Pierre-Emerick Aubameyang,ST,Gabon,Ligue 1 Uber Eats,OM,700
+Ezequiel Ávila,ST,Argentina,LALIGA EA SPORTS,CA Osasuna,700
+Edgar Badia,GK,Spain,LALIGA HYPERMOTION,Elche CF,700
+Leire Baños Indakoetxea,CDM,Spain,Liga F,Levante UD,700
+Harvey Barnes,LW,England,Premier League,Newcastle Utd,500
+Oliver Baumann,GK,Germany,Bundesliga,TSG Hoffenheim,500
+Fran Beltrán,CDM,Spain,LALIGA EA SPORTS,RC Celta,450
+Laura Benkarth,GK,Germany,D1 Arkema,OL,550
+Álex Berenguer,LM,Spain,LALIGA EA SPORTS,Athletic Club,700
+Cristiano Biraghi,LB,Italy,Serie A TIM,Fiorentina,750
+Leonardo Bonucci,CB,Italy,Serie A TIM,Juventus,0
+Claudio Bravo,GK,Chile,LALIGA EA SPORTS,Real Betis,600
+Emiliano Buendía,RM,Argentina,Premier League,Aston Villa,500
+Kessya Bussy,LM,France,D1 Arkema,Paris FC,500
+Niamh Charles,RB,England,Barclays WSL,Chelsea,500
+Giorgio Chiellini,CB,Italy,MLS,LAFC,700
+Francis Coquelin,CM,France,LALIGA EA SPORTS,Villarreal CF,700
+Jesús Corona,RW,Mexico,LALIGA EA SPORTS,Sevilla FC,0
+Juan Cuadrado,RM,Colombia,Serie A TIM,Inter,750
+Antônia da Costa Silva,RB,Brazil,Liga F,Levante UD,700
+Marine Dafeur,CM,Algeria,D1 Arkema,FC Fleury 91,500
+Abby Dahlkemper,CB,United States,NWSL,San Diego Wave,500
+Diogo Dalot,RB,Portugal,Premier League,Manchester Utd,700
+Kevin Danso,CB,Austria,Ligue 1 Uber Eats,RC Lens,700
+Matteo Darmian,CB,Italy,Serie A TIM,Inter,500
+Tierna Davidson,CB,United States,NWSL,Chicago Red Stars,700
+Richarlison,ST,Brazil,Premier League,Spurs,700
+De Marcos,RB,Spain,LALIGA EA SPORTS,Athletic Club,700
+Marten de Roon,CDM,Holland,Serie A TIM,Bergamo Calcio,700
+Tainara de Souza da Silva,CB,Brazil,GPFBL,FC Bayern München,600
+Océane Deslandes,CB,France,D1 Arkema,Montpellier,600
+Deulofeu,CF,Spain,Serie A TIM,Udinese,800
+Marko Dmitrović,GK,Serbia,LALIGA EA SPORTS,Sevilla FC,600
+Marcus Edwards,RW,England,Liga Portugal,Sporting CP,600
+Eljif Elmas,CAM,North Macedonia,Serie A TIM,Napoli FC,550
+Aritz Elustondo,CB,Spain,LALIGA EA SPORTS,Real Sociedad,550
+Wataru Endo,CM,Japan,Premier League,Liverpool,700
+Pervis Estupiñán,LB,Ecuador,Premier League,Brighton,500
+Suso,RW,Spain,LALIGA EA SPORTS,Sevilla FC,450
+Jessie Fleming,CM,Canada,Barclays WSL,Chelsea,700
+Youssouf Fofana,CDM,France,Ligue 1 Uber Eats,AS Monaco,700
+Emil Forsberg,CAM,Sweden,Bundesliga,RB Leipzig,450
+Juan Foyth,RB,Argentina,LALIGA EA SPORTS,Villarreal CF,500
+Davide Frattesi,CM,Italy,Serie A TIM,Inter,700
+Dolores Gallardo Núñez,GK,Spain,Liga F,Atlético de Madrid,700
+Maëlle Garbino,CAM,France,Calcio A Femminile,Juventus,750
+Lucía García Córdoba,RM,Spain,Barclays WSL,Manchester Utd,1500
+Aleix García Serrano,CM,Spain,LALIGA EA SPORTS,Girona FC,600
+Naomi Girma,CB,United States,NWSL,San Diego Wave,500
+Nuno Santos,LW,Portugal,Liga Portugal,Sporting CP,700
+Nemanja Gudelj,CB,Serbia,LALIGA EA SPORTS,Sevilla FC,600
+Dávid Hancko,CB,Slovakia,Eredivisie,Feyenoord,700
+Didi Haračić,GK,Bosnia and Herzegovina,NWSL,Angel City FC,700
+Mauro Icardi,ST,Argentina,Trendyol Süper Lig,Galatasaray,550
+Sophie Ingle,CDM,Wales,Barclays WSL,Chelsea,500
+Kerolin Nicoli Israel Ferraz,RM,Brazil,NWSL,NC Courage,850
+Oriane Jean-François,CDM,France,D1 Arkema,Paris SG,700
+Joan Jordán,CM,Spain,LALIGA EA SPORTS,Sevilla FC,500
+Boubacar Kamara,CDM,France,Premier League,Aston Villa,700
+Lisa Karl,RB,Germany,GPFBL,SC Freiburg,700
+Hasret Kayikci,CM,Germany,GPFBL,SC Freiburg,700
+Sophia Kleinherne,RB,Germany,GPFBL,Frankfurt,550
+Emma Koivisto,RWB,Finland,Barclays WSL,Liverpool,700
+Teun Koopmeiners,CM,Holland,Serie A TIM,Bergamo Calcio,450
+Rosemonde Kouassi,ST,Côte d'Ivoire,D1 Arkema,FC Fleury 91,700
+Takefusa Kubo,RW,Japan,LALIGA EA SPORTS,Real Sociedad,500
+Maëlle Lakrar,CB,France,D1 Arkema,Montpellier,700
+Erik Lamela,RW,Argentina,LALIGA EA SPORTS,Sevilla FC,700
+Armand Laurienté,LW,France,Serie A TIM,Sassuolo,500
+Léa Le Garrec,CM,France,D1 Arkema,FC Fleury 91,600
+Matheus,GK,Brazil,Liga Portugal,SC Braga,450
+Victor Lindelöf,CB,Sweden,Premier League,Manchester Utd,600
+Pau López,GK,Spain,Ligue 1 Uber Eats,OM,550
+Vitinha,CM,Portugal,Ligue 1 Uber Eats,Paris SG,500
+Giorgi Mamardashvili,GK,Georgia,LALIGA EA SPORTS,Valencia CF,700
+Anthony Martial,ST,France,Premier League,Manchester Utd,700
+Arnau Martínez López,RB,Spain,LALIGA EA SPORTS,Girona FC,550
+Adam Marušić,LB,Montenegro,Serie A TIM,Latium,750
+Merritt Mathias,RB,United States,NWSL,Angel City FC,500
+Joel Matip,CB,Cameroon,Premier League,Liverpool,1200
+Chancel Mbemba,CB,Congo DR,Ligue 1 Uber Eats,OM,700
+Facundo Medina,CB,Argentina,Ligue 1 Uber Eats,RC Lens,700
+Erëleta Memeti,LW,Kosovo,GPFBL,TSG Hoffenheim,600
+Carmen Menayo Montero,CB,Spain,Liga F,Atlético de Madrid,850
+Arthur Cabral,ST,Brazil,Liga Portugal,SL Benfica,400
+Sam Mewis,CM,United States,NWSL,KC Current,700
+Simon Mignolet,GK,Belgium,1A Pro League,Club Brugge,700
+Álex Moreno,LB,Spain,Premier League,Aston Villa,700
+Florentino Morris Luís,CDM,Portugal,Liga Portugal,SL Benfica,550
+Hany Mukhtar,CF,Germany,MLS,Nashville SC,700
+Vedat Muriqi,ST,Kosovo,LALIGA EA SPORTS,RCD Mallorca,550
+Fernando Muslera,GK,Uruguay,Trendyol Süper Lig,Galatasaray,600
+Jesús Navas,RB,Spain,LALIGA EA SPORTS,Sevilla FC,500
+David Neres,RM,Brazil,Liga Portugal,SL Benfica,1100
+Sjoeke Nüsken,CB,Germany,Barclays WSL,Chelsea,500
+Denise O'Sullivan,CDM,Republic of Ireland,NWSL,NC Courage,750
+Lucas Ocampos,RW,Argentina,LALIGA EA SPORTS,Sevilla FC,550
+Jonas Omlin,GK,Switzerland,Bundesliga,M'gladbach,500
+David Ospina,GK,Colombia,ROSHN Saudi League,Al Nassr,700
+Exequiel Palacios,CM,Argentina,Bundesliga,Leverkusen,700
+Mario Pašalić,CAM,Croatia,Serie A TIM,Bergamo Calcio,550
+Gonçalo Matias Ramos,ST,Portugal,Ligue 1 Uber Eats,Paris SG,700
+Luiz Felipe,CB,Italy,LALIGA EA SPORTS,Real Betis,0
+David Raya Martin,GK,Spain,Premier League,Arsenal,800
+Géraldine Reuteler,CM,Switzerland,GPFBL,Frankfurt,700
+Faustine Robert,RM,France,D1 Arkema,Montpellier,850
+Sergi Roberto,RB,Spain,LALIGA EA SPORTS,FC Barcelona,550
+Oriol Romeu Vidal,CDM,Spain,LALIGA EA SPORTS,FC Barcelona,550
+Valentin Rongier,CDM,France,Ligue 1 Uber Eats,OM,700
+Marcel Sabitzer,CM,Austria,Bundesliga,Borussia Dortmund,700
+Téji Savanier,CAM,France,Ligue 1 Uber Eats,Montpellier,700
+David Soria,GK,Spain,LALIGA EA SPORTS,Getafe CF,750
+Leonardo Spinazzola,LWB,Italy,Serie A TIM,Roma FC,1700
+Nicolás Tagliafico,LB,Argentina,Ligue 1 Uber Eats,OL,700
+Kieran Tierney,LB,Scotland,LALIGA EA SPORTS,Real Sociedad,700
+Sandie Toletti,CM,France,Liga F,Real Madrid,1000
+Rafael Tolói,CB,Italy,Serie A TIM,Bergamo Calcio,700
+Marion Torrent,RB,France,D1 Arkema,Montpellier,500
+Hamari Traoré,RB,Mali,LALIGA EA SPORTS,Real Sociedad,700
+Phallon Tullis-Joyce,GK,United States,NWSL,OL Reign,550
+André Silva,ST,Portugal,LALIGA EA SPORTS,Real Sociedad,700
+Carlos Vela,RW,Mexico,MLS,LAFC,500
+Jordan Veretout,CM,France,Ligue 1 Uber Eats,OM,700
+Jonathan Viera,CAM,Spain,LALIGA EA SPORTS,UD Las Palmas,700
+Aaron Wan-Bissaka,RB,England,Premier League,Manchester Utd,700
+Ollie Watkins,ST,England,Premier League,Aston Villa,700
+Morgan Weaver,LW,United States,NWSL,Portland Thorns,700
+Julian Weigl,CDM,Germany,Bundesliga,M'gladbach,600
+Christen Westphal,RB,United States,NWSL,San Diego Wave,650
+Ben White,RB,England,Premier League,Arsenal,800
+Georginio Wijnaldum,CM,Holland,Ligue 1 Uber Eats,Paris SG,0
+Sarah Zadrazil,CDM,Austria,GPFBL,FC Bayern München,500
+Nicolò Zaniolo,RM,Italy,Premier League,Aston Villa,700
+Oleksandr Zinchenko,LB,Ukraine,Premier League,Arsenal,800
+Hakim Ziyech,RW,Morocco,Trendyol Süper Lig,Galatasaray,500
+Zubeldia,CB,Spain,LALIGA EA SPORTS,Real Sociedad,700
+Zubimendi,CDM,Spain,LALIGA EA SPORTS,Real Sociedad,800
+Georginio Wijnaldum,CM,Holland,ROSHN Saudi League,Ettifaq FC,700
+Leonardo Bonucci,CB,Italy,Bundesliga,Union Berlin,550
+Niclas Füllkrug,ST,Germany,Bundesliga,Borussia Dortmund,600
+Sofyan Amrabat,CDM,Morocco,Premier League,Manchester Utd,500
+Luiz Felipe Ramos Marchi,CB,Italy,ROSHN Saudi League,Al Ittihad,700
+Cucurella,LB,Spain,Premier League,Chelsea,450
+Axel Disasi,CB,France,Premier League,Chelsea,500
+Eberechi Eze,CAM,England,Premier League,Crystal Palace,450
+José Sá,GK,Portugal,Premier League,Wolves,400
+Jarrod Bowen,RM,England,Premier League,West Ham,500
+Ben Mee,CB,England,Premier League,Brentford,550
+Ricardo Pereira,RB,Portugal,EFL Championship,Leicester City,500
+Wilfred Ndidi,CDM,Nigeria,EFL Championship,Leicester City,500
+Callum McGregor,CDM,Scotland,cinch Prem,Celtic,700
+Leicy Santos,CAM,Colombia,Liga F,Atlético de Madrid,400
+Adriana Nanclares Romero,GK,Spain,Liga F,Athletic Club,450
+Dani Ceballos,CM,Spain,LALIGA EA SPORTS,Real Madrid,550
+Aleksandar Mitrović,ST,Serbia,ROSHN Saudi League,Al Hilal,700
+Josip Šutalo,CB,Croatia,Eredivisie,Ajax,700
+Steven Bergwijn,LW,Holland,Eredivisie,Ajax,500
+Azpilicueta,RB,Spain,LALIGA EA SPORTS,Atlético de Madrid,450
+Axel Witsel,CDM,Belgium,LALIGA EA SPORTS,Atlético de Madrid,550
+Sharon Beck,CAM,Israel,GPFBL,1. FC Köln,450
+Vincent Aboubakar,ST,Cameroon,Trendyol Süper Lig,Beşiktaş,450
+Sara Agrež,LB,Slovenia,GPFBL,VfL Wolfsburg,500
+Nayef Aguerd,CB,Morocco,Premier League,West Ham,550
+Joseph Aidoo,CB,Ghana,LALIGA EA SPORTS,RC Celta,700
+Ludovic Ajorque,ST,France,Bundesliga,1. FSV Mainz 05,550
+Thiago Almada,CAM,Argentina,MLS,Atlanta United,700
+Marcos Alonso Mendoza,LB,Spain,LALIGA EA SPORTS,FC Barcelona,500
+Emily Alvarado,GK,Mexico,NWSL,Houston Dash,450
+Benjamin André,CDM,France,Ligue 1 Uber Eats,LOSC Lille,500
+Mackenzie Arnold,GK,Australia,Barclays WSL,West Ham,450
+Emil Audero,GK,Italy,Serie A TIM,Inter,400
+Fredrik Aursnes,CM,Norway,Liga Portugal,SL Benfica,700
+Alexander Bah,RB,Denmark,Liga Portugal,SL Benfica,1200
+Leon Bailey,RM,Jamaica,Premier League,Aston Villa,700
+Ridle Baku,RB,Germany,Bundesliga,VfL Wolfsburg,700
+Elizabeth Ball,CB,United States,NWSL,KC Current,600
+Folarin Balogun,ST,United States,Premier League,Arsenal,0
+Éver Banega,CM,Argentina,ROSHN Saudi League,Al Shabab,400
+Estefanía Banini,CM,Argentina,Liga F,Atlético de Madrid,700
+Bartra,CB,Spain,LALIGA EA SPORTS,Real Betis,550
+Molly Bartrip,CB,England,Barclays WSL,Spurs,700
+Christoph Baumgartner,CAM,Austria,Bundesliga,RB Leipzig,450
+Vicki Becho,ST,France,D1 Arkema,OL,700
+Janine Beckie,LW,Canada,NWSL,Portland Thorns,500
+Walter Benítez,GK,Argentina,Eredivisie,PSV,400
+Yuri Berchiche,LB,Spain,LALIGA EA SPORTS,Athletic Club,700
+Gonçalo Inácio,CB,Portugal,Liga Portugal,Sporting CP,700
+Yves Bissouma,CDM,Mali,Premier League,Spurs,400
+Nathalie Björn,CB,Sweden,Barclays WSL,Everton,700
+Sacha Boey,RB,France,Trendyol Süper Lig,Galatasaray,1000
+Giacomo Bonaventura,CM,Italy,Serie A TIM,Fiorentina,550
+Florencia Bonsegundo,CAM,Argentina,Liga F,Madrid CFF,550
+Dagný Brynjarsdóttir,CM,Iceland,Barclays WSL,West Ham,500
+Dan Burn,CB,England,Premier League,Newcastle Utd,550
+Rémy Cabella,CAM,France,Ligue 1 Uber Eats,LOSC Lille,550
+Antonio Candreva,CF,Italy,Serie A TIM,Salernitana,450
+Jelena Čanković,CM,Serbia,Barclays WSL,Chelsea,500
+Marta Cardona de Miguel,RW,Spain,Liga F,Atlético de Madrid,450
+Olga Carmona García,LB,Spain,Liga F,Real Madrid,700
+Marco Carnesecchi,GK,Italy,Serie A TIM,Bergamo Calcio,550
+Nicolò Casale,CB,Italy,Serie A TIM,Latium,700
+Matty Cash,RB,Poland,Premier League,Aston Villa,500
+Valentin Castellanos,ST,Argentina,Serie A TIM,Latium,450
+Catena,CB,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Grace Chanda,ST,Zambia,Liga F,Madrid CFF,700
+Allysha Chapman,LB,Canada,NWSL,Houston Dash,550
+Mylène Chavas,GK,France,Liga F,Real Madrid,650
+Hawa Cissoko,CB,France,Barclays WSL,West Ham,550
+Patrick Ciurria,RM,Italy,Serie A TIM,Monza,600
+Sam Coffey,CDM,United States,NWSL,Portland Thorns,700
+Aldana Cometti,CB,Argentina,Liga F,Madrid CFF,500
+Andrea Consigli,GK,Italy,Serie A TIM,Sassuolo,500
+Rachel Corboz,CM,United States,D1 Arkema,Stade de Reims,450
+Coutinho,CAM,Brazil,Premier League,Aston Villa,550
+Romarinho,CF,Brazil,ROSHN Saudi League,Al Ittihad,700
+Jovana Damnjanović,ST,Serbia,GPFBL,FC Bayern München,8900
+María De Alharilla Casado,RB,Spain,Liga F,Levante UD,450
+Luuk de Jong,ST,Holland,Eredivisie,PSV,550
+Raúl De Tomás Gómez,ST,Spain,LALIGA EA SPORTS,Rayo Vallecano,500
+Thomas Delaney,CDM,Denmark,1A Pro League,RSC Anderlecht,700
+Kristin Demann,CDM,Germany,GPFBL,VfL Wolfsburg,800
+Kerem Demirbay,CM,Germany,Trendyol Süper Lig,Galatasaray,500
+Michele Di Gregorio,GK,Italy,Serie A TIM,Monza,550
+Lucas Digne,LB,France,Premier League,Aston Villa,550
+Stole Dimitrievski,GK,North Macedonia,LALIGA EA SPORTS,Rayo Vallecano,400
+Makenzy Doniak,ST,United States,NWSL,San Diego Wave,550
+Julie Dufour,LM,France,D1 Arkema,Paris FC,700
+Barbara Dunst,CM,Austria,GPFBL,Frankfurt,400
+Kristen Edmonds,CB,United States,NWSL,NJ/NY Gotham,500
+Angeliño,LB,Spain,Trendyol Süper Lig,Galatasaray,500
+Nicky Evrard,GK,Belgium,Barclays WSL,Chelsea,450
+Łukasz Fabiański,GK,Poland,Premier League,West Ham,450
+Meret Felde,CM,Germany,GPFBL,SC Freiburg,400
+Jana Feldkamp,CB,Germany,GPFBL,TSG Hoffenheim,700
+Naomie Feller,LW,France,Liga F,Real Madrid,750
+Louise Fleury,LM,France,D1 Arkema,Paris FC,500
+Wesley Fofana,CB,France,Premier League,Chelsea,450
+Svenja Fölmli,ST,Switzerland,GPFBL,SC Freiburg,850
+Przemysław Frankowski,RWB,Poland,Ligue 1 Uber Eats,RC Lens,700
+Sanni Franssi,ST,Finland,Liga F,Real Sociedad,700
+Gonçalo Guedes,ST,Portugal,Liga Portugal,SL Benfica,700
+Sheila García Gómez,RB,Spain,Liga F,Atlético de Madrid,700
+Álvaro García Rivera,LM,Spain,LALIGA EA SPORTS,Rayo Vallecano,500
+Lutsharel Geertruida,RB,Holland,Eredivisie,Feyenoord,500
+Carles Gil Pareja,CAM,Spain,MLS,New England,600
+Gemma Gili Giner,CM,Spain,Liga F,Sevilla FC,500
+Alexandr Golovin,LM,Russia,Ligue 1 Uber Eats,AS Monaco,450
+Joe Gomez,CB,England,Premier League,Liverpool,700
+Moisés Gómez Bordonado,CM,Spain,LALIGA EA SPORTS,CA Osasuna,650
+Edgar González Estrada,CB,Spain,LALIGA EA SPORTS,UD Almería,500
+Ana González Rosa,CDM,Spain,Liga F,Madrid CFF,700
+Robin Gosens,LWB,Germany,Bundesliga,Union Berlin,500
+Amine Gouiri,ST,France,Ligue 1 Uber Eats,Stade Rennais FC,500
+Dominika Grabowska,CM,Poland,D1 Arkema,FC Fleury 91,500
+Ryan Gravenberch,CM,Holland,Bundesliga,FC Bayern München,0
+Michael Gregoritsch,ST,Austria,Bundesliga,SC Freiburg,550
+Jackie Groenen,CM,Holland,D1 Arkema,Paris SG,700
+Marcelo Grohe,GK,Brazil,ROSHN Saudi League,Al Ittihad,500
+Maria-Luisa Grohs,GK,Germany,GPFBL,FC Bayern München,650
+Shea Groom,CAM,United States,NWSL,Houston Dash,550
+Mattéo Guendouzi,CM,France,Ligue 1 Uber Eats,OM,0
+Christian Günter,LB,Germany,Bundesliga,SC Freiburg,600
+Isabella Hartig,CM,Germany,GPFBL,TSG Hoffenheim,700
+Dean Henderson,GK,England,Premier League,Manchester Utd,0
+Ander Herrera Agüera,CM,Spain,LALIGA EA SPORTS,Athletic Club,600
+Sergio Herrera,GK,Spain,LALIGA EA SPORTS,CA Osasuna,750
+Piero Hincapié,CB,Ecuador,Bundesliga,Leverkusen,700
+Steph Houghton,CB,England,Barclays WSL,Manchester City,700
+Lina Hurtig,LW,Sweden,Barclays WSL,Arsenal,1000
+Juanmi,LM,Spain,ROSHN Saudi League,Al Riyadh,450
+Stina Johannes,GK,Germany,GPFBL,Frankfurt,450
+Kevin Kampl,CM,Slovenia,Bundesliga,RB Leipzig,400
+Lukas Klostermann,CB,Germany,Bundesliga,RB Leipzig,700
+Lisa Kolb,RW,Austria,GPFBL,SC Freiburg,550
+Ezri Konsa,CB,England,Premier League,Aston Villa,700
+Taylor Kornieck,CAM,United States,NWSL,San Diego Wave,550
+Melissa Kössler,ST,Germany,GPFBL,TSG Hoffenheim,550
+Mohammed Kudus,RW,Ghana,Premier League,West Ham,700
+Natalia Kuikka,RB,Finland,NWSL,Portland Thorns,500
+Andréa Lardez,RB,France,D1 Arkema,Bordeaux,450
+Manuel Lazzari,RB,Italy,Serie A TIM,Latium,700
+Elene Lete Para,GK,Spain,Liga F,Real Sociedad,1200
+Marie Levasseur,LB,Canada,D1 Arkema,Montpellier,450
+Philipp Lienhart,CB,Austria,Bundesliga,SC Freiburg,400
+Renan Augusto Lodi dos Santos,LB,Brazil,Ligue 1 Uber Eats,OM,550
+David López,CB,Spain,LALIGA EA SPORTS,Girona FC,550
+María López Valenzuela,GK,Spain,Liga F,Levante UD,400
+Matheus Nunes,CM,Portugal,Premier League,Wolves,0
+Katie Lund,GK,United States,NWSL,Rac. Louisville,450
+Robert Sanchéz,GK,Spain,Premier League,Chelsea,700
+Harry Maguire,CB,England,Premier League,Manchester Utd,500
+Lovro Majer,CM,Croatia,Bundesliga,VfL Wolfsburg,550
+Steve Mandanda,GK,France,Ligue 1 Uber Eats,Stade Rennais FC,500
+Solly March,RM,England,Premier League,Brighton,550
+Noëlle Maritz,RB,Switzerland,Barclays WSL,Arsenal,850
+Sarah Mayling,RB,England,Barclays WSL,Aston Villa,500
+Savannah McCaskill,ST,United States,NWSL,Angel City FC,550
+Jessica McDonald,ST,United States,NWSL,Rac. Louisville,700
+John McGinn,CM,Scotland,Premier League,Aston Villa,500
+Kristen McNabb,LB,United States,NWSL,San Diego Wave,650
+Scott McTominay,CDM,Scotland,Premier League,Manchester Utd,900
+Andrea Medina Martin,LB,Spain,Liga F,Atlético de Madrid,600
+Nuria Mendoza Miralles,CB,Spain,Liga F,Levante UD,850
+Kristie Mewis,CM,United States,NWSL,NJ/NY Gotham,700
+Nikola Milenković,CB,Serbia,Serie A TIM,Fiorentina,450
+Tyrone Mings,CB,England,Premier League,Aston Villa,550
+Nérilia Mondésir,ST,Haiti,D1 Arkema,Montpellier,700
+Gonzalo Montiel,RB,Argentina,Premier League,Nott'm Forest,700
+Morales,ST,Spain,LALIGA EA SPORTS,Villarreal CF,700
+Nordi Mukiele,RB,France,Ligue 1 Uber Eats,Paris SG,500
+Marie Müller,LB,Germany,GPFBL,SC Freiburg,700
+Luis Muriel,ST,Colombia,Serie A TIM,Bergamo Calcio,700
+Juan Musso,GK,Argentina,Serie A TIM,Bergamo Calcio,450
+Florian Neuhaus,CM,Germany,Bundesliga,M'gladbach,400
+Alex Telles,LB,Brazil,ROSHN Saudi League,Al Nassr,450
+Ifeoma Onumonu,ST,Nigeria,NWSL,NJ/NY Gotham,500
+Diana Ordóñez,ST,Mexico,NWSL,Houston Dash,700
+Stefan Ortega,GK,Germany,Premier League,Manchester City,800
+Andreea Părăluță,GK,Romania,Liga F,Levante UD,600
+Julie Pasquereau,CB,France,D1 Arkema,Stade de Reims,550
+Ayoze Pérez Gutiérrez,LM,Spain,LALIGA EA SPORTS,Real Betis,550
+Mattia Perin,GK,Italy,Serie A TIM,Juventus,800
+Ivan Perišić,LW,Croatia,Premier League,Spurs,450
+Lena Petermann,ST,Germany,Barclays WSL,Leicester City,500
+Kalvin Phillips,CDM,England,Premier League,Manchester City,800
+Constance Picaud,GK,France,D1 Arkema,Paris SG,450
+Itziar Pinillos Moreno,RWB,Spain,Liga F,Madrid CFF,600
+Ethan Pinnock,CB,Jamaica,Premier League,Brentford,500
+Yeremy Pino,LM,Spain,LALIGA EA SPORTS,Villarreal CF,450
+Nichelle Prince,RW,Canada,NWSL,Houston Dash,500
+Christian Pulisic,LW,United States,Serie A TIM,Milan,500
+Maximiliane Rall,RB,Germany,GPFBL,FC Bayern München,550
+Giacomo Raspadori,CF,Italy,Serie A TIM,Napoli FC,700
+Matheus Reis,CB,Brazil,Liga Portugal,Sporting CP,700
+Emanuel Reynoso,CAM,Argentina,MLS,Minnesota United,400
+Lucas Robertone,CM,Argentina,LALIGA EA SPORTS,UD Almería,700
+Sebastian Rode,CDM,Germany,Bundesliga,Frankfurt,500
+Cinta Del Mar Rodríguez Costa,CB,Spain,Liga F,Atlético de Madrid,700
+Pedro,RW,Spain,Serie A TIM,Latium,550
+Ellie Roebuck,GK,England,Barclays WSL,Manchester City,750
+Alejandro Romero Gamarra,CAM,Paraguay,United Emirates League,Al Ain FC,400
+Frederik Rønnow,GK,Denmark,Bundesliga,Union Berlin,600
+Ebony Salmon,ST,England,NWSL,Houston Dash,700
+Letícia Santos de Oliveira,RB,Brazil,GPFBL,Frankfurt,700
+Perr Schuurs,CB,Holland,Serie A TIM,Torino,2800
+Matz Sels,GK,Belgium,Ligue 1 Uber Eats,Strasbourg,450
+Risa Shimizu,RB,Japan,Barclays WSL,West Ham,550
+Marco Silvestri,GK,Italy,Serie A TIM,Udinese,500
+Mohamed Simakan,CB,France,Bundesliga,RB Leipzig,700
+Xavi Simons,CAM,Holland,Bundesliga,RB Leipzig,700
+Katja Snoeijs,ST,Holland,Barclays WSL,Everton,500
+Douglas Luiz,CDM,Brazil,Premier League,Aston Villa,400
+Carlos Soler Barragán,CM,Spain,Ligue 1 Uber Eats,Paris SG,700
+Alexander Sørloth,ST,Norway,LALIGA EA SPORTS,Villarreal CF,750
+Tomáš Souček,CDM,Czech Republic,Premier League,West Ham,450
+Kathellen Sousa Feitoza,CB,Brazil,Liga F,Real Madrid,700
+Michaela Specht,CB,Germany,GPFBL,TSG Hoffenheim,1100
+Sofie Svava,LB,Denmark,Liga F,Real Madrid,700
+Kateřina Svitková,CAM,Czech Republic,Barclays WSL,Chelsea,700
+James Tarkowski,CB,England,Premier League,Everton,450
+Pietro Terracciano,GK,Italy,Serie A TIM,Fiorentina,450
+Teddy Teuma,CM,Malta,Ligue 1 Uber Eats,Stade de Reims,700
+Khéphren Thuram,CM,France,Ligue 1 Uber Eats,OGC Nice,700
+Marcus Thuram,ST,France,Serie A TIM,Inter,500
+Jurriën Timber,CB,Holland,Premier League,Arsenal,800
+Jean-Clair Todibo,CB,France,Ligue 1 Uber Eats,OGC Nice,700
+Corentin Tolisso,CDM,France,Ligue 1 Uber Eats,OL,500
+Paula Tomás Serer,LB,Spain,Liga F,Levante UD,700
+Óliver Torres,CM,Spain,LALIGA EA SPORTS,Sevilla FC,550
+Gernot Trauner,CB,Austria,Eredivisie,Feyenoord,700
+Samuel Umtiti,CB,France,Ligue 1 Uber Eats,LOSC Lille,500
+Lars Unnerstall,GK,Germany,Eredivisie,FC Twente,700
+Hans Vanaken,CM,Belgium,1A Pro League,Club Brugge,500
+Jan Vertonghen,CB,Belgium,1A Pro League,RSC Anderlecht,450
+Ainhoa Vicente Moraza,RB,Spain,Liga F,Atlético de Madrid,500
+Edin Višća,RM,Bosnia and Herzegovina,Trendyol Süper Lig,Trabzonspor,550
+Daniel Vivian Moreno,CB,Spain,LALIGA EA SPORTS,Athletic Club,450
+Kevin Volland,ST,Germany,Bundesliga,Union Berlin,600
+Shuang Wang,RW,China PR,NWSL,Rac. Louisville,600
+Nico Williams,RM,Spain,LALIGA EA SPORTS,Athletic Club,1700
+Arin Wright,LB,United States,NWSL,Chicago Red Stars,550
+Lotte Wubben-Moy,CB,England,Barclays WSL,Arsenal,900
+Shelina Zadorsky,CB,Canada,Barclays WSL,Spurs,500
+Denis Zakaria,CDM,Switzerland,Ligue 1 Uber Eats,AS Monaco,700
+Davide Zappacosta,LWB,Italy,Serie A TIM,Bergamo Calcio,600
+Weronika Zawistowska,LM,Poland,GPFBL,FC Bayern München,700
+Lucas Zelarayán,CAM,Armenia,ROSHN Saudi League,Al Fateh,400
+Carlos Augusto,LM,Brazil,Serie A TIM,Inter,600
+Claudia Zornoza Sánchez,CM,Spain,Liga F,Real Madrid,500
+Kurt Zouma,CB,France,Premier League,West Ham,700
+Dean Henderson,GK,England,Premier League,Crystal Palace,450
+Mattéo Guendouzi,CM,France,Serie A TIM,Latium,700
+Ryan Gravenberch,CM,Holland,Premier League,Liverpool,700
+Folarin Balogun,ST,United States,Ligue 1 Uber Eats,AS Monaco,450
+Matheus Luiz Nunes,CM,Portugal,Premier League,Manchester City,800
+Jamie Vardy,ST,England,EFL Championship,Leicester City,450
+Reo Hatate,CM,Japan,cinch Prem,Celtic,600
+Fran García,LB,Spain,LALIGA EA SPORTS,Real Madrid,700
+Borna Sosa,LWB,Croatia,Bundesliga,VfB Stuttgart,0
+Branco van den Boomen,CM,Holland,Eredivisie,Ajax,450
+Giovanni Reyna,RM,United States,Bundesliga,Borussia Dortmund,450
+Salis Abdul Samed,CDM,Ghana,Ligue 1 Uber Eats,RC Lens,450
+Teresa José Abelleira Dueñas,CM,Spain,Liga F,Real Madrid,400
+Tyler Adams,CDM,United States,Premier League,AFC Bournemouth,700
+Luis Miguel Afonso Fernandes,CM,Portugal,Liga Portugal,SC Braga,400
+Joachim Andersen,CB,Denmark,Premier League,Crystal Palace,500
+Ivana Andrés Sanz,CB,Spain,Liga F,Real Madrid,650
+Michail Antonio,ST,Jamaica,Premier League,West Ham,500
+Alphonse Areola,GK,France,Premier League,West Ham,500
+Gabriel Paulista,CB,Brazil,LALIGA EA SPORTS,Valencia CF,500
+Iris Arnaiz Gil,CDM,Spain,Liga F,Real Sociedad,400
+Serge Aurier,RB,Côte d'Ivoire,Premier League,Nott'm Forest,400
+Sardar Azmoun,ST,Iran,Serie A TIM,Roma FC,500
+Benoît Badiashile,CB,France,Premier League,Chelsea,500
+Simon Banza,ST,France,Liga Portugal,SC Braga,450
+Antonín Barák,CM,Czech Republic,Serie A TIM,Fiorentina,700
+Sheraldo Becker,ST,Suriname,Bundesliga,Union Berlin,700
+Héctor Bellerín Moruno,RB,Spain,LALIGA EA SPORTS,Real Betis,400
+Andrea Belotti,ST,Italy,Serie A TIM,Roma FC,500
+Saïd Benrahma,LM,Algeria,Premier League,West Ham,450
+Mergim Berisha,ST,Germany,Bundesliga,FC Augsburg,0
+Federico Bernardeschi,RW,Italy,MLS,Toronto FC,500
+Justin Bijlow,GK,Holland,Eredivisie,Feyenoord,450
+Andre Blake,GK,Jamaica,MLS,Philadelphia,400
+Ludovic Blas,CAM,France,Ligue 1 Uber Eats,Stade Rennais FC,500
+Denis Bouanga,LW,Gabon,MLS,LAFC,700
+Emily Boyd,GK,United States,NWSL,Chicago Red Stars,600
+Pauline Bremer,ST,Germany,Barclays WSL,Brighton,700
+Signe Bruun,ST,Denmark,Liga F,Real Madrid,450
+Jean Butez,GK,France,1A Pro League,Royal Antwerp FC,500
+Nélson Semedo,RB,Portugal,Premier League,Wolves,600
+Uğurcan Çakır,GK,Turkey,Trendyol Süper Lig,Trabzonspor,500
+Mohamed Camara,CDM,Mali,Ligue 1 Uber Eats,AS Monaco,700
+Maxence Caqueret,CM,France,Ligue 1 Uber Eats,OL,400
+Matheus Cunha,ST,Brazil,Premier League,Wolves,450
+Jess Carter,CB,England,Barclays WSL,Chelsea,500
+Gedson Fernandes,CM,Portugal,Trendyol Süper Lig,Beşiktaş,800
+Gaetano Castrovilli,CM,Italy,Serie A TIM,Fiorentina,550
+Lucas Chevalier,GK,France,Ligue 1 Uber Eats,LOSC Lille,450
+Eric Maxim Choupo-Moting,ST,Cameroon,Bundesliga,FC Bayern München,400
+Jasper Cillessen,GK,Holland,Eredivisie,N.E.C. Nijmegen,450
+Jordy Clasie,CDM,Holland,Eredivisie,AZ,600
+Catalina Tomas Coll Lluch,GK,Spain,Liga F,FC Barcelona,600
+Santiago Comesaña Veiga,CDM,Spain,LALIGA EA SPORTS,Villarreal CF,400
+Laura Coombs,CM,England,Barclays WSL,Manchester City,700
+Coronado,CAM,Brazil,ROSHN Saudi League,Al Ittihad,700
+Dante,CB,Brazil,Ligue 1 Uber Eats,OGC Nice,500
+Vladimír Coufal,RB,Czech Republic,Premier League,West Ham,500
+Gustavo Cuéllar,CDM,Colombia,ROSHN Saudi League,Al Shabab,700
+José Fonte,CB,Portugal,Liga Portugal,SC Braga,650
+Mahmoud Dahoud,CM,Germany,Premier League,Brighton,500
+Felipe,CB,Brazil,Premier League,Nott'm Forest,450
+Evanilson,ST,Brazil,Liga Portugal,FC Porto,450
+Savannah DeMelo,CAM,United States,NWSL,Rac. Louisville,450
+Habib Diallo,ST,Senegal,ROSHN Saudi League,Al Shabab,400
+Issa Diop,CB,France,Premier League,Fulham,500
+Ritsu Doan,RM,Japan,Bundesliga,SC Freiburg,550
+Danilho Doekhi,CB,Holland,Bundesliga,Union Berlin,500
+Oscar,CM,Brazil,CSL,Shanghai Port,550
+Cheick Doucouré,CDM,Mali,Premier League,Crystal Palace,400
+Sebastián Driussi,CAM,Argentina,MLS,Austin FC,400
+Martin Dúbravka,GK,Slovakia,Premier League,Newcastle Utd,400
+Munir El Haddadi,LM,Morocco,LALIGA EA SPORTS,UD Las Palmas,750
+El Shaarawy,LM,Italy,Serie A TIM,Roma FC,600
+Breel Embolo,ST,Switzerland,Ligue 1 Uber Eats,AS Monaco,450
+Alfonso Espino,LB,Uruguay,LALIGA EA SPORTS,Rayo Vallecano,700
+Aida Esteve Quintero,CM,Spain,Liga F,Madrid CFF,500
+Lisa Evans,RW,Scotland,Barclays WSL,West Ham,500
+Anssumane Fati,LW,Spain,LALIGA EA SPORTS,FC Barcelona,0
+Laurina Fazer,CM,France,D1 Arkema,Paris SG,450
+Aitor Fernández,GK,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Remo Freuler,CDM,Switzerland,Premier League,Nott'm Forest,0
+Conor Gallagher,CM,England,Premier League,Chelsea,450
+Nahikari García Pérez,ST,Spain,Liga F,Athletic Club,450
+Rubén García,LM,Spain,LALIGA EA SPORTS,CA Osasuna,500
+Jose Luís García Vayá,CDM,Spain,LALIGA EA SPORTS,Valencia CF,400
+Morgan Gautrat,CDM,United States,NWSL,KC Current,650
+Paulo Gazzaniga,GK,Argentina,LALIGA EA SPORTS,Girona FC,700
+Rachid Ghezzal,RW,Algeria,Trendyol Süper Lig,Beşiktaş,450
+Lee Gibson,GK,Scotland,Scottish Women's League,Glasgow City FC,650
+Gigot,CB,France,Ligue 1 Uber Eats,OM,500
+Santiago Giménez,ST,Mexico,Eredivisie,Feyenoord,400
+Ismaily,LB,Brazil,Ligue 1 Uber Eats,LOSC Lille,500
+Jonathan Gradit,CB,France,Ligue 1 Uber Eats,RC Lens,500
+Pascal Groß,CM,Germany,Premier League,Brighton,450
+Julia Grosso,CM,Canada,Calcio A Femminile,Juventus,700
+Guaita,GK,Spain,Premier League,Crystal Palace,0
+Marc Guehi,CB,England,Premier League,Crystal Palace,450
+Sara Björk Gunnarsdóttir,CM,Iceland,Calcio A Femminile,Juventus,750
+Amadou Haidara,CM,Mali,Bundesliga,RB Leipzig,450
+Kirsty Hanson,LM,Scotland,Barclays WSL,Aston Villa,700
+Hans Hateboer,RWB,Holland,Serie A TIM,Bergamo Calcio,400
+Honoka Hayashi,CM,Japan,Barclays WSL,West Ham,550
+Thorgan Hazard,LM,Belgium,Bundesliga,Borussia Dortmund,0
+Ahmed Hegazi,CB,Egypt,ROSHN Saudi League,Al Ittihad,400
+Manon Heil,GK,France,D1 Arkema,FC Fleury 91,450
+Benjamin Henrichs,RB,Germany,Bundesliga,RB Leipzig,400
+Rico Henry,LB,England,Premier League,Brentford,700
+Oihane Hernández Zurbano,RB,Spain,Liga F,Real Madrid,450
+Héctor Herrera,CM,Mexico,MLS,Houston Dynamo,650
+Giovanna Hoffmann,ST,Germany,GPFBL,SC Freiburg,500
+Kelli Hubly,CB,United States,NWSL,Portland Thorns,600
+Junya Ito,RM,Japan,Ligue 1 Uber Eats,Stade de Reims,700
+Nicolas Jackson,ST,Senegal,Premier League,Chelsea,500
+Florian Kainz,CAM,Austria,Bundesliga,1. FC Köln,400
+Pierre Kalulu,CB,France,Serie A TIM,Milan,700
+Rick Karsdorp,RM,Holland,Serie A TIM,Roma FC,500
+Moise Kean,ST,Italy,Serie A TIM,Juventus,800
+Naby Keïta,CM,Guinea,Bundesliga,SV Werder Bremen,450
+Katarzyna Kiedrzynek,GK,Poland,D1 Arkema,Paris SG,400
+Sead Kolašinac,CB,Bosnia and Herzegovina,Serie A TIM,Bergamo Calcio,500
+Rade Krunić,CM,Bosnia and Herzegovina,Serie A TIM,Milan,400
+Kodjo Fo-Doh Laba,ST,Togo,United Emirates League,Al Ain FC,400
+Alban Lafont,GK,France,Ligue 1 Uber Eats,FC Nantes,700
+Noa Lang,LW,Holland,Eredivisie,PSV,700
+Geum Min Lee,ST,Korea Republic,Barclays WSL,Brighton,400
+Jae Sung Lee,CAM,Korea Republic,Bundesliga,1. FSV Mainz 05,400
+Kangin Lee,LW,Korea Republic,Ligue 1 Uber Eats,Paris SG,450
+Emerson,RB,Brazil,Premier League,Spurs,450
+Mario Lemina,CDM,Gabon,Premier League,Wolves,450
+Martina Lenzini,CB,Italy,Calcio A Femminile,Juventus,750
+Sarai Linder,RB,Germany,GPFBL,TSG Hoffenheim,450
+Alex Sandro,LB,Brazil,Serie A TIM,Juventus,800
+Sean Longstaff,CM,England,Premier League,Newcastle Utd,450
+Maxime Lopez,CM,France,Serie A TIM,Sassuolo,0
+Dejan Lovren,CB,Croatia,Ligue 1 Uber Eats,OL,450
+Dodi Lukébakio,RM,Belgium,LALIGA EA SPORTS,Sevilla FC,450
+Renato Sanches,CM,Portugal,Serie A TIM,Roma FC,2300
+Pablo Maffeo,RWB,Spain,LALIGA EA SPORTS,RCD Mallorca,450
+Nemanja Maksimović,CM,Serbia,LALIGA EA SPORTS,Getafe CF,400
+Tyrell Malacia,LB,Holland,Premier League,Manchester Utd,700
+Ruslan Malinovskyi,CF,Ukraine,Serie A TIM,Genoa,400
+Agustín Marchesín,GK,Argentina,LALIGA EA SPORTS,RC Celta,400
+Rosa Márquez Baena,CM,Spain,Liga F,Real Betis,700
+Cristina Martín-Prieto,ST,Spain,Liga F,Sevilla FC,500
+Fernando Martínez Rubio,GK,Spain,LALIGA EA SPORTS,UD Almería,400
+Asun Martínez Salinas,RW,Spain,Liga F,Valencia CF,400
+Konstantinos Mavropanos,CB,Greece,Premier League,West Ham,700
+Philipp Max,LWB,Germany,Bundesliga,Frankfurt,550
+Bryan Mbeumo,RW,Cameroon,Premier League,Brentford,400
+Junior Messias,RW,Brazil,Serie A TIM,Genoa,400
+Luis Milla,CM,Spain,LALIGA EA SPORTS,Getafe CF,450
+Jon Moncayola Tollar,CM,Spain,LALIGA EA SPORTS,CA Osasuna,450
+Hidemasa Morita,CM,Japan,Liga Portugal,Sporting CP,550
+Zoe Morse,CB,United States,Barclays WSL,Brighton,700
+Neto,GK,Brazil,Premier League,AFC Bournemouth,450
+Zećira Mušović,GK,Sweden,Barclays WSL,Chelsea,450
+Yvon Mvogo,GK,Switzerland,Ligue 1 Uber Eats,FC Lorient,400
+Galeno,LM,Brazil,Liga Portugal,FC Porto,700
+Marcão,CB,Brazil,LALIGA EA SPORTS,Sevilla FC,450
+Fran Navarro,ST,Spain,Liga Portugal,FC Porto,500
+Evan Ndicka,CB,France,Serie A TIM,Roma FC,1100
+Tanguy Ndombele,CM,France,Premier League,Spurs,0
+Victor Nelsson,CB,Denmark,Trendyol Süper Lig,Galatasaray,500
+Jota,LM,Portugal,ROSHN Saudi League,Al Ittihad,700
+Amanda Nildén,LB,Sweden,Calcio A Femminile,Juventus,750
+Aniek Nouwen,CB,Holland,Barclays WSL,Chelsea,500
+M'Bala Nzola,ST,Angola,Serie A TIM,Fiorentina,700
+Michael Olise,RW,France,Premier League,Crystal Palace,450
+Caio Henrique,LB,Brazil,Ligue 1 Uber Eats,AS Monaco,450
+Mathías Olivera,LB,Uruguay,Serie A TIM,Napoli FC,600
+Maite Oroz Areta,CM,Spain,Liga F,Real Madrid,700
+Riccardo Orsolini,RM,Italy,Serie A TIM,Bologna,750
+Sonia Ouchene,CAM,France,D1 Arkema,Montpellier,400
+Salih Özcan,CDM,Turkey,Bundesliga,Borussia Dortmund,700
+Ella Palis,CM,France,Calcio A Femminile,Juventus,800
+Salma Celeste Paralluelo Ayingono,LW,Spain,Liga F,FC Barcelona,750
+Jess Park,RW,England,Barclays WSL,Manchester City,700
+Vangelis Pavlidis,ST,Greece,Eredivisie,AZ,400
+Pedraza,LB,Spain,LALIGA EA SPORTS,Villarreal CF,500
+Nicolas Pépé,RM,Côte d'Ivoire,Premier League,Arsenal,1000
+Matteo Pessina,CAM,Italy,Serie A TIM,Monza,500
+Laëtitia Philippe,GK,France,D1 Arkema,Havre AC,500
+Ally Prisock,CB,United States,NWSL,Houston Dash,450
+Quinn,CDM,Canada,NWSL,OL Reign,400
+Predrag Rajković,GK,Serbia,LALIGA EA SPORTS,RCD Mallorca,400
+Arthur Henrique Ramos Oliveira Melo,CM,Brazil,Serie A TIM,Fiorentina,400
+Jacob Ramsey,LM,England,Premier League,Aston Villa,700
+Hayley Raso,RW,Australia,Liga F,Real Madrid,700
+David Raum,LB,Germany,Bundesliga,RB Leipzig,700
+Sergio Reguilón Rodríguez,LB,Spain,Premier League,Spurs,0
+Tijjani Reijnders,CM,Holland,Serie A TIM,Milan,700
+Sérgio Oliveira,CM,Portugal,Trendyol Süper Lig,Galatasaray,400
+Domingos André Ribeiro Almeida,CM,Portugal,LALIGA EA SPORTS,Valencia CF,400
+Ali Riley,RB,New Zealand,NWSL,Angel City FC,700
+Kenti Robles,RB,Mexico,Liga F,Real Madrid,450
+Dani Rodríguez,RM,Spain,LALIGA EA SPORTS,RCD Mallorca,600
+Yazmeen Ryan,RW,United States,NWSL,NJ/NY Gotham,400
+Mathew Ryan,GK,Australia,Eredivisie,AZ,400
+Alexis Saelemaekers,RW,Belgium,Serie A TIM,Milan,0
+Amanda Sampedro Bustos,CAM,Spain,Liga F,Sevilla FC,700
+Antonio Sanabria,ST,Paraguay,Serie A TIM,Torino,2700
+Pablo Sarabia,RM,Spain,Premier League,Wolves,400
+Gianluca Scamacca,ST,Italy,Serie A TIM,Bergamo Calcio,450
+Lisa Schmitz,GK,Germany,GPFBL,VfL Wolfsburg,500
+Stefano Sensi,CM,Italy,Serie A TIM,Inter,850
+Jéssica Silva,ST,Portugal,Liga Portugal Feminino,SL Benfica,700
+Giovanni Simeone,ST,Argentina,Serie A TIM,Napoli FC,450
+Luis Sinisterra,LM,Colombia,EFL Championship,Leeds United,0
+Abby Smith,GK,United States,NWSL,NJ/NY Gotham,550
+Smith Rowe,LW,England,Premier League,Arsenal,800
+Djibril Sow,CM,Switzerland,LALIGA EA SPORTS,Sevilla FC,700
+Julie Soyer,RB,France,D1 Arkema,Paris FC,650
+Sam Staab,CB,United States,NWSL,Washington Spirit,450
+Taras Stepanenko,CDM,Ukraine,Ukrayina Liha,Shakhtar Donetsk,400
+Lars Stindl,CAM,Germany,Bundesliga 2,Karlsruher SC,400
+Demi Stokes,LB,England,Barclays WSL,Manchester City,700
+Chantelle Swaby,CB,Jamaica,D1 Arkema,FC Fleury 91,700
+Renato Tapia,CDM,Peru,LALIGA EA SPORTS,RC Celta,400
+António João Tavares Silva,CB,Portugal,Liga Portugal,SL Benfica,700
+James Tavernier,RB,England,cinch Prem,Rangers,600
+Adrien Thomasson,LW,France,Ligue 1 Uber Eats,RC Lens,450
+Takehiro Tomiyasu,RB,Japan,Premier League,Arsenal,800
+Aïssatou Tounkara,CB,France,D1 Arkema,Paris SG,0
+Óscar Trejo,CAM,Argentina,LALIGA EA SPORTS,Rayo Vallecano,400
+Mike Trésor,LM,Belgium,1A Pro League,KRC Genk,0
+Martina Tufeković,GK,Germany,GPFBL,TSG Hoffenheim,450
+Millie Turner,CB,England,Barclays WSL,Manchester Utd,550
+Paola Ulloa Jiménez,GK,Spain,Liga F,Madrid CFF,600
+Cengiz Ünder,RM,Turkey,Trendyol Süper Lig,Fenerbahçe,450
+Irina Priscilla Uribe García,LW,Spain,Liga F,Levante LP,500
+Myrto Uzuni,ST,Albania,LALIGA EA SPORTS,Granada CF,400
+Shanice van de Sanden,RM,Holland,Barclays WSL,Liverpool,700
+Micky van de Ven,CB,Holland,Premier League,Spurs,6800
+Merel van Dongen,CB,Holland,Liga F,Atlético de Madrid,500
+Joey Veerman,CM,Holland,Eredivisie,PSV,400
+Gabriel Veiga Novas,CM,Spain,ROSHN Saudi League,Al Ahli,400
+Joël Veltman,RB,Holland,Premier League,Brighton,400
+Mikel Vesga Arruti,CM,Spain,LALIGA EA SPORTS,Athletic Club,400
+Nikola Vlašić,CF,Croatia,Serie A TIM,Torino,2700
+Elye Wahi,ST,France,Ligue 1 Uber Eats,RC Lens,700
+James Ward-Prowse,CM,England,Premier League,West Ham,450
+Dani Weatherholt,CDM,United States,NWSL,Angel City FC,400
+Adam Webster,CB,England,Premier League,Brighton,450
+Joelle Wedemeyer,RB,Germany,GPFBL,VfL Wolfsburg,550
+Manjou Wilde,CM,Germany,GPFBL,1. FC Köln,450
+Lydia Williams,GK,Australia,Barclays WSL,Brighton,500
+Joseph Willock,CM,England,Premier League,Newcastle Utd,700
+Patrick Wimmer,RW,Austria,Bundesliga,VfL Wolfsburg,700
+Marius Wolf,RB,Germany,Bundesliga,Borussia Dortmund,500
+Riola Xhemaili,CAM,Switzerland,GPFBL,VfL Wolfsburg,400
+McCall Zerboni,CDM,United States,NWSL,NJ/NY Gotham,600
+Yvonne Zielinski,LM,Germany,GPFBL,MSV Duisburg,500
+Vicente Guaita Panadero,GK,Spain,LALIGA EA SPORTS,RC Celta,450
+Remo Freuler,CDM,Switzerland,Serie A TIM,Bologna,450
+Thorgan Hazard,LM,Belgium,1A Pro League,RSC Anderlecht,400
+Maxime Lopez,CM,France,Serie A TIM,Fiorentina,400
+Luis Sinisterra,LM,Colombia,Premier League,AFC Bournemouth,700
+Tanguy Ndombele,CM,France,Trendyol Süper Lig,Galatasaray,400
+Mergim Berisha,ST,Germany,Bundesliga,TSG Hoffenheim,400
+Alexis Saelemaekers,RW,Belgium,Serie A TIM,Bologna,400
+Borna Sosa,LWB,Croatia,Eredivisie,Ajax,400
+Reguilón,LB,Spain,Premier League,Manchester Utd,450
+Anssumane Fati,LW,Spain,Premier League,Brighton,850
+Mike Trésor,LM,Belgium,Premier League,Burnley,700
+Nikola Karczewska,ST,Poland,GPFBL,Leverkusen,400
+Evan Ndicka,CB,Côte d'Ivoire,Serie A TIM,Roma FC,700
+Nikola Karczewska,ST,Poland,Barclays WSL,Spurs,0
+Nicolas Pépé,RM,Côte d'Ivoire,Trendyol Süper Lig,Trabzonspor,450
+Youssoufa Moukoko,ST,Germany,Bundesliga,Borussia Dortmund,400
+Kyogo Furuhashi,ST,Japan,cinch Prem,Celtic,700
+Arda Güler,CAM,Turkey,LALIGA EA SPORTS,Real Madrid,400
+Rodrigo Riquelme Reche,LM,Spain,LALIGA EA SPORTS,Atlético de Madrid,500
+Çağlar Söyüncü,CB,Turkey,LALIGA EA SPORTS,Atlético de Madrid,400
+Samuel Dias Lino,LM,Brazil,LALIGA EA SPORTS,Atlético de Madrid,400
+Yunis Abdelhamid,CB,Morocco,Ligue 1 Uber Eats,Stade de Reims,450
+Luciano Acosta,CAM,Argentina,MLS,FC Cincinnati,700
+Tosin Adarabioyo,CB,England,Premier League,Fulham,400
+Amine Adli,ST,France,Bundesliga,Leverkusen,1000
+Kerem Aktürkoğlu,LM,Turkey,Trendyol Süper Lig,Galatasaray,400
+Salem Al Dawsari,LM,Saudi Arabia,ROSHN Saudi League,Al Hilal,700
+Laia Aleixandri López,CB,Spain,Barclays WSL,Manchester City,900
+Nadiem Amiri,CAM,Germany,Bundesliga,Leverkusen,400
+Filippa Angeldahl,CM,Sweden,Barclays WSL,Manchester City,650
+Stephen Eustáquio,CDM,Canada,Liga Portugal,FC Porto,400
+Luís Maximiano,GK,Portugal,LALIGA EA SPORTS,UD Almería,400
+Ana Vitória Araújo,CAM,Brazil,D1 Arkema,Paris SG,450
+Taiwo Awoniyi,ST,Nigeria,Premier League,Nott'm Forest,400
+Rinsola Babajide,LW,England,Liga F,UDG Tenerife,700
+Loïc Badé,CB,France,LALIGA EA SPORTS,Sevilla FC,400
+Tommaso Baldanzi,CAM,Italy,Serie A TIM,Empoli,450
+Iván Balliu,RB,Albania,LALIGA EA SPORTS,Rayo Vallecano,400
+Jonathan Bamba,LM,France,LALIGA EA SPORTS,RC Celta,400
+Igor Guilherme Barbosa da Paixão,LW,Brazil,Eredivisie,Feyenoord,450
+Abdülkerim Bardakcı,CB,Turkey,Trendyol Süper Lig,Galatasaray,400
+Musa Barrow,CF,Gambia,Serie A TIM,Bologna,0
+Michy Batshuayi,ST,Belgium,Trendyol Süper Lig,Fenerbahçe,400
+Ihlas Bebou,ST,Togo,Bundesliga,TSG Hoffenheim,700
+Inès Belloumou,LB,France,GPFBL,FC Bayern München,1700
+Alejandra Bernabé de Santiago,LB,Spain,Liga F,Real Sociedad,400
+Juan Bernat,LB,Spain,Ligue 1 Uber Eats,Paris SG,0
+Philip Billing,CM,Denmark,Premier League,AFC Bournemouth,400
+Janis Blaswich,GK,Germany,Bundesliga,RB Leipzig,500
+Daley Blind,CB,Holland,LALIGA EA SPORTS,Girona FC,500
+Rebecka Blomqvist,ST,Sweden,GPFBL,VfL Wolfsburg,400
+Willian Borges da Silva,LM,Brazil,Premier League,Fulham,500
+Rafaela Borggräfe,GK,Germany,GPFBL,SC Freiburg,400
+Fabio Borini,LM,Italy,Serie BKT,Sampdoria,450
+Lucas Boyé,ST,Argentina,LALIGA HYPERMOTION,Elche CF,0
+Martin Braithwaite,ST,Denmark,LALIGA HYPERMOTION,RCD Espanyol,400
+Sofie Bredgaard,ST,Denmark,Sverige Liga,FC Rosengård,400
+Amber Brooks,CB,United States,NWSL,Washington Spirit,400
+Ante Budimir,ST,Croatia,LALIGA EA SPORTS,CA Osasuna,500
+Santiago Bueno,CB,Uruguay,LALIGA EA SPORTS,Girona FC,0
+Luana Bühler,CB,Switzerland,Barclays WSL,Spurs,700
+Alessandro Buongiorno,CB,Italy,Serie A TIM,Torino,2700
+Dominic Calvert-Lewin,ST,England,Premier League,Everton,450
+Sarah Cambot,ST,France,D1 Arkema,En Avant Guingamp,500
+Gianluca Caprari,CF,Italy,Serie A TIM,Monza,400
+Timothy Castagne,RB,Belgium,Premier League,Fulham,400
+Danilo Cataldi,CDM,Italy,Serie A TIM,Latium,450
+Franco Cervi,LM,Argentina,LALIGA EA SPORTS,RC Celta,450
+Chalobah,CB,England,Premier League,Chelsea,400
+Simone Charley,ST,United States,NWSL,Angel City FC,1100
+Viktor Claesson,CM,Sweden,3F Superliga,F.C. København,700
+Dodô,RB,Brazil,Serie A TIM,Fiorentina,700
+Gia Corley,CM,United States,GPFBL,TSG Hoffenheim,400
+Joaquín Correa,CF,Argentina,Ligue 1 Uber Eats,OM,400
+Rachel Corsie,CB,Scotland,Barclays WSL,Aston Villa,450
+Jaume Costa,LWB,Spain,LALIGA EA SPORTS,RCD Mallorca,400
+Aaron Cresswell,LB,England,Premier League,West Ham,400
+Danilo D'Ambrosio,CB,Italy,Serie A TIM,Monza,450
+Carole da Silva Costa,CB,Portugal,Liga Portugal Feminino,SL Benfica,500
+Ben Davies,CB,Wales,Premier League,Spurs,400
+Craig Dawson,CB,England,Premier League,Wolves,400
+De Frutos,RM,Spain,LALIGA EA SPORTS,Rayo Vallecano,500
+Andreia de Jesus Jacinto,CM,Portugal,Liga F,Real Sociedad,450
+Vanderson de Oliveira Campos,RB,Brazil,Ligue 1 Uber Eats,AS Monaco,450
+Michael Richard Delgado de Oliveira,LM,Brazil,ROSHN Saudi League,Al Hilal,700
+Merih Demiral,CB,Turkey,ROSHN Saudi League,Al Ahli,400
+Paulinho,ST,Portugal,Liga Portugal,Sporting CP,450
+Eric Dier,CB,England,Premier League,Spurs,400
+Sofiane Diop,LM,France,Ligue 1 Uber Eats,OGC Nice,450
+Yehvann Diouf,GK,France,Ligue 1 Uber Eats,Stade de Reims,450
+Dakonam Djené,CB,Togo,LALIGA EA SPORTS,Getafe CF,400
+Berat Djimsiti,CB,Albania,Serie A TIM,Bergamo Calcio,500
+Jérémy Doku,RM,Belgium,Premier League,Manchester City,800
+Nicolás Domínguez,CDM,Argentina,Serie A TIM,Bologna,0
+Fabienne Dongus,CM,Germany,GPFBL,TSG Hoffenheim,700
+Éderson José dos Santos,CM,Brazil,Serie A TIM,Bergamo Calcio,400
+Abdoulaye Doucouré,CM,Mali,Premier League,Everton,400
+Bartłomiej Drągowski,GK,Poland,Serie BKT,Spezia,700
+Julian Draxler,LW,Germany,Ligue 1 Uber Eats,Paris SG,950
+Marvin Ducksch,ST,Germany,Bundesliga,SV Werder Bremen,400
+Caprice Dydasco,RB,United States,NWSL,Houston Dash,450
+Harvey Elliott,CAM,England,Premier League,Liverpool,400
+Nico Elvedi,CB,Switzerland,Bundesliga,M'gladbach,400
+Gonzalo Escalante,CM,Argentina,LALIGA EA SPORTS,Cádiz CF,400
+Nicolò Fagioli,CM,Italy,Serie A TIM,Juventus,800
+Romain Faivre,RM,France,Ligue 1 Uber Eats,FC Lorient,550
+Estela Férnandez Pablos,CM,Spain,Liga F,Valencia CF,400
+Fábio Vieira,CAM,Portugal,Premier League,Arsenal,800
+Jordan Ferri,CDM,France,Ligue 1 Uber Eats,Montpellier,450
+Pablo Fornals,LM,Spain,Premier League,West Ham,450
+Inma Gabarro Romero,LW,Spain,Liga F,Sevilla FC,400
+Aurora Galli,CM,Italy,Barclays WSL,Everton,500
+Rocío Gálvez Luna,CB,Spain,Liga F,Real Madrid,450
+Levi García,ST,Trinidad and Tobago,Hellas Liga,AEK Athens,700
+Raúl García,ST,Spain,LALIGA EA SPORTS,Athletic Club,400
+Rodrigo Garro,CAM,Argentina,LPF,Talleres,400
+Gabrielle George,CB,England,Barclays WSL,Everton,500
+Yannick Gerhardt,CM,Germany,Bundesliga,VfL Wolfsburg,500
+Morgan Gibbs-White,CAM,England,Premier League,Nott'm Forest,400
+Rafał Gikiewicz,GK,Poland,Trendyol Süper Lig,MKE Ankaragücü,400
+Bryan Gil Salvatierra,LW,Spain,Premier League,Spurs,400
+Maximiliano Gómez,ST,Uruguay,LALIGA EA SPORTS,Cádiz CF,950
+Demarai Gray,LM,Jamaica,Premier League,Everton,0
+Marko Grujić,CM,Serbia,Liga Portugal,FC Porto,400
+Irene Guerrero Sanmartín,CM,Spain,Liga F,Atlético de Madrid,450
+Pape Gueye,CM,Senegal,Ligue 1 Uber Eats,OM,400
+Idrissa Gueye,CDM,Senegal,Premier League,Everton,400
+Serhou Guirassy,ST,Guinea,Bundesliga,VfB Stuttgart,650
+Guruzeta,ST,Spain,LALIGA EA SPORTS,Athletic Club,400
+Abderrazak Hamdallah,ST,Morocco,ROSHN Saudi League,Al Ittihad,400
+Hannah Hampton,GK,England,Barclays WSL,Chelsea,450
+Javier Hernández,ST,Mexico,MLS,LA Galaxy,400
+Paola Hernández Díaz,CM,Spain,Liga F,UDG Tenerife,400
+Bryan Heynen,CDM,Belgium,1A Pro League,KRC Genk,400
+Morten Hjulmand,CDM,Denmark,Liga Portugal,Sporting CP,400
+Adam Hložek,ST,Czech Republic,Bundesliga,Leverkusen,400
+Tiny Hoekstra,ST,Holland,Nederland Vrouwen Liga,Ajax,400
+Andreas Hugo Hoelgebaum Pereira,CAM,Brazil,Premier League,Fulham,400
+Olivia Holdt,ST,Denmark,Sverige Liga,FC Rosengård,400
+Tomáš Holeš,CB,Czech Republic,Česká Liga,Slavia Praha,450
+Jaelin Howell,CDM,United States,NWSL,Rac. Louisville,400
+Timo Hübers,CB,Germany,Bundesliga,1. FC Köln,700
+Jonathan Ikoné,RW,France,Serie A TIM,Fiorentina,450
+Asier Illarramendi,CM,Spain,MLS,FC Dallas,500
+Danny Ings,ST,England,Premier League,West Ham,500
+Ko Itakura,CB,Japan,Bundesliga,M'gladbach,700
+Vincent Janssen,ST,Holland,1A Pro League,Royal Antwerp FC,500
+Adnan Januzaj,RW,Belgium,LALIGA EA SPORTS,Sevilla FC,400
+Inès Jaurena,CDM,France,NWSL,Washington Spirit,650
+Sequeira,LB,Portugal,Trendyol Süper Lig,Pendikspor,450
+Estelle Johnson,CB,Cameroon,NWSL,NC Courage,400
+Curtis Jones,CM,England,Premier League,Liverpool,450
+Luka Jovic,ST,Serbia,Serie A TIM,Fiorentina,0
+Elena Julve Pérez,RW,Spain,Liga F,Levante LP,2500
+Josip Juranović,RWB,Croatia,Bundesliga,Union Berlin,400
+Ferdi Kadioglu,RB,Turkey,Trendyol Süper Lig,Fenerbahçe,700
+Saša Kalajdžić,ST,Austria,Premier League,Wolves,400
+Jesper Karlsson,LW,Sweden,Serie A TIM,Bologna,450
+Michael Keane,CB,England,Premier League,Everton,450
+Alanna Kennedy,CB,Australia,Barclays WSL,Manchester City,650
+Justin Kluivert,RM,Holland,Premier League,AFC Bournemouth,700
+Robin Knoche,CB,Germany,Bundesliga,Union Berlin,450
+Kristin Kögel,ST,Germany,GPFBL,Leverkusen,450
+Dominik Kohr,CDM,Germany,Bundesliga,1. FSV Mainz 05,700
+Ghislain Konan,LB,Côte d'Ivoire,ROSHN Saudi League,Al Nassr,0
+Koné,CM,France,Bundesliga,M'gladbach,450
+Christian Kouamé,ST,Côte d'Ivoire,Serie A TIM,Fiorentina,400
+Christoph Kramer,CDM,Germany,Bundesliga,M'gladbach,400
+Ladislav Krejčí,CB,Czech Republic,Česká Liga,Sparta Praha,400
+Paulina Krumbiegel,RW,Germany,GPFBL,TSG Hoffenheim,400
+Mariana Larroquette,ST,Argentina,NWSL,Orlando Pride,0
+Claire Lavogez,CAM,France,NWSL,KC Current,550
+Enzo Le Fée,CM,France,Ligue 1 Uber Eats,Stade Rennais FC,400
+Florian Lejeune,CB,France,LALIGA EA SPORTS,Rayo Vallecano,500
+Clément Lenglet,CB,France,LALIGA EA SPORTS,FC Barcelona,0
+Adriana Leon,ST,Canada,Barclays WSL,Manchester Utd,550
+Jefferson Lerma,CDM,Colombia,Premier League,Crystal Palace,400
+Jesper Lindstrøm,CAM,Denmark,Serie A TIM,Napoli FC,450
+Marko Livaja,CF,Croatia,Liga Hrvatska,Hajduk Split,400
+Diego Llorente,CB,Spain,Serie A TIM,Roma FC,450
+Ruben Loftus-Cheek,CM,England,Serie A TIM,Milan,400
+Pedro Neto,LM,Portugal,Premier League,Wolves,450
+María Victoria Losada Gómez,CM,Spain,Barclays WSL,Brighton,450
+Batcheba Louis,RW,Haiti,D1 Arkema,FC Fleury 91,400
+Castello Lukeba,CB,France,Bundesliga,RB Leipzig,700
+Saša Lukić,CM,Serbia,Premier League,Fulham,450
+Hanna Lundkvist,RB,Sweden,Liga F,Atlético de Madrid,400
+André Filipe Luz Horta,CM,Portugal,Liga Portugal,SC Braga,400
+Darwin Machís,LM,Venezuela,LALIGA EA SPORTS,Cádiz CF,700
+Noni Madueke,RW,England,Premier League,Chelsea,400
+Joakim Mæhle,LWB,Denmark,Bundesliga,VfL Wolfsburg,450
+Iván Marcano Sierra,CB,Spain,Liga Portugal,FC Porto,400
+Guillermo Maripán,CB,Chile,Ligue 1 Uber Eats,AS Monaco,400
+Shekiera Martinez,ST,Germany,GPFBL,Frankfurt,500
+Martínez Quarta,CB,Argentina,Serie A TIM,Fiorentina,450
+Jordi Masip López,GK,Spain,LALIGA HYPERMOTION,R. Valladolid CF,700
+Clinton Mata,RB,Angola,Ligue 1 Uber Eats,OL,450
+Melendo,CM,Spain,LALIGA EA SPORTS,Granada CF,450
+Maria Méndez Fernández,CB,Spain,Liga F,Levante UD,400
+Domingos Duarte,CB,Portugal,LALIGA EA SPORTS,Getafe CF,400
+Pere Milla Peña,ST,Spain,LALIGA HYPERMOTION,RCD Espanyol,400
+James Milner,CM,England,Premier League,Brighton,400
+Yerry Mina,CB,Colombia,Serie A TIM,Fiorentina,400
+Rafa Mir,ST,Spain,LALIGA EA SPORTS,Sevilla FC,400
+Alexey Miranchuk,CF,Russia,Serie A TIM,Bergamo Calcio,400
+Juan Miranda González,LB,Spain,LALIGA EA SPORTS,Real Betis,500
+Maren Mjelde,RB,Norway,Barclays WSL,Chelsea,400
+Terem Moffi,ST,Nigeria,Ligue 1 Uber Eats,OGC Nice,450
+Johan Mojica,LB,Colombia,LALIGA EA SPORTS,CA Osasuna,700
+Caroline Møller,LW,Denmark,Liga F,Real Madrid,650
+César Montes,CB,Mexico,LALIGA HYPERMOTION,RCD Espanyol,0
+Lorenzo Montipò,GK,Italy,Serie A TIM,Hellas Verona,400
+Trincão,RW,Portugal,Liga Portugal,Sporting CP,400
+Marshall Munetsi,CDM,Zimbabwe,Ligue 1 Uber Eats,Stade de Reims,400
+Daniel Muñoz,RB,Colombia,1A Pro League,KRC Genk,400
+Rodrigo Becão,CB,Brazil,Trendyol Süper Lig,Fenerbahçe,400
+Francisca Ramos Nazareth Sousa,CAM,Portugal,Liga Portugal Feminino,SL Benfica,400
+João Mário Neto Lopes,RB,Portugal,Liga Portugal,FC Porto,450
+Nerea Nevado Gómez,LB,Spain,Liga F,Athletic Club,400
+Moussa Niakhaté,CB,Senegal,Premier League,Nott'm Forest,400
+Paige Nielsen,CB,United States,NWSL,Angel City FC,700
+Lukas Nmecha,ST,Germany,Bundesliga,VfL Wolfsburg,450
+Felix Nmecha,CM,Germany,Bundesliga,Borussia Dortmund,700
+Christian Nørgaard,CDM,Denmark,Premier League,Brentford,400
+Unai Núñez,CB,Spain,LALIGA EA SPORTS,RC Celta,400
+Anthony Nwakaeme,ST,Nigeria,ROSHN Saudi League,Al Fayha,450
+Brian Oliván Herrero,LB,Spain,LALIGA HYPERMOTION,RCD Espanyol,500
+Freja Siri Olofsson,CDM,Sweden,Liga F,Real Madrid,400
+Emerson,LB,Italy,Premier League,West Ham,500
+Leandro Paredes,CM,Argentina,Serie A TIM,Roma FC,500
+Fabiano Parisi,LB,Italy,Serie A TIM,Fiorentina,600
+Jiří Pavlenka,GK,Czech Republic,Bundesliga,SV Werder Bremen,400
+Toni Payne,LW,Nigeria,Liga F,Sevilla FC,700
+Andrea Petagna,ST,Italy,Serie A TIM,Monza,0
+Orbelín Pineda,CAM,Mexico,Hellas Liga,AEK Athens,700
+Alassane Plea,CAM,France,Bundesliga,M'gladbach,450
+Macarena Portales Nieto,LW,Spain,Liga F,Valencia CF,400
+Stefan Posch,RB,Austria,Serie A TIM,Bologna,550
+Yaroslav Rakitskyi,CB,Ukraine,Ukrayina Liha,Shakhtar Donetsk,400
+Ante Rebić,ST,Croatia,Trendyol Süper Lig,Beşiktaş,400
+Nathan Redmond,RM,England,Premier League,Burnley,500
+Pepe Reina,GK,Spain,LALIGA EA SPORTS,Villarreal CF,400
+Thierry Rendall Correia,RB,Portugal,LALIGA EA SPORTS,Valencia CF,700
+Friederike Repohl,GK,Germany,GPFBL,Leverkusen,400
+Mateo Retegui,ST,Italy,Serie A TIM,Genoa,450
+Diego Rico Salguero,LB,Spain,LALIGA EA SPORTS,Real Sociedad,0
+Kaleigh Riehl,CB,United States,NWSL,San Diego Wave,500
+Manuel Riemann,GK,Germany,Bundesliga,VfL Bochum,600
+Cari Roccaro,CDM,United States,NWSL,Chicago Red Stars,450
+Fábio Cardoso,CB,Portugal,Liga Portugal,FC Porto,400
+L. Henrique Rosa da Silva,RM,Brazil,LALIGA EA SPORTS,Real Betis,450
+Nicolò Rovella,CM,Italy,Serie A TIM,Latium,500
+Raúl Ruidíaz,ST,Peru,MLS,Sounders FC,700
+Julian Ryerson,LB,Norway,Bundesliga,Borussia Dortmund,400
+Youssouf Sabaly,RB,Senegal,LALIGA EA SPORTS,Real Betis,400
+Umar Sadiq,ST,Nigeria,LALIGA EA SPORTS,Real Sociedad,400
+Enith Salón Marcuello,GK,Spain,Liga F,Valencia CF,400
+Davinson Sánchez,CB,Colombia,Premier League,Spurs,0
+Rodri,LM,Spain,LALIGA EA SPORTS,Real Betis,400
+Baptiste Santamaria,CDM,France,Ligue 1 Uber Eats,Stade Rennais FC,400
+Marvin Schwäbe,GK,Germany,Bundesliga,1. FC Köln,400
+Mykola Shaparenko,CM,Ukraine,Ukrayina Liha,Dynamo Kyiv,400
+Oliver Skipp,CDM,England,Premier League,Spurs,400
+Łukasz Skorupski,GK,Poland,Serie A TIM,Bologna,400
+Andreas Skov Olsen,RM,Denmark,1A Pro League,Club Brugge,400
+Manor Solomon,LW,Israel,Premier League,Spurs,400
+Florian Sotoca,ST,France,Ligue 1 Uber Eats,RC Lens,450
+Marco Sportiello,GK,Italy,Serie A TIM,Milan,400
+Jeremiah St. Juste,CB,Holland,Liga Portugal,Sporting CP,850
+Nicolae Stanciu,CM,Romania,CSL,Wuhan 3 Towns,0
+Sandra Starke,ST,Germany,GPFBL,RB Leipzig,450
+Greta Stegemann,CB,Germany,GPFBL,SC Freiburg,400
+Samantha Steuerwald,CB,Germany,GPFBL,SC Freiburg,400
+Strefezza,RW,Brazil,Serie A TIM,Lecce,400
+Cristhian Stuani,ST,Uruguay,LALIGA EA SPORTS,Girona FC,950
+Damián Suárez,RWB,Uruguay,LALIGA EA SPORTS,Getafe CF,1000
+Tereza Szewieczková,CM,Czech Republic,Ceska Liga Žen,Slavia Praha,450
+Sebastian Szymanski,CAM,Poland,Trendyol Süper Lig,Fenerbahçe,400
+André Filipe Tavares Gomes,CDM,Portugal,Premier League,Everton,450
+Ana Tejada Jiménez,CB,Spain,Liga F,Real Sociedad,700
+Arthur Theate,CB,Belgium,Ligue 1 Uber Eats,Stade Rennais FC,400
+Malick Thiaw,CB,Germany,Serie A TIM,Milan,450
+Lindsey Thomas,ST,France,Calcio A Femminile,Juventus,800
+Lucas Torró Marset,CDM,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Lucas Tousart,CDM,France,Bundesliga,Union Berlin,400
+Manu Trigueros,CM,Spain,LALIGA EA SPORTS,Villarreal CF,400
+Christopher Trimmel,RWB,Austria,Bundesliga,Union Berlin,400
+Anatoliy Trubin,GK,Ukraine,Liga Portugal,SL Benfica,700
+Konstantinos Tsimikas,LB,Greece,Premier League,Liverpool,450
+Bruma,LM,Portugal,Liga Portugal,SC Braga,700
+Lilla Turanyi,CB,Hungary,GPFBL,Leverkusen,400
+Matt Turner,GK,United States,Premier League,Nott'm Forest,400
+Erika Tymrak,CAM,United States,NWSL,Orlando Pride,400
+Destiny Iyenoma Udogie,LB,Italy,Premier League,Spurs,700
+Martin Valjent,CB,Slovakia,LALIGA EA SPORTS,RCD Mallorca,400
+Donny van de Beek,CM,Holland,Premier League,Manchester Utd,450
+Matias Vecino,CM,Uruguay,Serie A TIM,Latium,550
+Marisa Viggiano,CDM,United States,NWSL,Houston Dash,400
+Lea Karólína Vilhjálmsdóttir,RM,Iceland,GPFBL,Leverkusen,550
+Wout Weghorst,ST,Holland,Bundesliga,TSG Hoffenheim,450
+Mitchell Weiser,RWB,Germany,Bundesliga,SV Werder Bremen,400
+Yoane Wissa,LW,Congo DR,Premier League,Brentford,400
+Juan Bernat Velasco,LB,Spain,Liga Portugal,SL Benfica,400
+Nicolae Stanciu,CM,Romania,ROSHN Saudi League,Damac FC,700
+Andrea Petagna,ST,Italy,Serie A TIM,Cagliari,450
+Diego Rico Salguero,LB,Spain,LALIGA EA SPORTS,Getafe CF,400
+Clément Lenglet,CB,France,Premier League,Aston Villa,450
+Demarai Gray,LM,Jamaica,ROSHN Saudi League,Ettifaq FC,400
+Davinson Sánchez,CB,Colombia,Trendyol Süper Lig,Galatasaray,400
+Lucas Boyé,ST,Argentina,LALIGA EA SPORTS,Granada CF,400
+César Montes,CB,Mexico,LALIGA EA SPORTS,UD Almería,400
+Luka Jovic,ST,Serbia,Serie A TIM,Milan,400
+Ghislain Konan,LB,Côte d'Ivoire,ROSHN Saudi League,Al Fayha,400
+Santiago Bueno,CB,Uruguay,Premier League,Wolves,800
+Nicolás Domínguez,CDM,Argentina,Premier League,Nott'm Forest,700
+Musa Barrow,CF,Gambia,ROSHN Saudi League,Al Taawoun,400
+Amine Adli,ST,Morocco,Bundesliga,Leverkusen,400
+Conor Coady,CB,England,EFL Championship,Leicester City,400
+Stephy Mavididi,LW,England,EFL Championship,Leicester City,400
+James Justin,LB,England,EFL Championship,Leicester City,400
+Kelechi Iheanacho,ST,Nigeria,EFL Championship,Leicester City,450
+Wout Faes,CB,Belgium,EFL Championship,Leicester City,400
+Christian Fassnacht,RM,Switzerland,EFL Championship,Norwich,400
+Kyle Walker-Peters,RB,England,EFL Championship,Southampton,400
+Cameron Carter-Vickers,CB,United States,cinch Prem,Celtic,700
+Brian Brobbey,ST,Holland,Eredivisie,Ajax,450
+Chuba Akpom,ST,England,Eredivisie,Ajax,400
+Laurent Abergel,CDM,France,Ligue 1 Uber Eats,FC Lorient,400
+Ruben Aguilar,RB,France,Ligue 1 Uber Eats,AS Monaco,0
+Kesen Ai,LW,China PR,CSL,Rongcheng FC,700
+Omar Alderete,CB,Paraguay,LALIGA EA SPORTS,Getafe CF,400
+Helton Leite,GK,Brazil,Trendyol Süper Lig,Antalyaspor,400
+Nordin Amrabat,RM,Morocco,Hellas Liga,AEK Athens,400
+Houssem Aouar,CAM,Algeria,Serie A TIM,Roma FC,450
+Cristian Arango,ST,Colombia,MLS,Real Salt Lake,400
+Ludwig Augustinsson,LB,Sweden,1A Pro League,RSC Anderlecht,450
+Ane Azkona Fuente,RM,Spain,Liga F,Athletic Club,700
+Iddrisu Baba,CM,Ghana,LALIGA EA SPORTS,UD Almería,400
+Alex Baena,CM,Spain,LALIGA EA SPORTS,Villarreal CF,450
+Eric Bailly,CB,Côte d'Ivoire,Premier League,Manchester Utd,0
+Cédric Bakambu,ST,Congo DR,Trendyol Süper Lig,Galatasaray,400
+Anastasios Bakasetas,CM,Greece,Trendyol Süper Lig,Trabzonspor,400
+Bethany Balcer,CAM,United States,NWSL,OL Reign,400
+Leonardo Balerdi,CB,Argentina,Ligue 1 Uber Eats,OM,450
+Bradley Barcola,RW,France,Ligue 1 Uber Eats,OL,0
+Nicole Barnhart,GK,United States,NWSL,Washington Spirit,700
+Leandro Barreiro Martins,CM,Luxembourg,Bundesliga,1. FSV Mainz 05,400
+Diana Bartovičová,CB,Slovakia,Ceska Liga Žen,Slavia Praha,400
+Altay Bayındır,GK,Turkey,Trendyol Süper Lig,Fenerbahçe,0
+Jennifer Beattie,CB,Scotland,Barclays WSL,Arsenal,850
+Lucas Beltrán,ST,Argentina,Serie A TIM,Fiorentina,400
+Hanna Bennison,CAM,Sweden,Barclays WSL,Everton,450
+Michelle Betos,GK,United States,NWSL,NJ/NY Gotham,400
+Camryn Biegalski,RB,United States,NWSL,Washington Spirit,400
+Celin Bizet,RM,Norway,Barclays WSL,Spurs,600
+Marco Bizot,GK,Holland,Ligue 1 Uber Eats,Stade Brestois 29,450
+Willy Boly,CB,Côte d'Ivoire,Premier League,Nott'm Forest,400
+Sebastiaan Bornauw,CB,Belgium,Bundesliga,VfL Wolfsburg,400
+Borré,ST,Colombia,Bundesliga,Frankfurt,0
+Olivier Boscagli,CB,France,Eredivisie,PSV,500
+Hicham Boudaoui,CM,Algeria,Ligue 1 Uber Eats,OGC Nice,400
+Aaron Boupendza,LM,Gabon,MLS,FC Cincinnati,700
+Celeste Boureille,CM,United States,D1 Arkema,Montpellier,400
+Josip Brekalo,CF,Croatia,Serie A TIM,Fiorentina,400
+Belle Briede,CM,United States,NWSL,San Diego Wave,450
+Alberto Brignoli,GK,Italy,Hellas Liga,Panathinaikos,400
+John Brooks,CB,United States,Bundesliga,TSG Hoffenheim,400
+Roman Bürki,GK,Switzerland,MLS,St. Louis CITY SC,400
+Vitaliy Buyalskyi,CM,Ukraine,Ukrayina Liha,Dynamo Kyiv,400
+Anthony Caci,LWB,France,Bundesliga,1. FSV Mainz 05,500
+Linda Caicedo,LW,Colombia,Liga F,Real Madrid,450
+Duje Ćaleta-Car,CB,Croatia,Ligue 1 Uber Eats,OL,400
+Francesco Caputo,ST,Italy,Serie A TIM,Empoli,450
+Vítor Manuel Carvalho Oliveira,ST,Portugal,Ligue 1 Uber Eats,OM,400
+Carlos Júnior,RW,Brazil,ROSHN Saudi League,Al Shabab,400
+Kerstin Casparij,RB,Holland,Barclays WSL,Manchester City,650
+Sandra Castelló Oliver,CDM,Spain,Liga F,Sporting Huelva,400
+Daniel Podence,LM,Portugal,Premier League,Wolves,0
+Jonny,LB,Spain,Premier League,Wolves,400
+Zeki Çelik,RWB,Turkey,Serie A TIM,Roma FC,400
+Václav Černý,RW,Czech Republic,Bundesliga,VfL Wolfsburg,400
+Miray Cin,CM,Turkey,GPFBL,MSV Duisburg,400
+Nathan Collins,CB,Republic of Ireland,Premier League,Brentford,400
+Eray Cömert,CB,Switzerland,Ligue 1 Uber Eats,FC Nantes,450
+Maxwel Cornet,LM,Côte d'Ivoire,Premier League,West Ham,400
+Josh Cullen,CDM,Republic of Ireland,Premier League,Burnley,400
+Eric Curbelo de la Fe,CB,Spain,LALIGA EA SPORTS,UD Las Palmas,700
+Hugo Cuypers,ST,Belgium,1A Pro League,KAA Gent,400
+Sabrina D'Angelo,GK,Canada,Barclays WSL,Arsenal,850
+Davidson,LW,Brazil,CSL,Wuhan 3 Towns,400
+Willian José,ST,Brazil,LALIGA EA SPORTS,Real Betis,450
+Mikkel Damsgaard,CAM,Denmark,Premier League,Brentford,400
+Ignacio De Arruabarrena,GK,Uruguay,Liga Portugal,Arouca,550
+Bobby Decordova-Reid,RM,Jamaica,Premier League,Fulham,400
+De Ketelaere,CAM,Belgium,Serie A TIM,Bergamo Calcio,450
+Kay-Lee de Sanders,CB,Holland,Nederland Vrouwen Liga,Ajax,450
+Mattia De Sciglio,RB,Italy,Serie A TIM,Juventus,800
+Celina Degen,CB,Austria,GPFBL,1. FC Köln,400
+Moussa Dembélé,ST,France,ROSHN Saudi League,Ettifaq FC,400
+Sergiño Dest,RB,United States,Eredivisie,PSV,450
+Kiernan Dewsbury-Hall,CM,England,EFL Championship,Leicester City,400
+Mouctar Diakhaby,CB,Guinea,LALIGA EA SPORTS,Valencia CF,400
+Dénes Dibusz,GK,Hungary,Magyar Liga,Ferencvárosi TC,400
+Alexander Djiku,CB,Ghana,Trendyol Süper Lig,Fenerbahçe,400
+Paula Domínguez Encinas,CDM,Spain,Liga Portugal Feminino,SL Benfica,550
+Oscar Dorley,CM,Liberia,Česká Liga,Slavia Praha,400
+Niklas Dorsch,CDM,Germany,Bundesliga,FC Augsburg,400
+Igor,CB,Brazil,Premier League,Brighton,400
+Meggie Dougherty Howard,CDM,United States,NWSL,San Diego Wave,400
+Toni Duggan,ST,England,Barclays WSL,Everton,400
+Maxime Dupé,GK,France,1A Pro League,RSC Anderlecht,550
+Tiago Djaló,CB,Portugal,Ligue 1 Uber Eats,LOSC Lille,700
+Embarba,LM,Spain,LALIGA EA SPORTS,UD Almería,400
+Claire Emslie,RM,Scotland,NWSL,Angel City FC,450
+Gemma Evans,CB,Wales,Barclays WSL,Manchester Utd,400
+Fayçal Fajr,CM,Morocco,ROSHN Saudi League,Al Wehda,400
+Wladimiro Falcone,GK,Italy,Serie A TIM,Lecce,700
+Faraoni,RWB,Italy,Serie A TIM,Hellas Verona,400
+Bayley Feist,CAM,United States,NWSL,Washington Spirit,400
+Jesus Ferreira,ST,United States,MLS,FC Dallas,400
+Ivana Ferreira Fuso,ST,Brazil,Barclays WSL,Manchester Utd,1700
+Grace Fisk,CB,England,Barclays WSL,Liverpool,400
+Paula Flach,CB,Germany,GPFBL,MSV Duisburg,400
+Fraser Forster,GK,England,Premier League,Spurs,450
+Mary Fowler,CAM,Australia,Barclays WSL,Manchester City,700
+Angelo Fulgini,LW,France,Ligue 1 Uber Eats,RC Lens,450
+Vanessa Fürst,CB,Germany,GPFBL,MSV Duisburg,400
+Patricio Gabarrón Gil,CB,Spain,Serie A TIM,Latium,400
+Mijat Gaćinović,LM,Serbia,Hellas Liga,AEK Athens,650
+Kévin Gameiro,ST,France,Ligue 1 Uber Eats,Strasbourg,450
+Daniel García Carrillo,CM,Spain,LALIGA EA SPORTS,Athletic Club,400
+Johan Gastien,CDM,France,Ligue 1 Uber Eats,Clermont Foot 63,400
+Federico Gatti,CB,Italy,Serie A TIM,Juventus,800
+Ryan Gauld,CF,Scotland,MLS,Whitecaps FC,400
+Dániel Gazdag,CAM,Hungary,MLS,Philadelphia,400
+Luna Nørgaard Gevitz,CB,Denmark,D1 Arkema,Montpellier,400
+Adrià Giner Pedrosa,LB,Spain,LALIGA EA SPORTS,Sevilla FC,700
+Pierluigi Gollini,GK,Italy,Serie A TIM,Napoli FC,450
+Angel Gomes,CAM,England,Ligue 1 Uber Eats,LOSC Lille,450
+João Victor Gomes da Silva,CDM,Brazil,Premier League,Wolves,400
+Nico González,CDM,Spain,Liga Portugal,FC Porto,400
+Craig Goodwin,LM,Australia,A-League,Adelaide United,0
+Sarah Gorden,CB,United States,NWSL,Angel City FC,700
+Gorosabel,RB,Spain,LALIGA EA SPORTS,D. Alavés,500
+Florian Grillitsch,CDM,Austria,Bundesliga,TSG Hoffenheim,400
+Andrés Guardado,CDM,Mexico,LALIGA EA SPORTS,Real Betis,400
+Frédéric Guilbert,RWB,France,Ligue 1 Uber Eats,Strasbourg,400
+Malo Gusto,RB,France,Premier League,Chelsea,500
+Massadio Haïdara,LWB,Mali,Ligue 1 Uber Eats,RC Lens,400
+Marcel Halstenberg,CB,Germany,Bundesliga 2,Hannover 96,400
+Lukáš Haraslín,LW,Slovakia,Česká Liga,Sparta Praha,400
+Amine Harit,LM,Morocco,Ligue 1 Uber Eats,OM,400
+Jack Harrison,LM,England,Premier League,Everton,450
+Franziska Harsch,CM,Germany,GPFBL,TSG Hoffenheim,400
+Mahmoud Hassan,LW,Egypt,Trendyol Süper Lig,Trabzonspor,400
+Emilie Henriksen,CB,Denmark,GPFBL,MSV Duisburg,400
+Juan Camilo Hernández,ST,Colombia,MLS,Columbus Crew,700
+Aridane,CB,Spain,LALIGA EA SPORTS,Rayo Vallecano,400
+Guido Herrera,GK,Argentina,LPF,Talleres,400
+Yangel Herrera,CM,Venezuela,LALIGA EA SPORTS,Girona FC,400
+Alexandria Loy Hess,CAM,United States,GPFBL,MSV Duisburg,400
+Sam Hiatt,CB,United States,NWSL,OL Reign,400
+Julia Hickelsberger,RW,Austria,GPFBL,TSG Hoffenheim,400
+Aaron Hickey,RB,Scotland,Premier League,Brentford,400
+Marwin Hitz,GK,Switzerland,CSSL,FC Basel 1893,400
+Nicolas Höfler,CDM,Germany,Bundesliga,SC Freiburg,400
+Rasmus Højlund,ST,Denmark,Premier League,Manchester Utd,400
+Rob Holding,CB,England,Premier League,Arsenal,0
+Franck Honorat,RM,France,Bundesliga,M'gladbach,400
+Fabienne Humm,ST,Switzerland,Schweizer Damen Liga,FC Zürich,400
+Hee Chan Hwang,LM,Korea Republic,Premier League,Wolves,450
+Elseid Hysaj,LB,Albania,Serie A TIM,Latium,600
+Ivan Ilić,CM,Serbia,Serie A TIM,Torino,2700
+Sverrir Ingi Ingason,CB,Iceland,3F Superliga,FC Midtjylland,400
+Luka Ivanušec,CAM,Croatia,Eredivisie,Feyenoord,400
+Alex Iwobi,RM,Nigeria,Premier League,Everton,0
+Vitaly Janelt,CDM,Germany,Premier League,Brentford,400
+Mathias Jensen,CM,Denmark,Premier League,Brentford,400
+Raúl Jiménez,ST,Mexico,Premier League,Fulham,400
+Brennan Johnson,RW,Wales,Premier League,Nott'm Forest,0
+Sam Johnstone,GK,England,Premier League,Crystal Palace,450
+Arnaud Kalimuendo,ST,France,Ligue 1 Uber Eats,Stade Rennais FC,450
+Thilo Kehrer,CB,Germany,Premier League,West Ham,400
+Ryan Kent,LW,England,Trendyol Süper Lig,Fenerbahçe,700
+Rani Khedira,CDM,Germany,Bundesliga,Union Berlin,400
+Léa Khelifi,CAM,France,D1 Arkema,Montpellier,400
+Michaela Khýrová,LB,Czech Republic,Ceska Liga Žen,Slavia Praha,400
+Max Kilman,CB,England,Premier League,Wolves,400
+CeCe Kizer,LM,United States,NWSL,KC Current,500
+Davy Klaassen,CM,Holland,Eredivisie,Ajax,0
+Robin Koch,CB,Germany,Bundesliga,Frankfurt,400
+Odilon Kossounou,CB,Côte d'Ivoire,Bundesliga,Leverkusen,700
+Amanda Kowalski,CB,United States,NWSL,Chicago Red Stars,400
+Alex Král,CDM,Czech Republic,Bundesliga,Union Berlin,400
+Casey Krueger,RB,United States,NWSL,Chicago Red Stars,400
+Max Kruse,CF,Germany,Bundesliga 2,SC Paderborn 07,400
+Jan Kuchta,ST,Czech Republic,Česká Liga,Sparta Praha,400
+Cloé Lacasse,LW,Canada,Barclays WSL,Arsenal,800
+Maxence Lacroix,CB,France,Bundesliga,VfL Wolfsburg,700
+Aïssa Laïdouni,CDM,Tunisia,Bundesliga,Union Berlin,400
+Adam Lallana,CAM,England,Premier League,Brighton,400
+Tess Laplacette,RB,France,D1 Arkema,LOSC Lille,400
+Julien Laporte,CB,France,Ligue 1 Uber Eats,FC Lorient,450
+Darko Lazović,LM,Serbia,Serie A TIM,Hellas Verona,500
+Clarisse Le Bihan,CAM,France,NWSL,Angel City FC,400
+Benjamin Lecomte,GK,France,Ligue 1 Uber Eats,Montpellier,450
+Pierre Lees-Melou,CM,France,Ligue 1 Uber Eats,Stade Brestois 29,400
+Chiquinho,CM,Portugal,Liga Portugal,SL Benfica,400
+Dejan Ljubicic,RM,Austria,Bundesliga,1. FC Köln,400
+Nicolás Lodeiro,CAM,Uruguay,MLS,Sounders FC,550
+Kethna Louis,LB,Haiti,D1 Arkema,Montpellier,700
+Deiver Machado,LWB,Colombia,Ligue 1 Uber Eats,RC Lens,400
+Leonie Maier,RB,Germany,GPFBL,TSG Hoffenheim,450
+Aïssa Mandi,CB,Algeria,LALIGA EA SPORTS,Villarreal CF,400
+Rolando Mandragora,CM,Italy,Serie A TIM,Fiorentina,400
+Orel Mangala,CM,Belgium,Premier League,Nott'm Forest,450
+Petros Mantalos,CAM,Greece,Hellas Liga,AEK Athens,400
+Ana Marcos Moral,ST,Spain,Liga F,Valencia CF,700
+Pablo Marí Villar,CB,Spain,Serie A TIM,Monza,550
+Răzvan Marin,CM,Romania,Serie A TIM,Empoli,400
+Óscar Valentín,CDM,Spain,LALIGA EA SPORTS,Rayo Vallecano,400
+Toni Martínez,ST,Spain,Liga Portugal,FC Porto,400
+Arthur Masuaku,LB,Congo DR,Trendyol Süper Lig,Beşiktaş,400
+Azor Matusiwa,CDM,Holland,Ligue 1 Uber Eats,Stade de Reims,450
+Mykola Matvienko,CB,Ukraine,Ukrayina Liha,Shakhtar Donetsk,400
+Sylwia Matysik,RB,Poland,GPFBL,Leverkusen,400
+Alexandru Maxim,CAM,Romania,Trendyol Süper Lig,Gaziantep,400
+Kevin Mbabu,RB,Switzerland,Premier League,Fulham,0
+Haley McCutcheon,RB,United States,NWSL,Orlando Pride,400
+Weston McKennie,CM,United States,Serie A TIM,Juventus,800
+Dwight McNeil,LM,England,Premier League,Everton,450
+Brandon Mechele,CB,Belgium,1A Pro League,Club Brugge,400
+Álvaro Medrán Just,CM,Spain,ROSHN Saudi League,Al Taawoun,450
+Falone Meffometou,RB,Cameroon,D1 Arkema,FC Fleury 91,400
+Jacqueline Meißner,CB,Germany,GPFBL,SGS Essen,400
+Birger Meling,LB,Norway,3F Superliga,F.C. København,400
+Emily Menges,CB,United States,NWSL,Portland Thorns,450
+Thomas Meunier,RB,Belgium,Bundesliga,Borussia Dortmund,400
+Paulo Victor,GK,Brazil,ROSHN Saudi League,Ettifaq FC,400
+Vanja Milinković-Savić,GK,Serbia,Serie A TIM,Torino,2700
+João Paulo Mior,CM,Brazil,MLS,Sounders FC,400
+Tyrick Mitchell,LB,England,Premier League,Crystal Palace,400
+Alberto Moreno,LB,Spain,LALIGA EA SPORTS,Villarreal CF,400
+Maelys Mpome,CB,France,D1 Arkema,Montpellier,400
+Jacob Murphy,RW,England,Premier League,Newcastle Utd,400
+Nadia Nadim,CAM,Denmark,NWSL,Rac. Louisville,400
+Kosuke Nakamura,GK,Japan,Liga Portugal,Portimonense SC,400
+Wendell,LB,Brazil,Liga Portugal,FC Porto,400
+Jessica Naz,ST,England,Barclays WSL,Spurs,400
+Sikou Niakaté,CB,France,Liga Portugal,SC Braga,400
+Rasmus Nicolaisen,CB,Denmark,Ligue 1 Uber Eats,Toulouse FC,400
+Casper Nielsen,CM,Denmark,1A Pro League,Club Brugge,550
+Nadine Noordam,CM,Holland,Nederland Vrouwen Liga,Ajax,450
+Andries Noppert,GK,Holland,Eredivisie,sc Heerenveen,700
+Jean-Pierre Nsame,ST,Cameroon,CSSL,BSC Young Boys,400
+Alexander Nübel,GK,Germany,Bundesliga,VfB Stuttgart,400
+Odriozola,RB,Spain,LALIGA EA SPORTS,Real Madrid,0
+Angelo Ogbonna,CB,Italy,Premier League,West Ham,450
+Martín Ojeda,RM,Argentina,MLS,Orlando City,450
+Patricia Ojeda Ramírez,CB,Spain,Liga F,Sporting Huelva,400
+Noah Okafor,ST,Switzerland,Serie A TIM,Milan,750
+Warmed Omari,CB,France,Ligue 1 Uber Eats,Stade Rennais FC,450
+Amadou Onana,CDM,Belgium,Premier League,Everton,400
+Karim Onisiwo,ST,Austria,Bundesliga,1. FSV Mainz 05,400
+Selina Ostermeier,CB,Germany,GPFBL,Leverkusen,450
+Lena Ostermeier,CB,Germany,GPFBL,SGS Essen,400
+Azzedine Ounahi,CM,Morocco,Ligue 1 Uber Eats,OM,450
+Magomed Ozdoev,CM,Russia,Hellas Liga,PAOK FC,400
+Victoria Pelova,CAM,Holland,Barclays WSL,Arsenal,850
+Raquel Peña Rodríguez,LB,Spain,Liga F,UDG Tenerife,500
+Ria Percival,CM,New Zealand,Barclays WSL,Spurs,400
+Luan Peres,CB,Brazil,Trendyol Süper Lig,Fenerbahçe,400
+Nehuén Pérez,CB,Argentina,Serie A TIM,Udinese,400
+Rubén Pérez,CDM,Spain,Hellas Liga,Panathinaikos,450
+María José Pérez González,LW,Spain,Liga F,UDG Tenerife,400
+Nerea Pérez Machado,RB,Spain,Liga F,Villarreal CF,400
+Carles Pérez Sayol,RM,Spain,LALIGA EA SPORTS,RC Celta,450
+Ramona Petzelberger,LM,Germany,Barclays WSL,Spurs,550
+Germán Pezzella,CB,Argentina,LALIGA EA SPORTS,Real Betis,400
+Anja Pfluger,CM,Germany,GPFBL,SGS Essen,400
+Clara Pinedo Castresana,CAM,Spain,Liga F,Athletic Club,400
+Diogo Filipe Pinto Leite,CB,Portugal,Bundesliga,Union Berlin,400
+Tommaso Pobega,CM,Italy,Serie A TIM,Milan,700
+Yussuf Poulsen,ST,Denmark,Bundesliga,RB Leipzig,400
+Grischa Prömel,CM,Germany,Bundesliga,TSG Hoffenheim,400
+Puado,LM,Spain,LALIGA HYPERMOTION,RCD Espanyol,700
+Julie Rabanne,RM,France,D1 Arkema,LOSC Lille,400
+Soufiane Rahimi,LM,Morocco,United Emirates League,Al Ain FC,700
+Natalia Ramos Álvarez,CDM,Spain,Liga F,UDG Tenerife,700
+Milot Rashica,RM,Kosovo,Trendyol Süper Lig,Beşiktaş,700
+Harrison Reed,CDM,England,Premier League,Fulham,400
+Manon Revelli,LB,France,D1 Arkema,En Avant Guingamp,400
+Samuele Ricci,CDM,Italy,Serie A TIM,Torino,2700
+Mats Rits,CM,Belgium,1A Pro League,RSC Anderlecht,700
+Antonee Robinson,LB,United States,Premier League,Fulham,700
+Valentin Rosier,RB,France,Trendyol Süper Lig,Beşiktaş,700
+Diego Rossi,LM,Uruguay,MLS,Columbus Crew,600
+Jérôme Roussillon,LWB,France,Bundesliga,Union Berlin,400
+Katelyn Rowland,GK,United States,NWSL,NC Courage,400
+Aitor Ruibal García,RB,Spain,LALIGA EA SPORTS,Real Betis,400
+Iñigo Ruiz de Galarreta,CM,Spain,LALIGA EA SPORTS,Athletic Club,400
+Abel Ruiz Ortega,ST,Spain,Liga Portugal,SC Braga,400
+Camila Sáez,CB,Chile,Liga F,Madrid CFF,400
+Mohammed Salisu,CB,Ghana,Ligue 1 Uber Eats,AS Monaco,400
+Roland Sallai,RM,Hungary,Bundesliga,SC Freiburg,400
+Morgan Sanson,CM,France,Ligue 1 Uber Eats,OGC Nice,400
+Olatz Santana Arnaldo,GK,Spain,Liga F,Real Sociedad,400
+Danilo Santos de Oliveira,CDM,Brazil,Premier League,Nott'm Forest,400
+Fábio Santos Martins,LM,Portugal,ROSHN Saudi League,Al Khaleej,600
+Zaidu Sanusi,LB,Nigeria,Liga Portugal,FC Porto,700
+Riccardo Saponara,LM,Italy,Serie A TIM,Hellas Verona,550
+Ismaïla Sarr,RM,Senegal,Ligue 1 Uber Eats,OM,700
+Jeffrey Schlupp,CDM,Ghana,Premier League,Crystal Palace,700
+Nicolas Seiwald,CM,Austria,Bundesliga,RB Leipzig,400
+Marcos Senesi,CB,Argentina,Premier League,AFC Bournemouth,400
+Suat Serdar,CM,Germany,Serie A TIM,Hellas Verona,400
+Petr Ševčík,CM,Czech Republic,Česká Liga,Slavia Praha,700
+Tuta,CB,Brazil,Bundesliga,Frankfurt,400
+Nycole Raysla Silva Sobrinho,ST,Brazil,Liga Portugal Feminino,SL Benfica,450
+Wilfried Singo,RWB,Côte d'Ivoire,Ligue 1 Uber Eats,AS Monaco,400
+Danilo,LB,Brazil,Bundesliga,VfL Bochum,400
+Oumar Solet,CB,France,Ö. Bundesliga,RB Salzburg,750
+Riccardo Sottil,LW,Italy,Serie A TIM,Fiorentina,550
+Willian Arao,CDM,Brazil,Hellas Liga,Panathinaikos,500
+Jasmyne Spencer,RB,United States,NWSL,Angel City FC,700
+Becky Spencer,GK,Jamaica,Barclays WSL,Spurs,400
+Stijn Spierings,CDM,Holland,Ligue 1 Uber Eats,RC Lens,500
+Stanek,GK,Czech Republic,Česká Liga,Viktoria Plzeň,400
+Renato Steffen,RM,Switzerland,CSSL,FC Lugano,700
+Miroslav Stevanović,RM,Bosnia and Herzegovina,CSSL,Servette FC,400
+Yukinari Sugawara,RB,Japan,Eredivisie,AZ,400
+Eveliina Summanen,CM,Finland,Barclays WSL,Spurs,400
+Mattias Svanberg,CM,Sweden,Bundesliga,VfL Wolfsburg,400
+Jonas Svensson,RB,Norway,Trendyol Süper Lig,Adana Demirspor,400
+Attila Szalai,CB,Hungary,Bundesliga,TSG Hoffenheim,400
+Flavien Tait,CM,France,Ligue 1 Uber Eats,Stade Rennais FC,0
+Matt Targett,LB,England,Premier League,Newcastle Utd,400
+David Carmo,CB,Portugal,Liga Portugal,FC Porto,500
+Cristian Tello Herrera,LW,Spain,ROSHN Saudi League,Al Fateh,400
+Kenny Tete,RB,Holland,Premier League,Fulham,450
+Mateus Tetê,RM,Brazil,Trendyol Süper Lig,Galatasaray,450
+Jordan Teze,RB,Holland,Eredivisie,PSV,450
+Martha Thomas,ST,Scotland,Barclays WSL,Manchester Utd,450
+Toko Ekambi,LW,Cameroon,ROSHN Saudi League,Abha Club,400
+Anna Torrodà Ricart,CDM,Spain,Liga F,Levante UD,400
+Aïssata Traoré,LM,Mali,D1 Arkema,En Avant Guingamp,400
+Traorè,LM,Côte d'Ivoire,Premier League,AFC Bournemouth,400
+Adrien Truffert,LB,France,Ligue 1 Uber Eats,Stade Rennais FC,450
+Kelsey Turnbow,RM,United States,NWSL,San Diego Wave,500
+Danielle Turner,CB,England,Barclays WSL,Aston Villa,400
+Álvaro Vallés Rosa,GK,Spain,LALIGA EA SPORTS,UD Las Palmas,400
+Patrick van Aanholt,LB,Holland,Eredivisie,PSV,450
+Justine Vanhaevermaet,CM,Belgium,Barclays WSL,Everton,400
+Alan Varela,CDM,Argentina,Liga Portugal,FC Porto,400
+Nuno Tavares,LB,Portugal,Premier League,Arsenal,0
+Franco Vázquez,CAM,Argentina,Serie BKT,Cremonese,400
+Ignacio Vidal Miralles,RB,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Kevin Vogt,CB,Germany,Bundesliga,TSG Hoffenheim,400
+Kai Wagner,LB,Germany,MLS,Philadelphia,450
+Daniel Wass,RB,Denmark,3F Superliga,Brøndby IF,400
+Ashleigh Weerden,LW,Holland,Nederland Vrouwen Liga,Ajax,450
+Danny Welbeck,ST,England,Premier League,Brighton,450
+Silvan Widmer,RWB,Switzerland,Bundesliga,1. FSV Mainz 05,400
+Mats Wieffer,CDM,Holland,Eredivisie,Feyenoord,400
+Owen Wijndal,LB,Holland,Eredivisie,Ajax,0
+Jessica Wik,RB,Sweden,Sverige Liga,FC Rosengård,650
+Rachel Williams,ST,England,Barclays WSL,Manchester Utd,400
+Lynn Wilms,RB,Holland,GPFBL,VfL Wolfsburg,450
+Jonas Wind,ST,Denmark,Bundesliga,VfL Wolfsburg,500
+Juliane Wirtz,CM,Germany,GPFBL,SV Werder Bremen,400
+Maximilian Wöber,CB,Austria,Bundesliga,M'gladbach,400
+Pia-Sophie Wolter,ST,Germany,GPFBL,Frankfurt,500
+Ashley Young,LB,England,Premier League,Everton,400
+Nicola Zalewski,RM,Poland,Serie A TIM,Roma FC,450
+Robin Zentner,GK,Germany,Bundesliga,1. FSV Mainz 05,400
+Ramiz Zerrouki,CM,Algeria,Eredivisie,Feyenoord,400
+Walker Zimmerman,CB,United States,MLS,Nashville SC,400
+Andrija Živković,RW,Serbia,Hellas Liga,PAOK FC,400
+Steven Zuber,ST,Switzerland,Hellas Liga,AEK Athens,400
+Davy Klaassen,CM,Holland,Serie A TIM,Inter,450
+Craig Goodwin,LM,Australia,ROSHN Saudi League,Al Wehda,400
+Kevin Mbabu,RB,Switzerland,Bundesliga,FC Augsburg,700
+Flavien Tait,CM,France,Trendyol Süper Lig,Samsunspor,450
+Alex Iwobi,RM,Nigeria,Premier League,Fulham,400
+Rafael Santos Borré,ST,Colombia,Bundesliga,SV Werder Bremen,400
+Ruben Aguilar,RB,France,Ligue 1 Uber Eats,RC Lens,450
+Eric Bailly,CB,Côte d'Ivoire,Trendyol Süper Lig,Beşiktaş,400
+Rob Holding,CB,England,Premier League,Crystal Palace,400
+Maria Thorisdottir,CB,Norway,Barclays WSL,Brighton,400
+Odriozola,RB,Spain,LALIGA EA SPORTS,Real Sociedad,400
+Owen Wijndal,LB,Holland,1A Pro League,Royal Antwerp FC,450
+Altay Bayındır,GK,Turkey,Premier League,Manchester Utd,450
+Brennan Johnson,RW,Wales,Premier League,Spurs,400
+Nuno Albertino Varela Tavares,LB,Portugal,Premier League,Nott'm Forest,700
+Bradley Barcola,RW,France,Ligue 1 Uber Eats,Paris SG,400
+Stijn Spierings,CDM,Holland,Ligue 1 Uber Eats,Toulouse FC,400
+Martha Thomas,ST,Scotland,Barclays WSL,Spurs,400
+Boubakary Soumaré,CDM,France,EFL Championship,Leicester City,0
+Dennis Praet,CAM,Belgium,EFL Championship,Leicester City,400
+Patson Daka,ST,Zambia,EFL Championship,Leicester City,400
+Illan Meslier,GK,France,EFL Championship,Leeds United,500
+Ché Adams,ST,Scotland,EFL Championship,Southampton,400
+Jed Wallace,RM,England,EFL Championship,West Brom,450
+Milan van Ewijk,RWB,Holland,EFL Championship,Coventry City,750
+Patrick Bamford,ST,England,EFL Championship,Leeds United,400
+Daniel James,RM,Wales,EFL Championship,Leeds United,650
+Alistair Johnston,RB,Canada,cinch Prem,Celtic,650
+Matt O'Riley,CM,Denmark,cinch Prem,Celtic,450
+Greg Taylor,LB,Scotland,cinch Prem,Celtic,400
+Kenneth Taylor,CM,Holland,Eredivisie,Ajax,450
+Devyne Rensch,RB,Holland,Eredivisie,Ajax,450
+Remko Pasveer,GK,Holland,Eredivisie,Ajax,450
+Ivo Grbić,GK,Croatia,LALIGA EA SPORTS,Atlético de Madrid,400
+Zakaria Aboukhlal,RW,Morocco,Ligue 1 Uber Eats,Toulouse FC,650
+Emmanuel Agbadou,CB,Côte d'Ivoire,Ligue 1 Uber Eats,Stade de Reims,400
+Jill Aguilera,LB,United States,NWSL,Chicago Red Stars,400
+Anel Ahmedhodžić,CB,Bosnia and Herzegovina,Premier League,Sheffield Utd,650
+Rayan Aït Nouri,LB,France,Premier League,Wolves,400
+Kristoffer Ajer,CB,Norway,Premier League,Brentford,450
+Jean-Daniel Akpa Akpro,CM,Côte d'Ivoire,Serie A TIM,Monza,650
+Lucas Alario,ST,Argentina,Bundesliga,Frankfurt,550
+Korbin Albert,CM,United States,D1 Arkema,Paris SG,400
+Rubén Alcaraz Jiménez,CM,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Nadjma Ali Nadjim,ST,France,D1 Arkema,Havre AC,450
+Dele Alli,CM,England,Premier League,Everton,450
+Angelina Alonso Costantino,CAM,Brazil,NWSL,OL Reign,450
+Juan Cruz Álvaro Armada,LB,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Carlos Vinícius Alves Morais,ST,Brazil,Premier League,Fulham,450
+Selim Amallah,CAM,Morocco,LALIGA EA SPORTS,Valencia CF,400
+Iago,LB,Brazil,Bundesliga,FC Augsburg,400
+Jone Amezaga Martínez,LM,Spain,Liga F,Athletic Club,500
+Waldemar Anton,CB,Germany,Bundesliga,VfB Stuttgart,400
+Santiago Arias,RB,Colombia,MLS,FC Cincinnati,400
+Copete,CB,Spain,LALIGA EA SPORTS,RCD Mallorca,400
+Eunate Arraiza Otazu,LB,Spain,Liga F,Athletic Club,400
+Rosella Ayane,ST,Morocco,Barclays WSL,Spurs,400
+Jill Baijings,CAM,Holland,GPFBL,FC Bayern München,450
+Dorian Bailey,RB,United States,NWSL,Washington Spirit,400
+Johan Bakayoko,RW,Belgium,Eredivisie,PSV,400
+Mama Samba Baldé,ST,Guinea-Bissau,Ligue 2 BKT,ESTAC Troyes,0
+Vinicius Goes Barbosa de Souza,CAM,Brazil,ROSHN Saudi League,Al Hazem,450
+Taison Barcellos Freda,CAM,Brazil,Hellas Liga,PAOK FC,450
+Keidi Bare,CDM,Albania,LALIGA HYPERMOTION,RCD Espanyol,400
+Enrique Barja Afonso,RM,Spain,LALIGA EA SPORTS,CA Osasuna,450
+Agustina Barroso,CB,Argentina,Liga F,UDG Tenerife,450
+Merle Barth,CB,Germany,Liga F,Atlético de Madrid,450
+Federico Baschirotto,CB,Italy,Serie A TIM,Lecce,650
+Gelson Martins,RM,Portugal,Ligue 1 Uber Eats,AS Monaco,400
+Younès Belhanda,CAM,Morocco,Trendyol Süper Lig,Adana Demirspor,400
+Stefan Bell,CB,Germany,Bundesliga,1. FSV Mainz 05,400
+Jean-Ricner Bellegarde,CM,France,Ligue 1 Uber Eats,Strasbourg,0
+Fiamma Benítez Ianuzzi,CAM,Spain,Liga F,Valencia CF,450
+Nabil Bentaleb,CDM,Algeria,Ligue 1 Uber Eats,LOSC Lille,450
+Patrick Berg,CDM,Norway,Eliteserien,FK Bodø/Glimt,400
+Sander Berge,CM,Norway,Premier League,Burnley,400
+Jordan Beyer,CB,Germany,Premier League,Burnley,400
+Bijol,CB,Slovenia,Serie A TIM,Udinese,450
+Vilde Bøe Risa,CAM,Norway,Barclays WSL,Manchester Utd,400
+Jérémie Boga,LM,Côte d'Ivoire,Ligue 1 Uber Eats,OGC Nice,400
+Artem Bondarenko,CAM,Ukraine,Ukrayina Liha,Shakhtar Donetsk,400
+Gustavo Bou,ST,Argentina,MLS,New England,450
+Chiara Bouziane,RW,Germany,GPFBL,SC Freiburg,400
+Armando Broja,ST,Albania,Premier League,Chelsea,400
+Josh Brownhill,CM,England,Premier League,Burnley,450
+Marius Bülter,LM,Germany,Bundesliga,TSG Hoffenheim,600
+Georgiy Bushchan,GK,Ukraine,Ukrayina Liha,Dynamo Kyiv,500
+Bernard Anício Caldeira Duarte,LW,Brazil,Hellas Liga,Panathinaikos,400
+José Callejón,LM,Spain,LALIGA EA SPORTS,Granada CF,450
+Sergio Camello Pérez,ST,Spain,LALIGA EA SPORTS,Rayo Vallecano,450
+Aitor Cantalapiedra,LW,Spain,Hellas Liga,Panathinaikos,450
+Todd Cantwell,CAM,England,cinch Prem,Rangers,400
+Mickaëlla Cardia,RM,France,D1 Arkema,Havre AC,400
+José Antonio Caro Díaz,GK,Spain,LALIGA HYPERMOTION,Burgos CF,400
+Raiderlín Carrasco,LB,Venezuela,Liga F,Sporting Huelva,700
+Leonardo Carrilho Baptistão,RM,Brazil,LALIGA EA SPORTS,UD Almería,400
+Estelle Cascarino,CB,France,Calcio A Femminile,Juventus,800
+Samuel Castillejo Azuaga,RM,Spain,LALIGA EA SPORTS,Valencia CF,0
+Janice Cayman,RB,Belgium,Barclays WSL,Leicester City,400
+Ricardo José Cecília Batista,GK,Portugal,Liga Portugal,Casa Pia AC,450
+Selina Cerci,ST,Germany,GPFBL,1. FC Köln,450
+Mariana Cerro Galán,CDM,Spain,Liga F,Athletic Club,400
+Julian Chabot,CB,Germany,Bundesliga,1. FC Köln,450
+Fidel,LM,Spain,LALIGA HYPERMOTION,Elche CF,450
+Rayan Cherki,CAM,France,Ligue 1 Uber Eats,OL,500
+Pedro Chirivella,CDM,Spain,Ligue 1 Uber Eats,FC Nantes,450
+Víctor Chust García,CB,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Alexis Claude-Maurice,CM,France,Ligue 1 Uber Eats,OGC Nice,400
+Saúl Basilio Coco Bassey Oubiña,CB,Equatorial Guinea,LALIGA EA SPORTS,UD Las Palmas,650
+Séamus Coleman,RB,Republic of Ireland,Premier League,Everton,400
+Alessio Cragno,GK,Italy,Serie A TIM,Sassuolo,400
+Miguel Crespo da Silva,CM,Portugal,Trendyol Süper Lig,Fenerbahçe,400
+Tomáš Cvancara,ST,Czech Republic,Bundesliga,M'gladbach,400
+Thais Cristina Da Silva Ferreira,CB,Brazil,Liga F,UDG Tenerife,450
+Evander,CM,Brazil,MLS,Portland Timbers,400
+Andrew da Silva Ventura,GK,Brazil,Liga Portugal,Gil Vicente,400
+Maurício José da Silveira Júnior,CDM,Brazil,Liga Portugal,Portimonense SC,400
+Thijs Dallinga,ST,Holland,Ligue 1 Uber Eats,Toulouse FC,450
+Deja Davis,CB,United States,D1 Arkema,Havre AC,400
+Pedro De la Vega,RM,Argentina,LPF,Lanús,400
+Dani de Wit,CAM,Holland,Eredivisie,AZ,400
+Léa Declercq,CDM,France,D1 Arkema,Dijon FCO,400
+Brecht Dejaegere,CM,Belgium,MLS,Charlotte FC,400
+Kate Del Fava,RB,United States,NWSL,KC Current,400
+Ermedin Demirović,LM,Bosnia and Herzegovina,Bundesliga,FC Augsburg,400
+Diego Demme,CDM,Germany,Serie A TIM,Napoli FC,450
+Jason Denayer,CB,Belgium,ROSHN Saudi League,Al Fateh,400
+Leander Dendoncker,CM,Belgium,Premier League,Aston Villa,450
+Emmanuel Dennis,ST,Nigeria,Premier League,Nott'm Forest,450
+Cyriel Dessers,ST,Nigeria,cinch Prem,Rangers,450
+Di Francesco,LW,Italy,Serie A TIM,Lecce,0
+Bafodé Diakité,RB,France,Ligue 1 Uber Eats,LOSC Lille,450
+Krépin Diatta,RM,Senegal,Ligue 1 Uber Eats,AS Monaco,700
+Víctor Díaz,CB,Spain,LALIGA EA SPORTS,Granada CF,400
+Junior Dina Ebimbe,RM,France,Bundesliga,Frankfurt,400
+Ousmane Diomande,CB,Côte d'Ivoire,Liga Portugal,Sporting CP,400
+Matías Dituro,GK,Argentina,Trendyol Süper Lig,Karagümrük SK,400
+Matt Doherty,RB,Republic of Ireland,Premier League,Wolves,400
+Josh Doig,LWB,Scotland,Serie A TIM,Hellas Verona,400
+Kasper Dolberg,ST,Denmark,1A Pro League,RSC Anderlecht,400
+Leonardo Duarte da Silva,CB,Brazil,Trendyol Süper Lig,Başakşehir,400
+Rubén Duarte Sánchez,LB,Spain,LALIGA EA SPORTS,D. Alavés,400
+Odsonne Edouard,ST,France,Premier League,Crystal Palace,450
+Maximilian Eggestein,CDM,Germany,Bundesliga,SC Freiburg,400
+Ejuke,LM,Nigeria,1A Pro League,Royal Antwerp FC,1000
+Hugo Ekitike,ST,France,Ligue 1 Uber Eats,Paris SG,450
+Anwar El Ghazi,LW,Holland,Eredivisie,PSV,0
+El Mahdioui,CDM,Holland,ROSHN Saudi League,Al Taawoun,450
+Jawad El Yamiq,CB,Morocco,ROSHN Saudi League,Al Wehda,650
+Mohamed Elneny,CDM,Egypt,Premier League,Arsenal,800
+Eduardo Expósito Jaén,CAM,Spain,LALIGA HYPERMOTION,RCD Espanyol,400
+Paulo Vítor Fagundes dos Anjos,GK,Brazil,ROSHN Saudi League,Al Okhdood,400
+Rasmus Falk,CM,Denmark,3F Superliga,F.C. København,400
+Facundo Farías,CAM,Argentina,MLS,Inter Miami CF,650
+Hélène Fercocq,CDM,France,D1 Arkema,Dijon FCO,400
+Charlotte Fernandes,RB,France,D1 Arkema,FC Fleury 91,400
+Álex Fernández,CAM,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Joaquín,CB,Spain,Trendyol Süper Lig,Trabzonspor,450
+Mélissa Ferreira Gomes,ST,Portugal,D1 Arkema,Stade de Reims,400
+Alexis Flips,LM,France,1A Pro League,RSC Anderlecht,550
+Alessandro Florenzi,RB,Italy,Serie A TIM,Milan,550
+Wes Foderingham,GK,England,Premier League,Sheffield Utd,450
+Gabriel Veron Fonseca de Souza,RM,Brazil,Liga Portugal,FC Porto,450
+Airine Fontaine,LW,France,D1 Arkema,FC Fleury 91,400
+Taxiarchis Fountas,CF,Greece,Trendyol Süper Lig,Trabzonspor,650
+Ana Franco De La Vega,LW,Spain,Liga F,Sevilla FC,400
+Marvin Friedrich,CB,Germany,Bundesliga,M'gladbach,400
+Unai García Lugea,CB,Spain,LALIGA EA SPORTS,CA Osasuna,400
+Eric García Martret,CB,Spain,LALIGA EA SPORTS,FC Barcelona,0
+Radamel Falcao,ST,Colombia,LALIGA EA SPORTS,Rayo Vallecano,400
+Alejandro Garnacho Ferreyra,LW,Argentina,Premier League,Manchester Utd,450
+Dennis Geiger,CDM,Germany,Bundesliga,TSG Hoffenheim,400
+Lautaro Giannetti,CB,Argentina,LPF,Vélez Sarsfield,400
+Andrei Girotto,CB,Brazil,ROSHN Saudi League,Al Taawoun,400
+Ben Godfrey,CB,England,Premier League,Everton,650
+Léna Goetsch,RB,France,D1 Arkema,Dijon FCO,400
+Connor Goldson,CB,England,cinch Prem,Rangers,400
+Érika González Lombídez,CAM,Spain,Liga F,Levante UD,400
+Anthony Gordon,LW,England,Premier League,Newcastle Utd,400
+Jeffrey Gouweleeuw,CB,Holland,Bundesliga,FC Augsburg,450
+Kamil Grabara,GK,Poland,3F Superliga,F.C. København,400
+Clément Grenier,CM,France,LALIGA EA SPORTS,RCD Mallorca,0
+Guillamón,CDM,Spain,LALIGA EA SPORTS,Valencia CF,400
+Mert Günok,GK,Turkey,Trendyol Süper Lig,Beşiktaş,650
+Emmanuel Gyasi,RM,Ghana,Serie A TIM,Empoli,450
+Viktor Gyökeres,ST,Sweden,Liga Portugal,Sporting CP,400
+Janik Haberer,CM,Germany,Bundesliga,Union Berlin,400
+Amir Hadžiahmetović,CDM,Bosnia and Herzegovina,Trendyol Süper Lig,Beşiktaş,400
+Antonia-Johanna Halverkamps,RM,Germany,GPFBL,MSV Duisburg,450
+Tarek Hamed,CDM,Egypt,ROSHN Saudi League,Al Ittihad,0
+Gustavo Hamer,CM,Holland,Premier League,Sheffield Utd,450
+Kristen Hamilton,ST,United States,NWSL,KC Current,450
+Andreas Hanche-Olsen,CB,Norway,Bundesliga,1. FSV Mainz 05,400
+Guilherme Haubert Sityá,LB,Brazil,Trendyol Süper Lig,Konyaspor,450
+Lina Hausicke,CDM,Germany,GPFBL,SV Werder Bremen,400
+Matheus Henrique de Souza,CM,Brazil,Serie A TIM,Sassuolo,400
+Luís Hernández Rodríguez,CB,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Daniel Heuer Fernandes,GK,Portugal,Bundesliga 2,Hamburger SV,450
+Isak Hien,CB,Sweden,Serie A TIM,Hellas Verona,400
+Philipp Hofmann,ST,Germany,Bundesliga,VfL Bochum,400
+Shelby Hogan,GK,United States,NWSL,Portland Thorns,450
+Ceri Holland,CM,Wales,Barclays WSL,Liverpool,400
+Emma Holmgren,GK,Sweden,Liga F,Levante UD,400
+Sophie Howard,CB,Scotland,Barclays WSL,Leicester City,400
+Patrik Hrošovský,CDM,Slovakia,1A Pro League,KRC Genk,400
+Callum Hudson-Odoi,LW,England,Premier League,Chelsea,0
+Jordyn Huitema,ST,Canada,NWSL,OL Reign,450
+Tori Huster,RB,United States,NWSL,Washington Spirit,400
+Oussama Idrissi,LW,Morocco,LALIGA EA SPORTS,Sevilla FC,0
+Marcus Ingvartsen,CF,Denmark,3F Superliga,FC Nordsjælland,400
+Hiroki Ito,CB,Japan,Bundesliga,VfB Stuttgart,700
+Mauro Júnior,RB,Brazil,Eredivisie,PSV,500
+Iván Jaime Pajuelo,LM,Spain,Liga Portugal,FC Famalicão,0
+Kristijan Jakić,CDM,Croatia,Bundesliga,Frankfurt,400
+Emmy Jézéquel,CB,France,D1 Arkema,En Avant Guingamp,450
+Celia Jiménez Delgado,RB,Spain,NWSL,Orlando Pride,1000
+Rafael Jiménez Jarque,CB,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Christopher Jullien,CB,France,Ligue 1 Uber Eats,Montpellier,450
+Ferran Jutglà Blanch,ST,Spain,1A Pro League,Club Brugge,950
+Ozan Kabak,CB,Turkey,Bundesliga,TSG Hoffenheim,400
+Pavel Kadeřábek,RWB,Czech Republic,Bundesliga,TSG Hoffenheim,400
+Kahveci,RW,Turkey,Trendyol Süper Lig,Fenerbahçe,400
+Lukáš Kalvach,CDM,Czech Republic,Česká Liga,Viktoria Plzeň,400
+Jakub Kamiński,LW,Poland,Bundesliga,VfL Wolfsburg,400
+Johanna Kaneryd,RW,Sweden,Barclays WSL,Chelsea,400
+Marc-Oliver Kempf,CB,Germany,Bundesliga 2,Hertha Berlin,650
+Milos Kerkez,LB,Hungary,Premier League,AFC Bournemouth,400
+Franziska Kett,LM,Germany,GPFBL,FC Bayern München,400
+Thembi Kgatlana,LW,South Africa,NWSL,Rac. Louisville,450
+Joshua King,ST,Norway,Trendyol Süper Lig,Fenerbahçe,450
+Virginia Kirchberger,CB,Austria,GPFBL,Frankfurt,900
+Tim Kleindienst,ST,Germany,Bundesliga,Heidenheim,450
+Ansgar Knauff,RM,Germany,Bundesliga,Frankfurt,400
+Sekou Koita,ST,Mali,Ö. Bundesliga,RB Salzburg,650
+Ondřej Kolář,GK,Czech Republic,Česká Liga,Slavia Praha,400
+Eva Kouache,RB,France,D1 Arkema,Havre AC,400
+Cheikhou Kouyaté,CDM,Senegal,Premier League,Nott'm Forest,400
+Tereza Kožárová,ST,Czech Republic,Ceska Liga Žen,Slavia Praha,500
+Rasmus Kristensen,RWB,Denmark,Serie A TIM,Roma FC,400
+Grzegorz Krychowiak,CDM,Poland,ROSHN Saudi League,Abha Club,400
+Lukas Kübler,RB,Germany,Bundesliga,SC Freiburg,450
+Emma Kullberg,CB,Sweden,Barclays WSL,Brighton,400
+Marash Kumbulla,CB,Albania,Serie A TIM,Roma FC,450
+Kaleigh Kurtz,CB,United States,NWSL,NC Courage,400
+Daler Kuzyaev,CM,Russia,Ligue 1 Uber Eats,Havre AC,400
+Daniel-Kofi Kyereh,CAM,Ghana,Bundesliga,SC Freiburg,400
+Stefan Lainer,RB,Austria,Bundesliga,M'gladbach,450
+Tariq Lamptey,RB,Ghana,Premier League,Brighton,400
+Gianluca Lapadula,ST,Peru,Serie A TIM,Cagliari,450
+Cyle Larin,ST,Canada,LALIGA EA SPORTS,RCD Mallorca,400
+Emilia Larsson,LM,Sweden,Sverige Liga,FC Rosengård,400
+Sam Larsson,LM,Sweden,Trendyol Süper Lig,Antalyaspor,400
+Jamaal Lascelles,CB,England,Premier League,Newcastle Utd,450
+Hayley Lauder,LB,Scotland,Scottish Women's League,Glasgow City FC,400
+Jade Le Guilly,RB,France,D1 Arkema,Paris SG,400
+Margaux Le Mouël,CDM,France,D1 Arkema,Paris FC,400
+Cristian Lema,CB,Argentina,LPF,Lanús,450
+Justine Lerond,GK,France,D1 Arkema,Bordeaux,450
+Ondřej Lingr,LW,Czech Republic,Eredivisie,Feyenoord,400
+Silvia Lloris Nicolás,CM,Spain,Liga F,Levante UD,400
+Enzo Loiodice,CM,France,LALIGA EA SPORTS,UD Las Palmas,400
+Iván López Álvarez,CF,Spain,PKO BP Ekstraklasa,Raków,500
+Anthony Losilla,CDM,France,Bundesliga,VfL Bochum,400
+Jordan Lotomba,RB,Switzerland,Ligue 1 Uber Eats,OGC Nice,450
+Sandi Lovrič,CM,Slovenia,Serie A TIM,Udinese,400
+Eduard Löwen,CM,Germany,MLS,St. Louis CITY SC,400
+Nina Lührßen,LM,Germany,GPFBL,SV Werder Bremen,450
+Olivie Lukášová,GK,Czech Republic,Ceska Liga Žen,Slavia Praha,400
+Tyler Lussi,RM,United States,NWSL,NC Courage,450
+Giulio Maggiore,CM,Italy,Serie A TIM,Salernitana,450
+Arne Maier,RM,Germany,Bundesliga,FC Augsburg,400
+Ramona Maier,ST,Germany,GPFBL,SGS Essen,400
+Víctor Malcorra,CAM,Argentina,LPF,Rosario Central,450
+Cecilia Marcos Nabal,RW,Spain,Liga F,Real Sociedad,400
+Amaral Alves Marcos Vinicius,ST,Brazil,CSL,Wuhan 3 Towns,0
+Omar Marmoush,ST,Egypt,Bundesliga,Frankfurt,400
+Aarón Martín Caricol,LWB,Spain,Serie A TIM,Genoa,400
+Josef Martínez,ST,Venezuela,MLS,Inter Miami CF,400
+Omar Mascarell González,CM,Spain,LALIGA EA SPORTS,RCD Mallorca,400
+Jean-Philippe Mateta,ST,France,Premier League,Crystal Palace,450
+Rony Lopes,RM,Portugal,Liga Portugal,SC Braga,400
+Djordje Mihailovic,CAM,United States,Eredivisie,AZ,400
+Cassie Miller,GK,United States,NWSL,KC Current,400
+Lauren Milliet,RB,United States,NWSL,Rac. Louisville,450
+Fabio Miretti,CM,Italy,Serie A TIM,Juventus,800
+Narumi Miura,CDM,Japan,NWSL,NC Courage,400
+Alberto Moleiro González,LM,Spain,LALIGA EA SPORTS,UD Las Palmas,450
+Paige Monaghan,LW,United States,NWSL,Rac. Louisville,400
+Megan Montefusco,CB,United States,NWSL,Orlando Pride,400
+Joni Montiel,CAM,Spain,LALIGA HYPERMOTION,R. Valladolid CF,400
+Maxi Moralez,CAM,Argentina,MLS,New York City FC,400
+Linda Motlhalo,CM,South Africa,Scottish Women's League,Glasgow City FC,400
+Harold Moukoudi,CB,Cameroon,Hellas Liga,AEK Athens,400
+Mykhailo Mudryk,LW,Ukraine,Premier League,Chelsea,400
+Arijanet Murić,GK,Kosovo,Premier League,Burnley,650
+Vitaliy Mykolenko,LB,Ukraine,Premier League,Everton,400
+Keito Nakamura,LM,Japan,Ligue 1 Uber Eats,Stade de Reims,450
+Meaghan Nally,CB,United States,NWSL,Portland Thorns,400
+Nahitan Nández,CM,Uruguay,Serie A TIM,Cagliari,650
+Eva María Navarro García,RW,Spain,Liga F,Atlético de Madrid,400
+Youssouf Ndayishimiye,CB,Burundi,Ligue 1 Uber Eats,OGC Nice,400
+Badou Ndiaye,CM,Senegal,Trendyol Süper Lig,Adana Demirspor,650
+Negredo,ST,Spain,LALIGA EA SPORTS,Cádiz CF,400
+Carly Nelson,GK,United States,NWSL,Orlando Pride,400
+Michael Ngadeu,CB,Cameroon,CSL,Beijing Guoan,400
+Eddie Nketiah,ST,England,Premier League,Arsenal,900
+Andreia Norton,CM,Portugal,Liga Portugal Feminino,SL Benfica,450
+Robert Kenedy Nunes do Nascimento,LM,Brazil,LALIGA HYPERMOTION,R. Valladolid CF,450
+Nunes Jesus,CB,Brazil,Serie A TIM,Napoli FC,450
+Igoh Ogbu,CB,Nigeria,Česká Liga,Slavia Praha,1000
+Nick Olij,GK,Holland,Eredivisie,Sparta Rotterdam,600
+Lincoln,CAM,Brazil,Trendyol Süper Lig,Fenerbahçe,400
+Robin Olsen,GK,Sweden,Premier League,Aston Villa,450
+Gift Emmanuel Orban,ST,Nigeria,1A Pro League,KAA Gent,400
+Divock Origi,ST,Belgium,Serie A TIM,Milan,0
+Mislav Oršić,LW,Croatia,Trendyol Süper Lig,Trabzonspor,500
+Rosa Otermín Abella,LB,Spain,Liga F,Sevilla FC,400
+Jacqueline Owusu,CM,Ghana,Liga F,Real Sociedad,400
+Pacheco,GK,Spain,LALIGA HYPERMOTION,RCD Espanyol,400
+Joseph Paintsil,RM,Ghana,1A Pro League,KRC Genk,650
+Sebastián Palacios,RW,Argentina,Hellas Liga,Panathinaikos,450
+Nicolas Pallois,CB,France,Ligue 1 Uber Eats,FC Nantes,450
+José Luis Palomino,CB,Argentina,Serie A TIM,Bergamo Calcio,400
+Strahinja Pavlović,CB,Serbia,Ö. Bundesliga,RB Salzburg,400
+Amahl Pellegrino,LW,Norway,Eliteserien,FK Bodø/Glimt,400
+Rubén Peña,RB,Spain,LALIGA EA SPORTS,CA Osasuna,500
+Romain Perraud,LB,France,Ligue 1 Uber Eats,OGC Nice,500
+Bruno Petković,ST,Croatia,Liga Hrvatska,Dinamo Zagreb,400
+Martina Piemonte,ST,Italy,Barclays WSL,Everton,450
+Brianna Pinto,CDM,United States,NWSL,NC Courage,700
+Seraina Piubel,CAM,Switzerland,Schweizer Damen Liga,FC Zürich,400
+Madison Pogarch,LB,United States,NWSL,San Diego Wave,650
+Portu,RM,Spain,LALIGA EA SPORTS,Getafe CF,0
+Sanjin Prcić,CDM,Bosnia and Herzegovina,Ligue 1 Uber Eats,Strasbourg,400
+Robin Pröpper,CB,Holland,Eredivisie,FC Twente,450
+Ricard Puig Martí,CM,Spain,MLS,LA Galaxy,550
+Teemu Pukki,ST,Finland,MLS,Minnesota United,400
+Valeri Qazaishvili,LM,Georgia,K League 1,Ulsan Hyundai,400
+Nuria Rábano Blanco,LB,Spain,GPFBL,VfL Wolfsburg,500
+Uroš Račić,CM,Serbia,Serie A TIM,Sassuolo,400
+Nemanja Radonjić,CF,Serbia,Serie A TIM,Torino,2700
+Raillo,CB,Spain,LALIGA EA SPORTS,RCD Mallorca,400
+André Ramalho Silva,CB,Brazil,Eredivisie,PSV,600
+Cristian Ramírez,LB,Ecuador,Magyar Liga,Ferencvárosi TC,400
+Sandro Ramírez Castillo,ST,Spain,LALIGA EA SPORTS,UD Las Palmas,400
+Noelia Ramos Álvarez,GK,Spain,Liga F,UDG Tenerife,400
+Nicolas Raskin,CM,Belgium,cinch Prem,Rangers,400
+Kerlly Real,RB,Ecuador,Liga F,Valencia CF,400
+Megan Reid,CB,United States,NWSL,Angel City FC,400
+Filipe Bem Relvas V. Oliveira,CB,Portugal,Liga Portugal,Portimonense SC,400
+Rodrigo Rey,GK,Argentina,LPF,Independiente,400
+Diana Catarina Ribeiro Gomes,CB,Portugal,Liga F,Sevilla FC,450
+Marco Richter,RM,Germany,Bundesliga,1. FSV Mainz 05,400
+Luis Rioja González,LM,Spain,LALIGA EA SPORTS,D. Alavés,450
+Connor Roberts,RB,Wales,Premier League,Burnley,400
+Marc Roca Junqué,CDM,Spain,LALIGA EA SPORTS,Real Betis,400
+Marek Rodák,GK,Slovakia,Premier League,Fulham,400
+Kévin Manuel Rodrigues,LB,Portugal,Trendyol Süper Lig,Adana Demirspor,450
+Morato,CB,Brazil,Liga Portugal,SL Benfica,400
+Paulo Oliveira,CB,Portugal,Liga Portugal,SC Braga,400
+Ricardo Rodríguez,CB,Switzerland,Serie A TIM,Torino,2800
+Óscar Rodríguez Arnaiz,CM,Spain,LALIGA EA SPORTS,Sevilla FC,0
+Lucía Maria Rodríguez Herrero,RB,Spain,Liga F,Sevilla FC,500
+Cristian Roldan,RM,United States,MLS,Sounders FC,450
+Lourdes Romero,GK,Germany,Schweizer Damen Liga,FC Zürich,400
+Pablo Rosario,CDM,Holland,Ligue 1 Uber Eats,OGC Nice,450
+Daniele Rugani,CB,Italy,Serie A TIM,Juventus,800
+Mikkel Rygaard,CM,Denmark,Allsvenskan,BK Häcken,400
+Quinty Sabajo,CM,Holland,Nederland Vrouwen Liga,Ajax,400
+Falaye Sacko,RB,Mali,Ligue 1 Uber Eats,Montpellier,650
+Diadié Samassékou,CDM,Mali,Bundesliga,TSG Hoffenheim,400
+Javi Sánchez,CB,Spain,LALIGA HYPERMOTION,R. Valladolid CF,400
+Veatriki Sarri,LM,Greece,Barclays WSL,Brighton,1800
+Giorgio Scalvini,CB,Italy,Serie A TIM,Bergamo Calcio,600
+Bart Schenkeveld,CB,Holland,Hellas Liga,Panathinaikos,450
+Jerdy Schouten,CDM,Holland,Eredivisie,PSV,450
+Marcel Schuhen,GK,Germany,Bundesliga,SV Darmstadt 98,450
+Bibiane Schulze Solano,CB,Spain,Liga F,Athletic Club,400
+Benjamin Šeško,ST,Slovenia,Bundesliga,RB Leipzig,400
+Ryan Sessegnon,LB,England,Premier League,Spurs,400
+Xherdan Shaqiri,CAM,Switzerland,MLS,Chicago Fire FC,450
+Ahmed Sharahili,CB,Saudi Arabia,ROSHN Saudi League,Al Ittihad,400
+Kayla Sharples,CB,United States,NWSL,Chicago Red Stars,400
+Jonjo Shelvey,CM,England,Premier League,Nott'm Forest,450
+Djibril Sidibé,RB,France,Hellas Liga,AEK Athens,450
+Cesinha,ST,Brazil,K League 1,Daegu FC,750
+Gijs Smal,LB,Holland,Eredivisie,FC Twente,450
+Kirsty Smith,LB,Scotland,Barclays WSL,West Ham,450
+Dominic Solanke,ST,England,Premier League,AFC Bournemouth,450
+Alice Sombath,CB,France,D1 Arkema,OL,400
+Nicoline Sørensen,RW,Denmark,Barclays WSL,Everton,450
+Asger Sørensen,CB,Denmark,Česká Liga,Sparta Praha,450
+Ricardo Sousa Esgaio,RWB,Portugal,Liga Portugal,Sporting CP,400
+Walace Souza Silva,CDM,Brazil,Serie A TIM,Udinese,450
+Bianca St-Georges,RM,Canada,NWSL,Chicago Red Stars,400
+Anton Stach,CM,Germany,Bundesliga,1. FSV Mainz 05,0
+Josip Stanišić,RB,Croatia,Bundesliga,Leverkusen,500
+Zack Steffen,GK,United States,Premier League,Manchester City,800
+Judith Steinert,LB,Germany,GPFBL,SC Freiburg,450
+Kevin Stöger,CM,Austria,Bundesliga,VfL Bochum,450
+Abbey-Leigh Stringer,CDM,England,Barclays WSL,West Ham,400
+Suárez,ST,Colombia,LALIGA EA SPORTS,UD Almería,400
+Denis Suárez,CM,Spain,LALIGA EA SPORTS,Villarreal CF,400
+Heorhii Sudakov,CAM,Ukraine,Ukrayina Liha,Shakhtar Donetsk,400
+Esther Sullastres Ayuso,GK,Spain,Liga F,Sevilla FC,650
+Serhiy Sydorchuk,CDM,Ukraine,Ukrayina Liha,Dynamo Kyiv,0
+Damian Szymański,CDM,Poland,Hellas Liga,AEK Athens,400
+Marcus Tavernier,LM,England,Premier League,AFC Bournemouth,450
+BlaShelveyalleeendjeszwemmeninhetwaterfalderalderierefalderalderainhetwaterfalderalderierefalderaldera,CM,England,Trendyol Süper Lig,Çaykur Rizespor,400
+Nahuel Tenaglia,RB,Argentina,LALIGA EA SPORTS,D. Alavés,400
+Tarik Tissoudali,CF,Morocco,1A Pro League,KAA Gent,400
+Virginia Torrecilla Reyes,CDM,Spain,Liga F,Villarreal CF,400
+Cenk Tosun,ST,Turkey,Trendyol Süper Lig,Beşiktaş,400
+Adama Traoré,RW,Mali,Magyar Liga,Ferencvárosi TC,400
+Bertrand Traoré,RM,Burkina Faso,Premier League,Aston Villa,400
+Felix Uduokhai,CB,Germany,Bundesliga,FC Augsburg,450
+Michelle Ulbrich,CB,Germany,GPFBL,SV Werder Bremen,450
+Aurélio Buta,RM,Portugal,Bundesliga,Frankfurt,400
+Deniz Undav,ST,Germany,Bundesliga,VfB Stuttgart,450
+Mark Uth,CAM,Germany,Bundesliga,1. FC Köln,400
+Olivia Van der Jagt,CDM,United States,NWSL,OL Reign,400
+Maarten Vandevoordt,GK,Belgium,1A Pro League,KRC Genk,400
+Kevin Vázquez Comesaña,RB,Spain,LALIGA EA SPORTS,RC Celta,400
+Katrine Veje,LB,Denmark,Barclays WSL,Everton,500
+Alan Velasco,LM,Argentina,MLS,FC Dallas,450
+Alejo Veliz,ST,Argentina,Premier League,Spurs,450
+Bart Verbruggen,GK,Holland,Premier League,Brighton,450
+Domagoj Vida,CB,Croatia,Hellas Liga,AEK Athens,400
+Tonny Vilhena,CM,Holland,Hellas Liga,Panathinaikos,450
+Rodrigo Villagra,CDM,Argentina,LPF,Talleres,450
+Aline Villares Reis,GK,Brazil,Liga F,UDG Tenerife,700
+Lázaro Vinicius Marques,LM,Brazil,LALIGA EA SPORTS,UD Almería,400
+Shon Weissman,ST,Israel,LALIGA EA SPORTS,Granada CF,400
+Luisa Wensing,CB,Germany,GPFBL,SC Freiburg,450
+Aileen Whelan,CAM,England,Barclays WSL,Leicester City,400
+Ryan Williams,RB,United States,NWSL,NC Courage,400
+Harry Wilson,RM,Wales,Premier League,Fulham,400
+Chris Wood,ST,New Zealand,Premier League,Nott'm Forest,450
+Andriy Yarmolenko,RM,Ukraine,Ukrayina Liha,Dynamo Kyiv,400
+Ryan Yates,CDM,England,Premier League,Nott'm Forest,400
+Miha Zajc,CM,Slovenia,Trendyol Süper Lig,Fenerbahçe,400
+Edon Zhegrova,RM,Kosovo,Ligue 1 Uber Eats,LOSC Lille,400
+Adem Zorgane,CM,Algeria,1A Pro League,Sp. Charleroi,450
+Clément Grenier,CM,France,LALIGA HYPERMOTION,R. Racing Club,400
+Portu,RM,Spain,LALIGA EA SPORTS,Girona FC,450
+Samuel Castillejo Azuaga,RM,Spain,Serie A TIM,Sassuolo,450
+Divock Origi,ST,Belgium,Premier League,Nott'm Forest,400
+Federico Di Francesco,LW,Italy,Serie BKT,Palermo,400
+Serhiy Sydorchuk,CDM,Ukraine,1A Pro League,KVC Westerlo,400
+Tarek Hamed,CDM,Egypt,ROSHN Saudi League,Damac FC,400
+Jean-Ricner Bellegarde,CM,France,Premier League,Wolves,450
+Mama Samba Baldé,ST,Guinea-Bissau,Ligue 1 Uber Eats,OL,450
+Óscar Rodríguez Arnaiz,CM,Spain,LALIGA EA SPORTS,Getafe CF,450
+Boubakary Soumaré,CDM,France,LALIGA EA SPORTS,Sevilla FC,450
+Callum Hudson-Odoi,LW,England,Premier League,Nott'm Forest,400
+Eric García Martret,CB,Spain,LALIGA EA SPORTS,Girona FC,400
+Iván Jaime Pajuelo,LM,Spain,Liga Portugal,FC Porto,500
+Anton Stach,CM,Germany,Bundesliga,TSG Hoffenheim,700
+Emmanuel Dennis,ST,Nigeria,Trendyol Süper Lig,Başakşehir,400
+Jonjo Shelvey,CM,England,Trendyol Süper Lig,Çaykur Rizespor,400
+BlaShelveyalleeendjeszwemmeninhetwaterfalderalderierefalderalderainhetwaterfalderalderierefalderaldera,CM,England,Trendyol Süper Lig,Çaykur Rizespor,400
