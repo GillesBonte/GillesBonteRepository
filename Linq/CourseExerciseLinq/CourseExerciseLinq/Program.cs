@@ -6,10 +6,10 @@ using System.Runtime.CompilerServices;
 Courses courses = new Courses();
 IEnumerable<string> queryResult;
 //queryResult = MoreThanFifteen(courses);
-//queryResult = DayCourses(courses);
+queryResult = DayCourses(courses);
 //queryResult = CoursesPerTeacher(courses);
 //queryResult = AllCourses(courses);
-queryResult = CoursesPerPeriod(courses);
+//queryResult = CoursesPerPeriod(courses);
 
 foreach (string item in queryResult)
 {
@@ -18,24 +18,23 @@ foreach (string item in queryResult)
 
 Console.ReadLine();
 
-static IEnumerable<Course> MoreThanFifteen(Courses courses)
+static IEnumerable<string> MoreThanFifteen(Courses courses)
 {
+    return courses.Where(course => course.StudentCount >= 15).Select(course => course.ToString());
 
-    var result = from course in courses
-             where course.StudentCount >= 15
-             select course;
-
-    return result;
+    //return from course in courses
+    //       where course.StudentCount >= 15
+    //       select course.ToString();
 }
 
 static IEnumerable<string> DayCourses(Courses courses)
 {
+    return courses.Where(course => course.Periode.Equals(Course.Period.Day))
+        .Select(course => course.Room.ToString());
 
-    var result = from course in courses
-                 where course.Periode.Equals(Course.Period.Day)
-                 select $"{course}";
-
-    return result;
+    //return from course in courses
+    //       where course.Periode.Equals(Course.Period.Day)
+    //       select $"{course}";
 }
 
 static IEnumerable<string> CoursesPerTeacher(Courses courses)
