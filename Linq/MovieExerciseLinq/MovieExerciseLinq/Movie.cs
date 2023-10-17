@@ -14,7 +14,5 @@ namespace MovieExerciseLinq
         public string Director { get; set; }
         public DateTime ReleaseDate { get; set; }
     }
-    //Maak de klasse “Movie”
-    //Properties: Name, Producer, Rating, Director, ReleaseDate
 
 }
