@@ -12,13 +12,13 @@ namespace ChatProgramExamPrep
         private void btnLogin_Click(object sender, EventArgs e)
         {
             bool userExists = false;
+            UserManager userManager = new UserManager();
 
-            foreach (var item in File.ReadAllLines(Directory.GetCurrentDirectory() + "/Users.txt"))
+            foreach (User item in userManager)
             {
-                if (txtUsername.Text != "" && item.Contains(txtUsername.Text))
+                if (item.UserName == txtUsername.Text && item.Password == txtPassword.Text)
                 {
                     userExists = true;
-                    break;
                 }
             }
 
@@ -29,7 +29,7 @@ namespace ChatProgramExamPrep
             }
             else
             {
-                MessageBox.Show("User does not exist.");
+                MessageBox.Show("Account certification failed.");
             }
 
         }
