@@ -3,6 +3,7 @@ using ConsoleRepositoryEF.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,6 +12,12 @@ namespace ConsoleRepositoryEF.Repo
     public class RepoEF : IRepository
     {
         private PersonContext _pcController;
+
+        public RepoEF()
+        {
+            _pcController = new PersonContext();
+        }
+
         public void Create()
         {
             for (int i = 0; i < 10; i++)
@@ -24,6 +31,12 @@ namespace ConsoleRepositoryEF.Repo
                 _pcController.Persons.Add(p1);
                 _pcController.SaveChanges();
             }
+        }
+
+        public void AddPerson(Person person)
+        {
+            _pcController.Persons.Add(person);
+            _pcController.SaveChanges();
         }
 
         public void Delete()
@@ -45,8 +58,23 @@ namespace ConsoleRepositoryEF.Repo
 
         public void Update(Person person)
         {
-            //zoek person.id in lijst van personen
-            // pas de gevonden persoon aan tot de meegekregen persoon
+            foreach (Person item in _pcController.Persons)
+            {
+
+                if (item.Id == person.Id)
+                {
+                    item.FirstName = person.FirstName;
+                    item.LastName = person.LastName;
+                    item.Age = person.Age;
+                }
+
+            }
+
+        }
+
+        public void Update()
+        {
+            throw new NotImplementedException();
         }
     }
 
