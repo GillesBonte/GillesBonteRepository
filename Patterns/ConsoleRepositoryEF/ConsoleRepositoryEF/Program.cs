@@ -42,10 +42,7 @@ namespace ConsoleRepositoryEF
 
             jsonRepo.AddPerson(mystery);
 
-            foreach (Person person in jsonRepo.GetAll()) 
-            {
-                Console.WriteLine(person.FirstName);
-            }
+            ShowListOfPersons(jsonRepo.GetAll());
 
 
 
