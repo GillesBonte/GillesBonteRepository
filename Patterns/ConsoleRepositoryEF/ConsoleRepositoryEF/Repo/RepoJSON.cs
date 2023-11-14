@@ -16,7 +16,7 @@ namespace ConsoleRepositoryEF.Repo
 
         public RepoJSON()
         {
-            _jsonFile = Environment.CurrentDirectory + "\\Data\\persons.json";
+            _jsonFile = Environment.CurrentDirectory + "/Data/persons.json";
         }
 
         public void Create()
@@ -31,12 +31,14 @@ namespace ConsoleRepositoryEF.Repo
 
         public List<Person> GetAll()
         {
-            using StreamReader reader = new(_jsonFile);
-            string json = reader.ReadToEnd();
             List<Person> persons;
+
             try
             {
+                using StreamReader reader = new(_jsonFile);
+                string json = reader.ReadToEnd();
                 persons = JsonSerializer.Deserialize<List<Person>>(json);
+
             }
             catch (Exception)
             {

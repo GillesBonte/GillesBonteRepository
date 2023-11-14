@@ -14,24 +14,38 @@ namespace ConsoleRepositoryEF
         static void Main(string[] args)
         {
 
-            RepoEF repo = new RepoEF();
-            repo.Create();
-            Person mystery = new Person() {FirstName = "Lemmy", LastName = "Weirdo", Age = 0 };
-            repo.AddPerson(mystery);
-            Console.ReadLine();
-            mystery.Age = 100;
-            repo.Update(mystery);
-            ShowListOfPersons(repo.GetAll());
-            Console.Clear();
-            Console.ReadLine();
+            //RepoEF repo = new RepoEF();
+            //repo.Create();
+            Person mystery = new Person() 
+            {
+                FirstName = "Lemmy", 
+                LastName = "Weirdo", 
+                Age = 0 
+            };
+            //repo.AddPerson(mystery);
+            //Console.ReadLine();
+            //mystery.Age = 100;
+            //repo.Update(mystery);
+            //ShowListOfPersons(repo.GetAll());
+            //Console.Clear();
+            //Console.ReadLine();
 
-            IEnumerable<Person> lemmys = new List<Person>();
+            //IEnumerable<Person> lemmys = new List<Person>();
 
-            lemmys = from person in repo.GetAll()
-                     where person.FirstName == "Lemmy" 
-                     select person;
+            //lemmys = from person in repo.GetAll()
+            //         where person.FirstName == "Lemmy" 
+            //         select person;
 
-            ShowListOfPersons(lemmys);
+            //ShowListOfPersons(lemmys);
+
+            IRepository jsonRepo = new RepoJSON();
+
+            jsonRepo.AddPerson(mystery);
+
+            foreach (Person person in jsonRepo.GetAll()) 
+            {
+                Console.WriteLine(person.FirstName);
+            }
 
 
 

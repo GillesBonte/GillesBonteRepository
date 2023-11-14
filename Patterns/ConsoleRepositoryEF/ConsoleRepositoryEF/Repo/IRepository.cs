@@ -14,6 +14,8 @@ namespace ConsoleRepositoryEF.Repo
         void Update(Person person);
         void Delete();
 
+        void AddPerson(Person person);
+
     }
 
 }
