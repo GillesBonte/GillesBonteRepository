@@ -8,6 +8,8 @@ using ConsoleRepositoryEF.Models;
 
 namespace ConsoleRepositoryEF.DAL__Data_Access_Layer_
 {
+
+    //deze DAL is bij voorkeur een singleton
     public class PersonContext : DbContext
     {
         public PersonContext() : base("PersonDB")

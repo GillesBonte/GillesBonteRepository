@@ -9,10 +9,10 @@ namespace ConsoleRepositoryEF.Repo
 {
     public interface IRepository
     {
-        public void Create();
-        public List<Person> GetAll();
-        public void Update();
-        public void Delete();
+        void Create();
+        List<Person> GetAll();
+        void Update(Person person);
+        void Delete();
 
     }
 

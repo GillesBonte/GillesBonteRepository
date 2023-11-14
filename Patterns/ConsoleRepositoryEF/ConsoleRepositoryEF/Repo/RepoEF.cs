@@ -72,10 +72,6 @@ namespace ConsoleRepositoryEF.Repo
 
         }
 
-        public void Update()
-        {
-            throw new NotImplementedException();
-        }
     }
 
 }

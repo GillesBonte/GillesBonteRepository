@@ -28,7 +28,7 @@ namespace ConsoleRepositoryEF
             IEnumerable<Person> lemmys = new List<Person>();
 
             lemmys = from person in repo.GetAll()
-                     where person.FirstName == "Lemmy"
+                     where person.FirstName == "Lemmy" 
                      select person;
 
             ShowListOfPersons(lemmys);
