@@ -15,6 +15,7 @@ namespace CardGameBehavioralPatterrn.DAL
         }
 
         public DbSet<Minion> Minions { get; set;}
+        public DbSet<Spell> Spells { get; set;}
 
     }
 
