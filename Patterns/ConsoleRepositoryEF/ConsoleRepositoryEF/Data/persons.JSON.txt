@@ -1,0 +1,41 @@
+DoorControl
+-Asks UserInput  
+    - DoorNumber
+    - TokenId
+
+-Gives UserInput to Logic
+
+- receives Status Code
+
+
+DoorControl Logic
+- receives: DoorNumber & TokenId
+	-CRUD REP:
+	- Lijst integers doors (deuren)
+	- Lijst Tokens
+
+		- Klasse Token
+			- String
+			- Lijst integers AccessedDoors
+			- Geblokkeerd / Niet Geblokkeerd
+	
+	- Add Token
+	- Remove Token
+
+	- StatusRepo
+		try
+
+		- check of input token een hexadecimale waarde heeft
+			indien nee: throw InvalidArgumentException		
+
+		- check of token bestaat in de lijst met tokens
+			indien nee: return 22
+
+		- check of token geblokkeerd is
+			indien ja: return 21
+
+		- check of ingegeven deur in de lijst van toegangsdeuren van de token staat
+			indien ja: return 10
+			indien nee: return 20
+		catch
+			return 0

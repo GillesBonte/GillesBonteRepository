@@ -1,11 +1,14 @@
-﻿namespace DoorControl
+﻿using DoorControlLogic;
+namespace DoorControl
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            LoadMenu();
-            string result = Console.ReadKey().ToString();
+            Validation validation = new Validation();
+            int intResult = validation.GetStatus("1234", 0);
+            Console.WriteLine(intResult);
+            Console.ReadLine();
         }
 
         static void LoadMenu()
