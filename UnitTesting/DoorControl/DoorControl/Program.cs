@@ -5,8 +5,18 @@ namespace DoorControl
     {
         static void Main(string[] args)
         {
+            int intResult;
             Validation validation = new Validation();
-            int intResult = validation.GetStatus("1234", 0);
+            try
+            {
+                intResult = validation.GetStatus("B69G", 54);
+            }
+            catch (ArgumentException)
+            {
+
+                intResult = 0;
+            }
+
             Console.WriteLine(intResult);
             Console.ReadLine();
         }

@@ -15,8 +15,7 @@ namespace DoorControlLogic
         public int GetStatus(string tokenId, int doorNumber)
         {
             int intResult = 0;
-            try
-            {
+
                 Token usedToken = _repo.GetTokenById(tokenId);
                 if (!Regex.IsMatch(tokenId, "^[0-9a-fA-F]+$"))
                 {
@@ -38,11 +37,6 @@ namespace DoorControlLogic
                 {
                     intResult = 20;
                 }
-            }
-            catch (Exception)
-            {
-                return 0;
-            }
 
             return intResult;
         }
