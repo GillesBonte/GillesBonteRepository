@@ -37,6 +37,7 @@ namespace DoorControlLogic
                 AllowedDoors = new List<int> { 1, 24 },
                 Blocked = true
             }) ;
+            
         }
 
         //add Token

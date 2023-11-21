@@ -37,7 +37,7 @@ namespace DoorControlLogic
                 {
                     intResult = 20;
                 }
-
+                
             return intResult;
         }
     }
