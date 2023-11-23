@@ -53,5 +53,15 @@ namespace DoorControl
             LoadMenu();
         }
     }
-
 }
+
+
+
+    ///!
+    ///Models -> nieuwe project
+    ///Logic -> nieuw project
+    ///Repo -> nieuw project
+    ///view -> nieuw project 
+    ///
+    ///BL opsplitsen in Repo - Model - Logic
+    ///!

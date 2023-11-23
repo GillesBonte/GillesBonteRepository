@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoorControl", "DoorControl\DoorControl.csproj", "{EE727801-9CCE-47A2-B74D-F3D1C9E0B290}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControlLogic", "DoorControlLogic\DoorControlLogic.csproj", "{EC59CC1D-8141-4A40-917E-1E3742E1E07A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoorControlLogic", "DoorControlLogic\DoorControlLogic.csproj", "{EC59CC1D-8141-4A40-917E-1E3742E1E07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControlLogicTests", "DoorControlLogicTests\DoorControlLogicTests.csproj", "{ECC2EF1E-60C5-4830-9B4A-FD96BF061E5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EC59CC1D-8141-4A40-917E-1E3742E1E07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC59CC1D-8141-4A40-917E-1E3742E1E07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC59CC1D-8141-4A40-917E-1E3742E1E07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC2EF1E-60C5-4830-9B4A-FD96BF061E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC2EF1E-60C5-4830-9B4A-FD96BF061E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC2EF1E-60C5-4830-9B4A-FD96BF061E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC2EF1E-60C5-4830-9B4A-FD96BF061E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
