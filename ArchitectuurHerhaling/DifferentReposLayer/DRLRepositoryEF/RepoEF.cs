@@ -43,7 +43,8 @@ namespace DRLRepositoryEF
 
         void IRepo.Add(User user)
         {
-            throw new NotImplementedException();
+            _dbContext.Users.Add(user);
+            _dbContext.SaveChanges();
         }
 
         private User GetUserById(int id)

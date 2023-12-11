@@ -1,11 +1,11 @@
 ﻿using DRLRepositoryEF;
 using DRLUserModel;
 
-//IRepo dataRepo = new RepoEF();
-IRepo dataRepo = new RepoJSON();
+IRepo dataRepo = new RepoEF();
+//IRepo dataRepo = new RepoJSON();
 
 //Test Adding
-User nieuweUser = new User() { Id = 88, Name = "MVP", Function = "BOSS"};
+User nieuweUser = new User() { Id = 9, Name = "MVP", Function = "BOSS" };
 dataRepo.Add(nieuweUser);
 
 //Show All
