@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLayerUnitTest", "Multi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLayerUnitTestLogic", "MultiLayerUnitTestLogic\MultiLayerUnitTestLogic.csproj", "{6ADDCB91-7838-4A63-9019-B0626E70D44F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLayerUnitTestLogics", "MultiLayerUnitTestLogicTests\MultiLayerUnitTestLogics.csproj", "{C98D32F3-6BD8-493D-921E-2F3FF45927E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6ADDCB91-7838-4A63-9019-B0626E70D44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ADDCB91-7838-4A63-9019-B0626E70D44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ADDCB91-7838-4A63-9019-B0626E70D44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98D32F3-6BD8-493D-921E-2F3FF45927E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98D32F3-6BD8-493D-921E-2F3FF45927E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98D32F3-6BD8-493D-921E-2F3FF45927E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98D32F3-6BD8-493D-921E-2F3FF45927E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

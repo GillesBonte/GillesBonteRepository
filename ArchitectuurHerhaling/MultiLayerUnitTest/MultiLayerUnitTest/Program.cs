@@ -34,7 +34,7 @@ do
             break;
         case ConsoleKey.D5:
         case ConsoleKey.NumPad5:
-            Environment.Exit(0);
+            flagEnd = true;
             break;
 
     }
