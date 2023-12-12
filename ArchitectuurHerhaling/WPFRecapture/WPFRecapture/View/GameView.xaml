@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPFRecapture.View.GameView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFRecapture.View"
+        
+        xmlns:ViewModelA="clr-namespace:WPFRecapture.ViewModel"
+        mc:Ignorable="d"
+        Title="GameView" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox HorizontalAlignment="Left" Margin="36,10,0,0" TextWrapping="Wrap" Text="{Binding CurrentGame.Id, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="36,33,0,0" TextWrapping="Wrap" Text="{Binding CurrentGame.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="36,56,0,0" TextWrapping="Wrap" Text="{Binding CurrentGame.Genre, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="120"/>
+        <ListView Grid.Row="1" ItemsSource="{Binding Games}" SelectedItem="{Binding CurrentGame}" Name="lstGames">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="GameId" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                    <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding Genre}" Width="350"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
