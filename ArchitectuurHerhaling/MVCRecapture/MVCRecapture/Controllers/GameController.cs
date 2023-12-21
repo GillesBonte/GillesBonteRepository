@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using MVCRecapture.Models;
 
 namespace MVCRecapture.Controllers
@@ -23,6 +24,8 @@ namespace MVCRecapture.Controllers
         // GET: GameController/Create
         public ActionResult Create()
         {
+            GenreRepo genreRepo = new GenreRepo();
+            ViewBag.Genre = new SelectList(genreRepo.GetAll(),"Name", "Name", null,"Subgenre");
             return View();
         }
 
@@ -46,7 +49,9 @@ namespace MVCRecapture.Controllers
         public ActionResult Edit(int id)
         {
             GameRepo gameRepo = new GameRepo();
+            GenreRepo genreRepo = new GenreRepo();
 
+            ViewBag.Genre = new SelectList(genreRepo.GetAll(), "Name", "Name", "Null", "Subgenre");
             return View(gameRepo.GetById(id));
         }
 
