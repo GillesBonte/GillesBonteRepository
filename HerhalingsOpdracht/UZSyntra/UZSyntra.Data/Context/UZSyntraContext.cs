@@ -19,7 +19,7 @@ namespace UZSyntra.Data.Context
         public DbSet<Bed> Beds { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Intake> Intakes { get; set; }
-        public DbSet<Bed> Patients { get; set; }
-        public DbSet<Bed> Rooms { get; set; }
+        public DbSet<Patient> Patients { get; set; }
+        public DbSet<Room> Rooms { get; set; }
     }
 }
