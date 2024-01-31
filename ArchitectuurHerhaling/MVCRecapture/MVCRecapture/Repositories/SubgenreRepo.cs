@@ -1,6 +1,9 @@
-﻿namespace MVCRecapture.Models
+﻿using MVCRecapture.Interfaces;
+using MVCRecapture.Models;
+
+namespace MVCRecapture.Repositories
 {
-    public class SubgenreRepo
+    public class SubgenreRepo : IRepository<Subgenre>
     {
         public SubgenreRepo()
         {
@@ -15,7 +18,7 @@
             }
         }
 
-        public List<Subgenre> GetAll()
+        public IEnumerable<Subgenre> GetAll()
         {
             return Globals._subgenre;
         }
@@ -42,6 +45,11 @@
                 Globals._subgenre.Remove(toUpdate);
                 Globals._subgenre.Add(genre);
             }
+        }
+
+        void IRepository<Subgenre>.Add(Subgenre entity)
+        {
+            Globals._subgenre.Add(entity);
         }
     }
 }

@@ -2,30 +2,38 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MVCRecapture.Models;
+using MVCRecapture.Repositories;
 
 namespace MVCRecapture.Controllers
 {
+
     public class GameController : Controller
     {
+        private GameRepo _gameRepo;
+        private GenreRepo _genreRepo;
+
+        public GameController(GameRepo gameRepo, GenreRepo genreRepo)
+        {
+            _gameRepo = gameRepo;
+            _genreRepo = genreRepo;
+        }
+
         // GET: GameController
         public ActionResult Index()
         {
-            Models.GameRepo gameRepo = new Models.GameRepo();
-            return View(gameRepo.GetAll());
+            return View(_gameRepo.GetAll());
         }
 
         // GET: GameController/Details/5
         public ActionResult Details(int id)
         {
-            GameRepo gameRepo = new GameRepo();
-            return View(gameRepo.GetById(id));
+            return View(_gameRepo.GetById(id));
         }
 
         // GET: GameController/Create
         public ActionResult Create()
         {
-            GenreRepo genreRepo = new GenreRepo();
-            ViewBag.Genre = new SelectList(genreRepo.GetAll(),"Name", "Name", null,"Subgenre");
+            ViewBag.Genre = new SelectList(_genreRepo.GetAll(),"Name", "Name", null,"Subgenre");
             return View();
         }
 
@@ -36,8 +44,12 @@ namespace MVCRecapture.Controllers
         {
             try
             {
-                Globals._games.Add(game);
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    _gameRepo.Add(game);
+                    return RedirectToAction(nameof(Index));
+                }
+                return View();
             }
             catch
             {
@@ -48,11 +60,8 @@ namespace MVCRecapture.Controllers
         // GET: GameController/Edit/5
         public ActionResult Edit(int id)
         {
-            GameRepo gameRepo = new GameRepo();
-            GenreRepo genreRepo = new GenreRepo();
-
-            ViewBag.Genre = new SelectList(genreRepo.GetAll(), "Name", "Name", "Null", "Subgenre");
-            return View(gameRepo.GetById(id));
+            ViewBag.Genre = new SelectList(_genreRepo.GetAll(), "Name", "Name", "Null", "Subgenre");
+            return View(_gameRepo.GetById(id));
         }
 
         // POST: GameController/Edit/5
@@ -62,9 +71,7 @@ namespace MVCRecapture.Controllers
         {
             try
             {
-                GameRepo gameRepo = new GameRepo();
-                gameRepo.Update(game);
-
+                _gameRepo.Update(game);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -76,8 +83,7 @@ namespace MVCRecapture.Controllers
         // GET: GameController/Delete/5
         public ActionResult Delete(int id)
         {
-            GameRepo gameRepo = new GameRepo();
-            gameRepo.Delete(id);
+            _gameRepo.Delete(id);
             return RedirectToAction(nameof(Index));
         }
 

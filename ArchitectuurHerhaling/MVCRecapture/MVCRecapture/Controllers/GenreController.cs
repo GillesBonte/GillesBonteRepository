@@ -2,31 +2,41 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MVCRecapture.Models;
+using MVCRecapture.Repositories;
 
 namespace MVCRecapture.Controllers
 {
     public class GenreController : Controller
     {
+
+        private GenreRepo _genreRepo;
+        private SubgenreRepo _subgenreRepo;
+
+        public GenreController(GenreRepo genreRepo, SubgenreRepo subgenRepo)
+        {
+            _genreRepo = genreRepo;
+            _subgenreRepo = subgenRepo;
+        }
+
+
         // GET: GenreController
         public ActionResult Index()
         {
-            GenreRepo repo = new GenreRepo();
-            return View(repo.GetAll());
+            return View(_genreRepo.GetAll());
         }
 
         // GET: GenreController/Details/5
         public ActionResult Details(string name)
         {
-            GenreRepo repo = new GenreRepo();
-            return View(repo.GetByName(name));
+        
+            return View(_genreRepo.GetByName(name));
         }
 
         // GET: GenreController/Create
         public ActionResult Create()
         {
-            SubgenreRepo subgenreRepo = new SubgenreRepo();
 
-            ViewBag.Subgenre = new SelectList(subgenreRepo.GetAll(), "Name", "Name", "Null", "Name");
+            ViewBag.Subgenre = new SelectList(_subgenreRepo.GetAll(), "Name", "Name", "Null", "Name");
 
             return View();
         }
@@ -38,7 +48,7 @@ namespace MVCRecapture.Controllers
         {
             try
             {
-                Globals._genre.Add(genre);
+                _genreRepo.Add(genre);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -50,10 +60,8 @@ namespace MVCRecapture.Controllers
         // GET: GenreController/Edit/5
         public ActionResult Edit(string name)
         {
-            GenreRepo genre = new GenreRepo();
-            SubgenreRepo subgenreRepo = new SubgenreRepo();
-            ViewBag.Subgenre = new SelectList(subgenreRepo.GetAll(), "Name", "Name", "Null", "Name");
-            return View(genre.GetByName(name));
+            ViewBag.Subgenre = new SelectList(_subgenreRepo.GetAll(), "Name", "Name", "Null", "Name");
+            return View(_genreRepo.GetByName(name));
         }
 
         // POST: GenreController/Edit/5
@@ -63,8 +71,7 @@ namespace MVCRecapture.Controllers
         {
             try
             {
-                GenreRepo genreRepo = new GenreRepo();
-                genreRepo.Update(genre);
+                _genreRepo.Update(genre);
 
                 return RedirectToAction(nameof(Index));
             }
@@ -77,8 +84,7 @@ namespace MVCRecapture.Controllers
         // GET: GenreController/Delete/5
         public ActionResult Delete(string name)
         {
-            GenreRepo repo = new GenreRepo();
-            repo.Delete(name);
+            _genreRepo.Delete(name);
             return RedirectToAction(nameof(Index));
         }
 

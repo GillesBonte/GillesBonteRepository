@@ -1,7 +1,19 @@
+using MVCRecapture.Models;
+using MVCRecapture.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<GameRepo>();
+builder.Services.AddTransient<GenreRepo>();
+builder.Services.AddTransient<SubgenreRepo>();
+builder.Services.AddTransient<CounterTransient>();
+builder.Services.AddSingleton<CounterSingleton>();
+builder.Services.AddScoped<CounterScoped>();
+
+
+
 
 var app = builder.Build();
 

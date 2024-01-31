@@ -1,22 +1,68 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    background-color: antiquewhite !important;
+    margin-bottom: 60px;
 }
+
+.navbar {
+    background-color: antiquewhite !important;
+}
+
+
+.nav-link {
+    color: slategray !important;
+    font-weight: 1200;
+    font-size: xx-large;
+    border-style: solid;
+    margin-right: 4px;
+    padding-bottom: 0.00001em;
+    padding-top: 0.00001em;
+}
+
+.nav-link:hover{
+    color: black !important;
+}
+
+    .nav-link:hover::first-letter {
+        color: darkgreen !important;
+    }
+
+
+
+
+.nav-link::first-letter {
+    color:darkred !important;
+}
+
+.display-4 {
+font-size:15rem !important;
+}
+
+
+    /*.nav-link:after {
+        content: '|' ;
+        margin-left: 0.5em ;*/ /* Adjust spacing if needed */
+        /*margin-right: 0.5em ;
+        color: purple ;*/ /* Set the color of the separator */
+    /*}*/
+
+/*comments: . voor class # voor id (1 element) niks voor body/head
+!important toevoegen voor te overrulen*/
