@@ -1,0 +1,82 @@
+﻿@model IEnumerable<UZSyntra.Libraries.ViewModels.RoomViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}<h1>Index</h1><p><a asp-action="Create">Create New</a></p>
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxAmountBeds)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><span id="spanToggle_@item.Id" onclick="toggleBeds(@item.Id)"><i class="bi bi-dash"> </i></span></td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxAmountBeds)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>
+                    <table id="tableBeds_@item.Id" class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Bed number
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var bed in item.Beds)
+                            {
+                                <tr>
+                                    <td>
+                                        @bed.Number
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    function toggleBeds(roomId) {
+        $("#tableBeds_" + roomId).toggle();
+        if ($("#tableBeds_" + roomId).is(':visible')) {
+            $("#spanToggle_" + roomId).html("<i class='bi bi-dash'></i>");
+        }
+        else {
+            $("#spanToggle_" + roomId).html("<i class='bi bi-plus'></i>");
+        }
+    }
+</script>
